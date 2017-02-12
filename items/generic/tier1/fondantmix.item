@@ -1,0 +1,9 @@
+{
+  "itemName" : "fondantmix",
+  "rarity" : "Common",
+  "inventoryIcon" : "fondantmix.png",
+  "description" : "A sickly mixture of sugar, syrup and water. Needs boiling in 2-parts water",
+  "shortdescription" : "Fondant Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

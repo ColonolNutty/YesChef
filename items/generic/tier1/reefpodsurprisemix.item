@@ -1,0 +1,9 @@
+{
+  "itemName" : "reefpodsurprisemix",
+  "rarity" : "Common",
+  "inventoryIcon" : "reefpodsurprisemix.png",
+  "description" : "Boil in 2-parts water.",
+  "shortdescription" : "Reefpod Suprise Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

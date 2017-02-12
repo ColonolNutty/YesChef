@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "simmeredfishpiemix", "count" : 1 },
+	 { "item" : "mashedpotato", "count" : 1 }
+	
+  ],
+  "output" : { "item" : "rawfishpie", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+}

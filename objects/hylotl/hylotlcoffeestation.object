@@ -1,0 +1,39 @@
+{
+  "objectName" : "hylotlcoffeestation",
+  "retainObjectParametersInItem" : true,
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A compact coffee machine.",
+  "shortdescription" : "^orange;Hylotl Percolator^white;",
+  "subtitle" : "Brew Coffee!",
+  "race" : "generic",
+  "category" : "Cookware",
+  "price" : 75,
+  "objectType" : "container",
+
+  "apexDescription" : "Wood and glass, it's a nice combination. The coffee's good too!",
+  "avianDescription" : "Coffee seems to be everywhere these days",
+  "floranDescription" : "Floran eatsss beanss insstead..",
+  "glitchDescription" : "Observation. A compact coffee maker.",
+  "humanDescription" : "I knew a guy that had one of these. Filled it with green coffee. Found him in the woods two weeks later talking to squirrels.. odd..",
+  "hylotlDescription" : "I'll get used to the taste, shame it doesn't brew teas",
+
+  "inventoryIcon" : "hylotlcoffeestationicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "hylotlcoffeestation.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "recipeGroup" : "coffee",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 3,
+  "uiConfig" : "/interface/objectcrafting/coffeemachine.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

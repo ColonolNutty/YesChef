@@ -1,0 +1,10 @@
+{
+  "itemName" : "choppedrawfish",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "choppedrawfish.png",
+  "description" : "Diced fish. I can't eat it yet..",
+  "shortdescription" : "Raw Diced Fish",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

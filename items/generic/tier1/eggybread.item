@@ -1,0 +1,10 @@
+{
+  "itemName" : "eggybread",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "eggybread.png",
+  "description" : "Breadslice soaked in raw egg. Needs frying in oil before I can eat it.",
+  "shortdescription" : "Eggy Bread",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "simmeredcarrotsoupmix",
+  "rarity" : "Common",
+  "inventoryIcon" : "simmeredcarrotsoupmix.png",
+  "description" : "Simmered carrot soup mix. Blend with 1-part cream.",
+  "shortdescription" : "Simmered Carrot Soup Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

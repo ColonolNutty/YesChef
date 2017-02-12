@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "toast", "count" : 1 },
+{ "item" : "butter", "count" : 1 }
+  ],
+  "output" : { "item" : "butteredtoast", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+}

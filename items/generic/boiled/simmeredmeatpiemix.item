@@ -1,0 +1,10 @@
+{
+  "itemName" : "simmeredmeatpiemix",
+  "rarity" : "Common",
+  "inventoryIcon" : "simmeredmeatpiemix.png",
+  "description" : "Simmered meat pie mix ready for use.",
+  "shortdescription" : "Simmered Meatpie Mix",
+"learnBlueprintsOnPickup" : ["rawmeatpie"] ,
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

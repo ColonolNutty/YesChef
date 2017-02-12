@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ricepuddingmix", "count" : 1 },
+{ "item" : "milk", "count" : 1 }
+
+  ],
+  "output" : { "item" : "simmeredricepuddingmix", "count" : 1 },
+  "groups" : [ "boiling", "consumables", "foodhealing", "foodmobility" ]
+}

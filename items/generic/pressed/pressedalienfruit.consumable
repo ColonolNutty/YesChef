@@ -1,0 +1,18 @@
+{
+  "itemName" : "pressedalienfruit",
+  "rarity" : "Common",
+  "price" : 75,
+  "inventoryIcon" : "pressedalienfruit.png",
+  "description" : "Alienfruit pressed to a thick pulp",
+  "shortdescription" : "Pressed Alienfruit",
+  "category" : "food",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

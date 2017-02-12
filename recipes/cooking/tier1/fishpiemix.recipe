@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "cheese", "count" : 1 },
+	{ "item" : "butter", "count" : 2 },
+{ "item" : "choppedrawfish", "count" : 2 },
+{ "item" : "flourMFM", "count" : 2 },
+{ "item" : "choppedonion", "count" : 1 }
+      ],
+  "output" : { "item" : "fishpiemix", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables"]
+}

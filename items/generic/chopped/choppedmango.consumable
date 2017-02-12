@@ -1,0 +1,18 @@
+{
+  "itemName" : "choppedmango",
+  "rarity" : "Common",
+  "price" : 20,
+  "inventoryIcon" : "choppedmango.png",
+  "description" : "Washed, peeled and sliced!",
+  "shortdescription" : "Prepared Mango!",
+  "category" : "food",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

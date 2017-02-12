@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawfishpie",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawfishpie.png",
+  "description" : "Needs baking!",
+  "shortdescription" : "Raw Fishpie",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

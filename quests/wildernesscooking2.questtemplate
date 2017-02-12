@@ -1,0 +1,14 @@
+{
+  "id" : "wildernesscooking2.gearup",
+  "prerequisites" : [ "wildernesscooking1" ],
+  "title" : "^green;Cooking for Survival - II",
+  "text" : "The next readable chapter outlines preparing produce to eat. A slice of solid tree trunk will provide a surface to chop, peel and wash gathered produce. Need to find some wood to make a ^orange;Camp Chopblock^white;.",
+  "completionText" : "Sturdy enough and somewhat clean. Right, what's next..",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "campchopblock", "count" : 1, "consume" : false }
+  ],
+  "rewards" : [],
+  "moneyRange" : [10, 10],
+  "canBeAbandoned" : false,
+  "followUp" : "wildernesscooking3.gearup"
+}

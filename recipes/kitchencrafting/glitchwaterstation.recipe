@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 10 },
+    { "item" : "copperbar", "count" : 10 },
+{ "item" : "darkwoodmaterial", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "glitchwaterstation",
+    "count" : 1
+  },
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+}

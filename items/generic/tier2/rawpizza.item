@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawpizza",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawpizza.png",
+  "description" : "Needs baking!",
+  "shortdescription" : "Raw Pizza",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

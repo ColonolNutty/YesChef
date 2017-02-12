@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawbastedribmeat", "count" : 1 }
+  ],
+  "output" : { "item" : "stickyribs", "count" : 1 },
+  "groups" : [ "baking", "cooking", "consumables", "foodhealing", "foodhealthboost", "foodmobility" ]
+}

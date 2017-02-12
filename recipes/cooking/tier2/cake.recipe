@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "bakedcakemix", "count" : 1 },
+{ "item" : "vanillaicingMFM", "count" : 1 },
+{ "item" : "fondant", "count" : 1 }
+
+  ],
+  "output" : { "item" : "cake", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+}

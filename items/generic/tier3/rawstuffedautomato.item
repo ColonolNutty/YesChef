@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawstuffedautomato",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawstuffedautomato.png",
+  "description" : "Needs baking!",
+  "shortdescription" : "Raw Stuffed Automato",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

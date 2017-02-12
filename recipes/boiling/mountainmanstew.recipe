@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "mountainmanstewmix", "count" : 1 },
+	{ "item" : "liquidwater", "count" : 2 }
+      ],
+  "output" : { "item" : "mountainmanstew", "count" : 1 },
+  "groups" : [ "boiling", "consumables"]
+}

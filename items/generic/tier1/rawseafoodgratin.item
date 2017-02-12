@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawseafoodgratin",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawseafoodgratin.png",
+  "description" : "Needs Baking!",
+  "shortdescription" : "Raw Seafood Gratin",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

@@ -1,0 +1,18 @@
+{
+  "itemName" : "campguide",
+  "rarity" : "Legendary",
+"price" : 10,
+  "inventoryIcon" : "codexinhand.png",
+  "image" : "codex.png",
+
+  "shortdescription" : "^orange;Protectorate Camp Guide^white;",
+  "description" : "Standard issue. I haven't needed to refer to this in a long time..",
+  "consume" : false,
+
+  // Remember you can override this with parameters, no need for more than one
+  // unlock item
+  "tierRecipesUnlock" : "yescheftier1",
+  "unlockMessage" : "The guide is worn yet readable pages outline techniques to make cookware from the wilderness. If i'm going to survive I should probably get started before darkness falls..",
+"pickupQuestTemplates" : [ "wildernesscooking1.gearup" ]
+
+}

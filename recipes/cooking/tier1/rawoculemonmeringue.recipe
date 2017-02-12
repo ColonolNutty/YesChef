@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "shortcrustpastry", "count" : 1 },
+    { "item" : "creamfillingoculemon", "count" : 1 },
+    { "item" : "whippedcream", "count" : 1 }
+  ],
+  "output" : { "item" : "rawoculemonmeringue", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodhealthboost", "foodmobility" ]
+}

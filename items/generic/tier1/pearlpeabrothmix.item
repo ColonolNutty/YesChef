@@ -1,0 +1,10 @@
+{
+  "itemName" : "pearlpeabrothmix",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "pearlpeabrothmix.png",
+  "description" : "Broth mix. Needs boiling with 2-parts water.",
+  "shortdescription" : "Pearlpea Broth Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

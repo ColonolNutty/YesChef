@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawbeakseedtart",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawbeakseedtart.png",
+  "description" : "Needs baking!",
+  "shortdescription" : "Raw Beakseed Tart",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

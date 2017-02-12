@@ -1,0 +1,9 @@
+{
+  "itemName" : "creamfillingoculemon",
+  "rarity" : "Common",
+  "inventoryIcon" : "creamfillingoculemon.png",
+  "description" : "Oculemon cream filling. Ready for use",
+  "shortdescription" : "Oculemon Cream Filling",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

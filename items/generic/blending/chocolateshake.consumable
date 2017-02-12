@@ -1,0 +1,22 @@
+{
+  "itemName" : "chocolateshake",
+  "rarity" : "Common",
+  "price" : 25,
+  "inventoryIcon" : "chocolateshake.png",
+  "description" : "Chocolate milkshake. yum!",
+  "shortdescription" : "Chocolate Milkshake",
+  "handPosition" : [0, -4],
+  "emote" : "",
+  "category" : "food",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+
+}

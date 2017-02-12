@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "simmeredricepuddingmix", "count" : 1 }
+  ],
+  "output" : { "item" : "ricepudding", "count" : 1 },
+  "groups" : [ "baking", "consumables", "foodhealing", "foodmobility" ]
+}

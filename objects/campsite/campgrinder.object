@@ -1,0 +1,39 @@
+{
+  "objectName" : "campgrinder",
+  "retainObjectParametersInItem" : true,
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Two rocks and a bit of effort can grind up wheat and other things!",
+  "shortdescription" : "^orange;Camp Millstones^white;",
+  "subtitle" : "Grind Ingredients!",
+  "race" : "generic",
+  "category" : "Makeshift Cookware",
+  "price" : 75,
+  "objectType" : "container",
+
+  "apexDescription" : "Those rocks were heavy.",
+  "avianDescription" : "Useful!",
+  "floranDescription" : "Floran ssmassh!",
+  "glitchDescription" : "Observation. Basic stone rocks.",
+  "humanDescription" : "Makeshift food preparation. It'll do.",
+  "hylotlDescription" : "It works, I can't complain about that.",
+
+  "inventoryIcon" : "campgrinder.png",
+  "orientations" : [
+    {
+      "dualImage" : "campgrinder.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "recipeGroup" : "handmill",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/handmill.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

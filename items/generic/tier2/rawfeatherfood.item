@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawfeatherfood",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawfeatherfood.png",
+  "description" : "Needs baking!",
+  "shortdescription" : "Raw Featherfood",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

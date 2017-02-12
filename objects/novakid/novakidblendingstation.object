@@ -1,0 +1,78 @@
+{
+  "objectName" : "novakidblendingstation",
+  "rarity" : "Common",
+  "description" : "Blends with pressured steam!",
+  "objectType" : "container",
+  "shortdescription" : "^orange;Novakid Pressure Blender^white;",
+  "race" : "generic",
+  "subtitle" : "Blend and Juice!",
+  "category" : "Cookware",
+  "price" : 60,
+
+  "apexDescription" : "At least this one saves your fingers..",
+  "avianDescription" : "I hope the lid seals tight.",
+  "floranDescription" : "Sssteamy ssspinnny..",
+  "glitchDescription" : "Observation. Produce blender.",
+  "humanDescription" : "A few blends more!",
+  "hylotlDescription" : "Does the job.",
+
+  "inventoryIcon" : "novakidblendingstationicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "novakidblendingstation.png:<color>", "fullbright" : true }, { "image" : "novakidblendingstationlit.png:<color>" } ],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "novakidblendingstation.png:<color>", "fullbright" : true }, { "image" : "novakidblendingstationlit.png:<color>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+
+  ],
+
+    
+  "scripts" : [ "/scripts/npcToyObject.lua" ],
+  "npcToy" : {
+    "influence" : [
+      "watercoolerCollect",
+      "watercoolerConsume",
+      "watercoolerComplete"
+    ],
+    "defaultReactions" : {
+      "watercoolerCollect" : [
+        [1.0, "crouchcollect"]
+      ],
+      "watercoolerConsume" : [
+        [1.0, "drink"]
+      ],
+      "watercoolerComplete" : [
+        [1.0, "smile"],
+        [0.1, "vomit"]
+      ]
+    },
+    "preciseStandPositionLeft" : [-1.0, 0.0],
+    "preciseStandPositionRight" : [1.0, 0.0],
+    "maxNpcs" : 1
+  },
+"recipeGroup" : "blending",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 3,
+  "uiConfig" : "/interface/objectcrafting/blendstation.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

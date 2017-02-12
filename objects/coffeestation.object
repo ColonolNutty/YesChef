@@ -1,0 +1,77 @@
+{
+  "objectName" : "coffeestation",
+  "rarity" : "Common",
+  "description" : "Brews Coffee, sign your own cup.",
+  "objectType" : "container",
+  "shortdescription" : "^orange;Espresso Machine^white;",
+  "race" : "generic",
+  "subtitle" : "Brew Coffee!",
+  "category" : "Cookware",
+  "price" : 60,
+
+  "apexDescription" : "I'd wager you need to take a class just to operate it..",
+  "avianDescription" : "Mass produced bitter beverages.",
+  "floranDescription" : "Sssteamy..",
+  "glitchDescription" : "Observation. Wonder if it brews bolts?",
+  "humanDescription" : "I'm going to spell my own name wrong on the cup too!.",
+  "hylotlDescription" : "Es-what-now? How do you even work this thing?",
+
+  "inventoryIcon" : "coffeestationicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "coffeestation.png:<color>", "fullbright" : true }, { "image" : "coffeestationlit.png:<color>" } ],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "coffeestation.png:<color>", "fullbright" : true }, { "image" : "coffeestationlit.png:<color>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+
+  ],
+    
+  "scripts" : [ "/scripts/npcToyObject.lua" ],
+  "npcToy" : {
+    "influence" : [
+      "watercoolerCollect",
+      "watercoolerConsume",
+      "watercoolerComplete"
+    ],
+    "defaultReactions" : {
+      "watercoolerCollect" : [
+        [1.0, "crouchcollect"]
+      ],
+      "watercoolerConsume" : [
+        [1.0, "drink"]
+      ],
+      "watercoolerComplete" : [
+        [1.0, "smile"],
+        [0.1, "vomit"]
+      ]
+    },
+    "preciseStandPositionLeft" : [-1.0, 0.0],
+    "preciseStandPositionRight" : [1.0, 0.0],
+    "maxNpcs" : 1
+  },
+"recipeGroup" : "coffee",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 3,
+  "uiConfig" : "/interface/objectcrafting/coffeemachine.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

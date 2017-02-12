@@ -1,0 +1,10 @@
+{
+  "itemName" : "meatstewmix",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "meatstewmix.png",
+  "description" : "Stew mix. Needs boiling with 2-parts water.",
+  "shortdescription" : "Meat Stew Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

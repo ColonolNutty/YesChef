@@ -1,0 +1,9 @@
+{
+  "itemName" : "cactiicecreammix",
+  "rarity" : "Common",
+  "inventoryIcon" : "cactiicecreammix.png",
+  "description" : "Icecream mix. Needs freezing.",
+  "shortdescription" : "Cacti Icecream Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

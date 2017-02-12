@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "boiledpotato", "count" : 1 },
+	{ "item" : "milk", "count" : 1 },
+	{ "item" : "butter", "count" : 1 },
+	{ "item" : "saltMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "mashedpotato", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodhealthboost" ]
+}

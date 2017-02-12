@@ -1,0 +1,9 @@
+{
+  "itemName" : "pancakemix",
+  "rarity" : "Common",
+  "inventoryIcon" : "pancakemix.png",
+  "description" : "A sweet thick batter mix for pancakes.",
+  "shortdescription" : "Pancake Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

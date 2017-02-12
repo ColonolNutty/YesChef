@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "pressedpearlpea", "count" : 3 },
+	{ "item" : "sugar", "count" : 4 }
+      ],
+  "output" : { "item" : "pearlpeajammix", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables"]
+}

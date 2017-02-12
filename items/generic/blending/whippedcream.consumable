@@ -1,0 +1,22 @@
+{
+  "itemName" : "whippedcream",
+  "rarity" : "Common",
+  "price" : 25,
+  "inventoryIcon" : "whippedcream.png",
+  "description" : "Thick blended cream and sugar!",
+  "shortdescription" : "Whipped Cream",
+  "handPosition" : [0, -4],
+  "emote" : "",
+  "category" : "food",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+
+}

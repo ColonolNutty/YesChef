@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "fullwood1", "count" : 20 }
+
+  ],
+  "output" : { "item" : "campchopblock", "count" : 1 },
+  "groups" : [ "plain", "all", "other" ]
+}

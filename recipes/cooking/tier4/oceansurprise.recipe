@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "seaweed", "count" : 1 },
+    { "item" : "choppedreefpod", "count" : 1 },
+    { "item" : "choppedrawfish", "count" : 1 },
+    { "item" : "endomorphicjelly", "count" : 1 }
+  ],
+  "output" : { "item" : "oceansurprise", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+}

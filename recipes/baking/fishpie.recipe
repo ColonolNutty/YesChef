@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawfishpie", "count" : 1 }
+  ],
+  "output" : { "item" : "fishpie", "count" : 1 },
+  "groups" : [ "baking", "consumables", "foodhealing", "foodhealthboost" ]
+}

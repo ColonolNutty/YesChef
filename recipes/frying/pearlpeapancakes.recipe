@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "pearlpeapancakemix", "count" : 1 },
+    { "item" : "cookingoilMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "pearlpeapancakes", "count" : 1 },
+  "groups" : [ "frying", "consumables", "foodhealing" ]
+}

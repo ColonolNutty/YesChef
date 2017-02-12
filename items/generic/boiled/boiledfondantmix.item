@@ -1,0 +1,9 @@
+{
+  "itemName" : "boiledfondantmix",
+  "rarity" : "Common",
+  "inventoryIcon" : "boiledfondantmix.png",
+  "description" : "A hot melted mixture of sugar and syrup. Needs blending with butter.",
+  "shortdescription" : "Boiled Fondant Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "ricedough", "count" : 1 },
+{ "item" : "choppedalienmeat", "count" : 1 }
+  ],
+  "output" : { "item" : "rawmeatdumplings", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+}

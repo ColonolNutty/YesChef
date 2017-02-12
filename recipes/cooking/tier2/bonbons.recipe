@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "fondant", "count" : 1 }
+  ],
+  "output" : { "item" : "bonbons", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+}

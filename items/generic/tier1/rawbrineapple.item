@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawbrineapple",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawbrineapple.png",
+  "description" : "Coralcreep filled pineapple, covered in syrup. Needs baking.",
+  "shortdescription" : "Raw Brineapple",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

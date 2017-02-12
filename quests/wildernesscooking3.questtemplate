@@ -1,0 +1,13 @@
+{
+  "id" : "wildernesscooking3.gearup",
+  "prerequisites" : [ "wildernesscooking2" ],
+  "title" : "^green;Cooking for Survival - III",
+  "text" : "Now you have the means to grind and chop you can build a campfire to boil water. You'll need a source of water to boil with and a container that won't burn. Something you can fashion out of metal will suffice. Right, so I'll need a campfire and something metal to fashion a ^orange;Camp Fire Cookpot^white;.",
+  "completionText" : "Done! Hopefully it holds. It says to boil with usualy double the amount of liquid to produce. Makes sense.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "campfirecookpot", "count" : 1, "consume" : false }
+  ],
+  "rewards" : [],
+  "moneyRange" : [10, 10],
+  "canBeAbandoned" : false
+}

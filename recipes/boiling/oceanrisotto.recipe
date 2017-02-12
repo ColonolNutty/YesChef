@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "oceanrisottomix", "count" : 1 },
+    { "item" : "stockvegetable", "count" : 1 }
+    
+  ],
+  "output" : { "item" : "oceanrisotto", "count" : 1 },
+  "groups" : [ "boiling", "consumables", "foodhealing", "foodhealthboost", "foodenergyboost" ]
+}

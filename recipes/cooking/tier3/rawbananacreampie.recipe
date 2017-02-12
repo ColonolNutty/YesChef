@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "shortcrustpastry", "count" : 1 },
+{ "item" : "creamfillingbanana", "count" : 1 },
+{ "item" : "whippedcream", "count" : 1 }
+  ],
+  "output" : { "item" : "rawbananacreampie", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodenergyboost", "foodmobility" ]
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawoculemonmeringue", "count" : 1 }
+  ],
+  "output" : { "item" : "oculemonmeringue", "count" : 1 },
+  "groups" : [ "baking", "consumables", "foodhealing", "foodhealthboost", "foodmobility" ]
+}

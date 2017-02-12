@@ -1,0 +1,9 @@
+{
+  "itemName" : "snowconemix",
+  "rarity" : "Common",
+  "inventoryIcon" : "snowconemix.png",
+  "description" : "Snowcone mix. Needs freezing.",
+  "shortdescription" : "Snowcone Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

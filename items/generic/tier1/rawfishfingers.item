@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawfishfingers",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawfishfingers.png",
+  "description" : "Raw fish fingers in breadcrumbs. Need frying in some oil before I can eat them.",
+  "shortdescription" : "Raw Fish Fingers",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

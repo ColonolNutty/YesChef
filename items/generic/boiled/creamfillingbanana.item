@@ -1,0 +1,9 @@
+{
+  "itemName" : "creamfillingbanana",
+  "rarity" : "Common",
+  "inventoryIcon" : "creamfillingbanana.png",
+  "description" : "Banana cream filling. Ready for use",
+  "shortdescription" : "Banana Cream Filling",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

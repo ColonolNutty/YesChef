@@ -1,0 +1,18 @@
+{
+  "itemName" : "choppedradish",
+  "rarity" : "Common",
+  "price" : 20,
+  "inventoryIcon" : "choppedradish.png",
+  "description" : "Washed, chopped and sliced!",
+  "shortdescription" : "Prepared Radish!",
+  "category" : "food",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

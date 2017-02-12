@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "bakedcarrotcakemix", "count" : 1 },
+    { "item" : "vanillaicingMFM", "count" : 1 },
+    { "item" : "fondant", "count" : 1 }
+  ],
+  "output" : { "item" : "carrotcake", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+}

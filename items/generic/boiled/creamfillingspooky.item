@@ -1,0 +1,9 @@
+{
+  "itemName" : "creamfillingspooky",
+  "rarity" : "Common",
+  "inventoryIcon" : "creamfillingspooky.png",
+  "description" : "Spooky Cream Filling. Ready for use.",
+  "shortdescription" : "Spooky Cream Filling",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

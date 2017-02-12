@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "shortcrustpastry", "count" : 1 },
+{ "item" : "choppedpussplum", "count" : 4 },
+{ "item" : "sugar", "count" : 4 }
+  ],
+  "output" : { "item" : "rawpussplumtart", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+}

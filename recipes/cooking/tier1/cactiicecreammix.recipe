@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "cactusjuice", "count" : 1 },
+	{ "item" : "creamMFM", "count" : 2 },
+     { "item" : "sugar", "count" : 4 }
+      ],
+  "output" : { "item" : "cactiicecreammix", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables"]
+}

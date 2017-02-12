@@ -1,0 +1,55 @@
+{
+  "objectName" : "bakingstation",
+  "retainObjectParametersInItem" : true,
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An Oven! I can bake, roast and dry with this!",
+  "shortdescription" : "^orange;Oven^white;",
+  "subtitle" : "Bake, Roast and Dry!",
+  "race" : "generic",
+  "category" : "Cookware",
+  "price" : 75,
+  "objectType" : "container",
+
+  "apexDescription" : "It's an oven, the label reads Corden Jamsey Limited Edition.",
+  "avianDescription" : "Who is Corden Jamsey anyway?",
+  "floranDescription" : "Hot box. Floran not sssleep in.",
+  "glitchDescription" : "Admiration. Fit for a king!",
+  "humanDescription" : "It even cleans itself! What a time to be alive!",
+  "hylotlDescription" : "Limited Edition? Wonder how many were made.",
+
+  "inventoryIcon" : "bakingstationicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "bakingstation.png:<color>", "fullbright" : true }, { "image" : "bakingstationlit.png:<color>" } ],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "bakingstation.png:<color>", "fullbright" : true }, { "image" : "bakingstationlit.png:<color>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+
+  ],
+
+  "recipeGroup" : "baking",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/bakestation.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

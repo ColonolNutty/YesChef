@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "chocolate", "count" : 1 },
+{ "item" : "milk", "count" : 2 }
+
+  ],
+  "output" : { "item" : "chocolateshake", "count" : 1 },
+  "groups" : [ "blending", "consumables", "foodhealing","all" ]
+}

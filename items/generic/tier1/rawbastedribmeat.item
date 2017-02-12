@@ -1,0 +1,10 @@
+{
+  "itemName" : "rawbastedribmeat",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "rawbastedribmeat.png",
+  "description" : "Raw Ribs drenched in syrup.",
+  "shortdescription" : "Raw Basted Ribs",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

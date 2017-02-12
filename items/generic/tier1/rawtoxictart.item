@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawtoxictart",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawtoxictart.png",
+  "description" : "Needs baking.",
+  "shortdescription" : "Raw Toxic Tart",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

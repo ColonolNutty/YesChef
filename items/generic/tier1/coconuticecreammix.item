@@ -1,0 +1,9 @@
+{
+  "itemName" : "coconuticecreammix",
+  "rarity" : "Common",
+  "inventoryIcon" : "coconuticecreammix.png",
+  "description" : "Icecream mix. Needs freezing.",
+  "shortdescription" : "Coconut Icecream Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

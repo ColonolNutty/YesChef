@@ -1,0 +1,10 @@
+{
+  "itemName" : "bakedchocolatecakemix",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "bakedchocolatecakemix.png",
+  "description" : "Fluffy, risen cake mix. Needs decorating.",
+  "shortdescription" : "Baked Chocolate Cake Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

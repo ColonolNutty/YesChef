@@ -1,0 +1,58 @@
+{
+  "objectName" : "outpostmicrowave",
+  "tags" : ["outpost","cooking"],
+  "rarity" : "Common",
+  "description" : "A microwave. For when you're hungry enough to nuke your food.",
+  "shortdescription" : "Outpost Microwave",
+  "subtitle" : "Microwave cooking.",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 70,
+  "objectType" : "container",
+  "lightColor" : [16, 23, 26],
+
+  "apexDescription" : "A strange type of oven.",
+  "avianDescription" : "A bizarre cooking device.",
+  "floranDescription" : "Floran dry pet in microwave. Floran prompt new sssafety guidelines.",
+  "glitchDescription" : "Amusement. It appears someone cooked a pizza in here last.",
+  "humanDescription" : "A microwave. Gotta get me some jacket potatoes.",
+  "hylotlDescription" : "A strange, spinning oven.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "outpostmicrowaveleft.png:<color>.<frame>", "fullbright" : true }, { "image" : "outpostmicrowaveleftlit.png:<color>.<frame>" } ],
+      "direction" : "left",
+      "lightPosition" : [0, 0],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 1,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "imageLayers" : [ { "image" : "outpostmicrowaveright.png:<color>.<frame>", "fullbright" : true }, { "image" : "outpostmicrowaverightlit.png:<color>.<frame>" } ],
+      "direction" : "right",
+      "lightPosition" : [0, 0],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 1,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "recipeGroup" : "baking",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/bakestation.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

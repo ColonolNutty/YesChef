@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "choppedoculemon", "count" : 3 },
+{ "item" : "choppedpussplum", "count" : 3 },
+{ "item" : "sugar", "count" : 4 }
+
+  ],
+  "output" : { "item" : "cyanidermix", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing","all" ]
+}

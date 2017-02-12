@@ -1,0 +1,10 @@
+{
+  "itemName" : "oceansalsamix",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "oceansalsamix.png",
+  "description" : "Salsa mix. Needs blending with vinegar.",
+  "shortdescription" : "Ocean Salsa Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

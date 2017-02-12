@@ -1,0 +1,21 @@
+{
+  "itemName" : "freshpopcorn",
+  "rarity" : "Common",
+  "price" : 75,
+  "inventoryIcon" : "freshpopcorn.png",
+  "description" : "Popcorn, so glad we saved this stuff",
+  "shortdescription" : "Popcorn",
+  "effects" : [ [ "regeneration3"
+ 
+  ] ],
+  "category" : "food",
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

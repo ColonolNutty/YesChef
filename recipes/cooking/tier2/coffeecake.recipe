@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "bakedcakemix", "count" : 1 },
+    { "item" : "fondant", "count" : 1 },
+    { "item" : "coffeeicing", "count" : 1 }
+
+  ],
+  "output" : { "item" : "coffeecake", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "porridgemix",
+  "rarity" : "Common",
+  "inventoryIcon" : "porridgemix.png",
+  "description" : "Needs boiling in 1-part Milk!",
+  "shortdescription" : "Porridge Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

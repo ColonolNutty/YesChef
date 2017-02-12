@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 5 },
+    { "item" : "copperbar", "count" : 5 },
+{ "item" : "glassmaterial", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "hylotlfreezingstation",
+    "count" : 1
+  },
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+}

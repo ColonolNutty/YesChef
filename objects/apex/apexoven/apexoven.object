@@ -1,0 +1,43 @@
+{
+  "objectName" : "apexoven",
+  "tags" : ["apex","apexvillage","cooking"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "category" : "crafting",
+  "price" : 90,
+  "description" : "What's for dessert? Banana cream pie? Banana nut bread? Banana muffins?",
+  "shortdescription" : "Retro Oven",
+  "race" : "apex",
+
+  "maximumLiquidLevel" : 0.2,
+
+  "apexDescription" : "A simple oven, just about suitable for heating food.",
+  "avianDescription" : "A device for heating food. I can cook here.",
+  "floranDescription" : "Fire make food extra tasssty.",
+  "glitchDescription" : "Hungry. Cooking device identified.",
+  "humanDescription" : "A gas oven. I've never used one.",
+  "hylotlDescription" : "We can quickly heat food here.",
+
+  "statusEffects" : [ ],
+
+  "inventoryIcon" : "apexovenicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "apexoven.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+  "recipeGroup" : "baking",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/bakestation.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

@@ -1,0 +1,18 @@
+{
+  "itemName" : "pressedkiwi",
+  "rarity" : "Common",
+  "price" : 75,
+  "inventoryIcon" : "pressedkiwi.png",
+  "description" : "Kiwi pressed to a thick pulp",
+  "shortdescription" : "Pressed Kiwi",
+  "category" : "food",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawmeatpatty",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawmeatpatty.png",
+  "description" : "A meat patty. Needs frying in oil before I can eat it..",
+  "shortdescription" : "Raw Meat Patty",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

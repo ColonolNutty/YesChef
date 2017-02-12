@@ -1,0 +1,10 @@
+{
+  "itemName" : "toxictopjammix",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "toxictopjammix.png",
+  "description" : "Needs boiling in 2-parts water.",
+  "shortdescription" : "Toxictop Jam Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

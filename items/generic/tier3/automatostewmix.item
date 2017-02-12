@@ -1,0 +1,9 @@
+{
+  "itemName" : "automatostewmix",
+  "rarity" : "Common",
+  "inventoryIcon" : "automatostewmix.png",
+  "description" : "Needs boiling in 1-part vegetable stock.",
+  "shortdescription" : "Automato Stew Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

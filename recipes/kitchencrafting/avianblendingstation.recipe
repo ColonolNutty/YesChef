@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "clay", "count" : 10 },
+    { "item" : "copperbar", "count" : 10 },
+{ "item" : "glassmaterial", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "avianblendingstation",
+    "count" : 1
+  },
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+}

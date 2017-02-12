@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "choppedstrawberry", "count" : 2 },
+	{ "item" : "limejuiceMFM", "count" : 1 },
+{ "item" : "lemonjuiceMFM", "count" : 1 },
+     { "item" : "sugar", "count" : 4 }
+      ],
+  "output" : { "item" : "snowconemix", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables"]
+}

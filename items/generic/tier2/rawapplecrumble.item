@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawapplecrumble",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawapplecrumble.png",
+  "description" : "Needs baking!",
+  "shortdescription" : "Raw Apple Crumble",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

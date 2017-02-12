@@ -1,0 +1,57 @@
+{
+  "objectName" : "avianfreezingstation",
+  "retainObjectParametersInItem" : true,
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Regulated chest freezer!",
+  "shortdescription" : "^orange;Avian Freezer^white;",
+  "subtitle" : "Freeze and Chill!",
+  "race" : "generic",
+  "category" : "Cookware",
+  "price" : 75,
+  "objectType" : "container",
+
+  "apexDescription" : "Like a small fridge, but colder.",
+  "avianDescription" : "The only way to keep anything cold during the hot days..",
+  "floranDescription" : "Floran notss sleepss in..",
+  "glitchDescription" : "Inspect. Chest coldbox.",
+  "humanDescription" : "Really could go for an icecream..",
+  "hylotlDescription" : "Remains cold on hot days, ideal!",
+
+  "inventoryIcon" : "avianfreezingstationicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "avianfreezingstation.png:<color>.<frame>", "fullbright" : true }, { "image" : "avianfreezingstationlit.png:<color>.<frame>" } ],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "avianfreezingstation.png:<color>.<frame>", "fullbright" : true }, { "image" : "avianfreezingstationlit.png:<color>.<frame>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+
+  ],
+
+
+
+  "recipeGroup" : "freezing",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/freezestation.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

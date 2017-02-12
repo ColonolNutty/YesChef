@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "basiccreamfilling", "count" : 1 },
+	{ "item" : "choppedbanana", "count" : 1 }
+      ],
+  "output" : { "item" : "creamfillingbanana", "count" : 1 },
+  "groups" : [ "boiling", "consumables"]
+}

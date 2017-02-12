@@ -1,0 +1,39 @@
+{
+  "objectName" : "aviancoffeestation",
+  "retainObjectParametersInItem" : true,
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A fine cast coffeepot!",
+  "shortdescription" : "^orange;Avian Coffeepot^white;",
+  "subtitle" : "Brew Coffee!",
+  "race" : "generic",
+  "category" : "Cookware",
+  "price" : 75,
+  "objectType" : "container",
+
+  "apexDescription" : "Coffee is becoming widespread, I wonder how long before Big Ape stops that..",
+  "avianDescription" : "Fantastic, full bodied..",
+  "floranDescription" : "Floran mixess blood inss..",
+  "glitchDescription" : "Observation. A delicatley cast coffeepot.",
+  "humanDescription" : "Oh! Any dates? Good dates.. not bad dates..",
+  "hylotlDescription" : "I'll try it..",
+
+  "inventoryIcon" : "aviancoffeestationicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "aviancoffeestation.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "recipeGroup" : "coffee",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 3,
+  "uiConfig" : "/interface/objectcrafting/coffeemachine.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

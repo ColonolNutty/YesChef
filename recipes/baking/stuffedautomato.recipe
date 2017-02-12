@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawstuffedautomato", "count" : 1 }
+  ],
+  "output" : { "item" : "stuffedautomato", "count" : 1 },
+  "groups" : [ "baking", "consumables", "foodhealing" ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "meatpiemix",
+  "rarity" : "Common",
+  "inventoryIcon" : "meatpiemix.png",
+  "description" : "Needs boiling in 2-Parts water.",
+  "shortdescription" : "Meatpie Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

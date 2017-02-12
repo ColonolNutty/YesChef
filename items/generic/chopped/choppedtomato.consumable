@@ -1,0 +1,18 @@
+{
+  "itemName" : "choppedtomato",
+  "rarity" : "Common",
+  "price" : 20,
+  "inventoryIcon" : "choppedtomato.png",
+  "description" : "Wahsed, chopped and sliced!",
+  "shortdescription" : "Prepared Tomato!",
+  "category" : "food",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

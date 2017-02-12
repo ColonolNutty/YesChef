@@ -1,0 +1,9 @@
+{
+  "itemName" : "simmeredtomatosoupmix",
+  "rarity" : "Common",
+  "inventoryIcon" : "simmeredtomatosoupmix.png",
+  "description" : "Simmered Tomato soup mix. Blend with 1-part cream.",
+  "shortdescription" : "Simmered Tomato Soup Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

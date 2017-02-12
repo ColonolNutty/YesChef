@@ -1,0 +1,9 @@
+{
+  "itemName" : "formedricecake",
+  "rarity" : "Common",
+  "inventoryIcon" : "formedricecake.png",
+  "description" : "Rice and Seaweed. Needs drying.",
+  "shortdescription" : "Formed Ricecake",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

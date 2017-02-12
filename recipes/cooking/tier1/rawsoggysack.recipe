@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "coralcreep", "count" : 1 },
+{ "item" : "choppeddirturchin", "count" : 1 }
+
+  ],
+  "output" : { "item" : "rawsoggysack", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "pearlpeapancakemix",
+  "rarity" : "Common",
+  "inventoryIcon" : "pearlpeapancakemix.png",
+  "description" : "A sweet thick batter mix for pancakes with added pearlpeas.",
+  "shortdescription" : "Pearlpea Pancake Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

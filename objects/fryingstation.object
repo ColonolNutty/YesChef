@@ -1,0 +1,79 @@
+{
+  "objectName" : "frystation",
+  "retainObjectParametersInItem" : true,
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "I can fry food with this!",
+  "shortdescription" : "^orange;Frying Pan^white;",
+  "subtitle" : "Fry Food!",
+  "race" : "generic",
+  "category" : "Cookware",
+  "price" : 75,
+  "objectType" : "container",
+
+  "apexDescription" : "Yes Chef?.. I don't get it..",
+  "avianDescription" : "Nonstick and heavy.",
+  "floranDescription" : "Floran hitss rabbit with fryingpanss..",
+  "glitchDescription" : "Wonder. I wonder if it's nonstick",
+  "humanDescription" : "Yes Chef!",
+  "hylotlDescription" : "What's michelin grade?",
+
+  "inventoryIcon" : "fryingstationicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "fryingstation.png:<color>.<frame>", "fullbright" : true }, { "image" : "fryingstationlit.png:<color>.<frame>" } ],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "fryingstation.png:<color>.<frame>", "fullbright" : true }, { "image" : "fryingstationlit.png:<color>.<frame>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+
+  ],
+
+"particleEmitter" : {
+    "emissionRate" : 2.0,
+    "emissionVariance" : 1.0,
+
+    "particle" : {
+      "type" : "ember",
+      "position" : [0.0, 0.5],
+      "size" : 1.0,
+      "color" : [249, 162, 57, 255],
+      "fade" : 0.2,
+      "initialVelocity" : [0.0, 4.0],
+      "finalVelocity" : [0.0, -1.0],
+      "approach" : [0, 20],
+      "timeToLive" : 0.8,
+      "layer" : "back"
+    },
+
+    "particleVariance" : {
+      "initialVelocity" : [-1.0, 0.4],
+      "position" : [0.6, 0]
+    }
+  },
+
+
+  "recipeGroup" : "frying",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 3,
+  "uiConfig" : "/interface/objectcrafting/frystation.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

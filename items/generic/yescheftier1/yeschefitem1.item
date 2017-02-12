@@ -1,0 +1,9 @@
+{
+  "itemName" : "yeschefitem1",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "blank.png",
+  "description" : "strange..",
+  "shortdescription" : "Camp Recipes",
+    "effects" : [ [    ] ]
+}

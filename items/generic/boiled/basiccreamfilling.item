@@ -1,0 +1,9 @@
+{
+  "itemName" : "basiccreamfilling",
+  "rarity" : "Common",
+  "inventoryIcon" : "basiccreamfilling.png",
+  "description" : "Cream Filling. Add another ingredient to the boil to give it flavour.",
+  "shortdescription" : "Basic Cream Filling",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

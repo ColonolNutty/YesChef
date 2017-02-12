@@ -1,0 +1,41 @@
+{
+  "objectName" : "juicekeg",
+  "tags" : ["glitch","glitchvillage"],
+  "rarity" : "Common",
+  "description" : "A keg full of... juice. Mmm, juice.",
+  "shortdescription" : "Juice Keg",
+  "race" : "glitch",
+  "category" : "crafting",
+  "price" : 60,
+"objectType" : "container",
+
+
+  "apexDescription" : "A keg that smells of juice. Sadly not banana juice.",
+  "avianDescription" : "A sweet-smelling barrel filled with liquid.",
+  "floranDescription" : "Hsss barrel sssmell of dissgussting juicess.",
+  "glitchDescription" : "Observation. These juice kegs commonly appear in Glitch inns.",
+  "humanDescription" : "A keg. Sadly it's only full of juice.",
+  "hylotlDescription" : "The liquid inside smells wonderful.",
+
+  "inventoryIcon" : "juicekegicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "juicekeg.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+"recipeGroup" : "juicekeg",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/fillstation.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rawsoggysack", "count" : 1 },
+{ "item" : "vinegarMSM", "count" : 1 }
+  ],
+  "output" : { "item" : "soggysack", "count" : 1 },
+  "groups" : [ "boiling", "consumables", "foodhealing" ]
+}

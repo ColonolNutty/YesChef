@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "boiledcarrot", "count" : 4 },
+    { "item" : "choppedbanana", "count" : 4 }
+  ],
+  "output" : { "item" : "luckydip", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodenergyboost" ]
+}

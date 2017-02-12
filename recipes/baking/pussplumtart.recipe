@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawpussplumtart", "count" : 1 }
+  ],
+  "output" : { "item" : "pussplumtart", "count" : 1 },
+  "groups" : [ "baking", "consumables", "foodhealing", "foodmobility" ]
+}

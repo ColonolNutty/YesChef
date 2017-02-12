@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "choppedtomato", "count" : 4 },
+{ "item" : "choppedonion", "count" : 1 },
+{ "item" : "choppedgarlic", "count" : 1 },
+{ "item" : "saltMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "tomatosoupmix", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+}

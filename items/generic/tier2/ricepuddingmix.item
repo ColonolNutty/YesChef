@@ -1,0 +1,9 @@
+{
+  "itemName" : "ricepuddingmix",
+  "rarity" : "Common",
+  "inventoryIcon" : "ricepuddingmix.png",
+  "description" : "Needs boiling in 1-part Milk!",
+  "shortdescription" : "Rice Pudding Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

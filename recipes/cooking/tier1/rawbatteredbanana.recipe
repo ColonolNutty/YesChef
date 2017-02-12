@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "cakemix", "count" : 1 },
+    { "item" : "banana", "count" : 1 }
+  ],
+  "output" : { "item" : "rawbatteredbanana", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodenergyboost" ]
+}

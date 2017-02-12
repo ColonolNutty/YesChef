@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawmeatdumplings",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawmeatdumplings.png",
+  "description" : "A meat dumpling. Needs boiling before I can eat it..",
+  "shortdescription" : "Raw Meat Dumplings",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

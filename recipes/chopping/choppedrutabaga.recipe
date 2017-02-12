@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rutabagaMFM", "count" : 1 }
+      ],
+  "output" : { "item" : "choppedrutabaga", "count" : 1 },
+  "groups" : [ "chopping", "consumables"]
+}

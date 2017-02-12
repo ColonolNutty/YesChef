@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "choppedkiwi", "count" : 1 },
+{ "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "kiwijuice", "count" : 1 },
+  "groups" : [ "blending", "consumables", "foodmobility" ]
+}

@@ -1,0 +1,18 @@
+{
+  "itemName" : "rawfishinabone",
+  "rarity" : "Common",
+  "price" : 75,
+  "inventoryIcon" : "rawfishinabone.png",
+  "description" : "Chopped fish stuffed in a boneboo. Needs baking.",
+  "shortdescription" : "Raw Fish in a Bone",
+  "category" : "food",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

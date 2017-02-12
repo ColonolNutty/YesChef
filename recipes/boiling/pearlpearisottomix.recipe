@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "rice", "count" : 2 },
+    { "item" : "pearlpea", "count" : 2 },
+    { "item" : "choppedonion", "count" : 1 },
+    { "item" : "butter", "count" : 1 }
+
+
+  ],
+  "output" : { "item" : "pearlpearisotto", "count" : 1 },
+  "groups" : [ "boiling", "consumables", "foodhealing" ]
+}

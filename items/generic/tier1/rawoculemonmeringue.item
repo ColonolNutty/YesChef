@@ -1,0 +1,10 @@
+{
+  "itemName" : "rawoculemonmeringue",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "rawoculemonmeringue.png",
+  "description" : "Needs Baking.",
+  "shortdescription" : "Raw Oculemon Meringue",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

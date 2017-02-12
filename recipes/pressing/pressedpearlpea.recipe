@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "pearlpea", "count" : 1 }
+
+  ],
+  "output" : { "item" : "pressedpearlpea", "count" : 1 },
+  "groups" : [ "handpress", "all", "other" ]
+}

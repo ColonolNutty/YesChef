@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "cactiicecreammix", "count" : 1 }
+ ],
+  "output" : { "item" : "cactiicecream", "count" : 1 },
+  "groups" : [ "freezing", "consumables", "foodhealing", "foodmobility", "foodother" ]
+}

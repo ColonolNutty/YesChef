@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawchips",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawchips.png",
+  "description" : "Thick cut raw chips. Need frying in some oil before I can eat them.",
+  "shortdescription" : "Raw Thick Cut Chips",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

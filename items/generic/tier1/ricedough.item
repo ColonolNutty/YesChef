@@ -1,0 +1,9 @@
+{
+  "itemName" : "ricedough",
+  "rarity" : "Common",
+  "inventoryIcon" : "ricedough.png",
+  "description" : "Rice flour and water. Kneeded and rolled.",
+  "shortdescription" : "Rice Dough",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

@@ -1,0 +1,22 @@
+{
+  "itemName" : "mountainmanstew",
+  "rarity" : "Common",
+  "price" : 20,
+  "inventoryIcon" : "mountainmanstew.png",
+  "description" : "A hearty mountainman meal that fills the boots!",
+  "shortdescription" : "Mountainman Stew",
+  "effects": [[{"effect" : "regeneration1"},
+		    {"effect" : "maxenergyboost50"}
+		   ]],
+  "category" : "food",
+  "foodValue" : 50,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+
+}

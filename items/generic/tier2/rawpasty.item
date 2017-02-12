@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawpasty",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawpasty.png",
+  "description" : "Needs baking!",
+  "shortdescription" : "Raw Pasty",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

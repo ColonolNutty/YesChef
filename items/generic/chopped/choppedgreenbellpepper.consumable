@@ -1,0 +1,18 @@
+{
+  "itemName" : "choppedgreenbellpepper",
+  "rarity" : "Common",
+  "price" : 20,
+  "inventoryIcon" : "choppedgreenbellpepper.png",
+  "description" : "Washed, chopped, peeled and sliced!",
+  "shortdescription" : "Prepared Green Bellpepper!",
+  "category" : "food",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

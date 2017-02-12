@@ -1,0 +1,21 @@
+{
+  "itemName" : "pancakes",
+  "rarity" : "Common",
+  "price" : 20,
+  "inventoryIcon" : "pancakes.png",
+  "description" : "Light, fluffy and moreish!",
+  "shortdescription" : "Pancakes",
+  "effects": [[{"effect" : "regeneration2"}
+		   ]],
+  "category" : "food",
+  "foodValue" : 25,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+
+}

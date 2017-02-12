@@ -1,0 +1,9 @@
+{
+  "itemName" : "creamfillingcoconut",
+  "rarity" : "Common",
+  "inventoryIcon" : "creamfillingcoconut.png",
+  "description" : "Coconut cream filling. Ready for use",
+  "shortdescription" : "Coconut Cream Filling",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

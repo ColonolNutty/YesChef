@@ -1,0 +1,11 @@
+{
+  "itemName" : "breadcrumbs",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "breadcrumbs.png",
+  "description" : "Finely chopped breadslice. Cant eat them on thier own but I can coat things with them.",
+  "shortdescription" : "Breadcrumbs",
+  "learnBlueprintsOnPickup" : ["rawfishfingers"],
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

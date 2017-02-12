@@ -1,0 +1,21 @@
+{
+  "itemName" : "plainchocolatedoughnut",
+  "rarity" : "Common",
+  "price" : 75,
+  "inventoryIcon" : "plainchocolatedoughnut.png",
+  "description" : "Fried chocolate cakemix. So bad but so good!",
+  "shortdescription" : "Plain Chocolate Doughnut",
+  "effects" : [ [ "regeneration3"
+ 
+  ] ],
+  "category" : "food",
+  "foodValue" : 25,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

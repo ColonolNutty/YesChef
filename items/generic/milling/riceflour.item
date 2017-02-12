@@ -1,0 +1,11 @@
+{
+  "itemName" : "riceflour",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "riceflour.png",
+  "description" : "Finely milled riceflour.",
+  "shortdescription" : "Rice Flour",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000,
+"learnBlueprintsOnPickup" : ["ricedough"]
+}

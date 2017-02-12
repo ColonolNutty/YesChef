@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "flourMFM", "count" : 1 },
+    { "item" : "choppedcurrentcorn", "count" : 1 },
+    { "item" : "choppedautomato", "count" : 1 },
+{ "item" : "choppeddiodia", "count" : 1 }
+	
+  ],
+  "output" : { "item" : "automatostewmix", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "automato", "count" : 1 },
+    { "item" : "choppedcorn", "count" : 1 },
+    { "item" : "cheese", "count" : 1 },
+    { "item" : "breadcrumbs", "count" : 1 }
+  ],
+  "output" : { "item" : "rawstuffedautomato", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawspikycookies",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawspikycookies.png",
+  "description" : "Need baking!",
+  "shortdescription" : "Raw Spiky Cookies",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "doughMFM", "count" : 1 },
+{ "item" : "choppedtomato", "count" : 1 },
+{ "item" : "cheese", "count" : 1 },
+{ "item" : "rawbacon", "count" : 1 },
+{ "item" : "choppedredbellpepper", "count" : 1 },
+{ "item" : "choppedonion", "count" : 1 }
+  ],
+  "output" : { "item" : "rawpizza", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+}

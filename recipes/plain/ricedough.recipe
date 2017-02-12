@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "riceflour", "count" : 2 }
+
+,{ "item" : "liquidwater", "count" : 1 }
+
+  ],
+  "output" : { "item" : "ricedough", "count" : 1 },
+  "groups" : [ "craftingfood", "all", "other" ]
+}

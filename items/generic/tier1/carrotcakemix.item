@@ -1,0 +1,10 @@
+{
+  "itemName" : "carrotcakemix",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "carrotcakemix.png",
+  "description" : "Carrot cake mix. Needs baking.",
+  "shortdescription" : "Carrot Cake Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

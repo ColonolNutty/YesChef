@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rawfish", "count" : 1 },
+	{ "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "fishdumplings", "count" : 1 },
+  "groups" : [ "boiling", "consumables", "foodhealing" ]
+}

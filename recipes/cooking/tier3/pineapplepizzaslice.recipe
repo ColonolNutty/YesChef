@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "pizzaslice", "count" : 1 },
+    { "item" : "choppedpineapple", "count" : 1 }
+
+  ],
+  "output" : { "item" : "pineapplepizzaslice", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+}

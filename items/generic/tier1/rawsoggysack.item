@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawsoggysack",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawsoggysack.png",
+  "description" : "Boil in 1-part vinegar.",
+  "shortdescription" : "Raw Soggysack",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

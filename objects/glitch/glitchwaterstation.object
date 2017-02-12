@@ -1,0 +1,56 @@
+{
+  "objectName" : "glitchwaterstation",
+  "retainObjectParametersInItem" : true,
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Fresh water barrel. Fill your bottle!",
+  "shortdescription" : "^orange;Glitch Water Barrel^white;",
+  "subtitle" : "Drinking waterbarrel!",
+  "race" : "generic",
+  "category" : "Cookware",
+  "price" : 75,
+  "objectType" : "container",
+
+  "apexDescription" : "A barrel of water",
+  "avianDescription" : "Hopefully water...",
+  "floranDescription" : "Not bloodss.. floran drinksss anyway.",
+  "glitchDescription" : "Observation. Oxygen and Hydrogen, in a liquid state.",
+  "humanDescription" : "Could be oil, could be water..",
+  "hylotlDescription" : "Smells like water.. thanks the stars.",
+
+
+  "inventoryIcon" : "glitchwaterstationicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "glitchwaterstation.png:<color>", "fullbright" : true }, { "image" : "glitchwaterstationlit.png:<color>" } ],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "glitchwaterstation.png:<color>", "fullbright" : true }, { "image" : "glitchwaterstationlit.png:<color>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+
+  ],
+
+  "recipeGroup" : "watermachine",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/fillstation.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

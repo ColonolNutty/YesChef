@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawspookypie", "count" : 1 }
+  ],
+  "output" : { "item" : "spookypie", "count" : 1 },
+  "groups" : [ "baking", "consumables", "foodhealing", "foodother" ]
+}

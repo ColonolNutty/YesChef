@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "tomatosoupmix", "count" : 1 },
+{ "item" : "stockvegetable", "count" : 1 }
+
+  ],
+  "output" : { "item" : "simmeredtomatosoupmix", "count" : 1 },
+  "groups" : [ "boiling", "consumables", "foodhealing" ]
+}

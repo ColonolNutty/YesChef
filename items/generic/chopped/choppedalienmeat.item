@@ -1,0 +1,11 @@
+{
+  "itemName" : "choppedalienmeat",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "choppedalienmeat.png",
+  "description" : "Diced meat. I can't eat it yet..",
+  "shortdescription" : "Raw Diced Alienmeat",
+  "learnBlueprintsOnPickup" : ["mountainmanstewmix", "rawmeatdumplings", "meatpiemix", "meatstewmix"],
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

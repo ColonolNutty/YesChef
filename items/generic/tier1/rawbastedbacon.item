@@ -1,0 +1,10 @@
+{
+  "itemName" : "rawbastedbacon",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "rawbastedbacon.png",
+  "description" : "Raw Bacon Strips drenched in syrup.",
+  "shortdescription" : "Raw Basted Bacon",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawstuffeddirturchin",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawstuffeddirturchin.png",
+  "description" : "Needs Baking.",
+  "shortdescription" : "Raw Stuffed Dirturchin",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

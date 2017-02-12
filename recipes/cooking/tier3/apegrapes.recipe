@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "choppedgrapes", "count" : 3 },
+    { "item" : "choppedbanana", "count" : 3 }
+  ],
+  "output" : { "item" : "apegrapes", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodenergyboost", "foodhealthboost" ]
+}

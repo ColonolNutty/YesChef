@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 10 },
+    { "item" : "sand2", "count" : 10 },
+{ "item" : "clay", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "avianbakingstation",
+    "count" : 1
+  },
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+}

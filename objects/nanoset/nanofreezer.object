@@ -1,0 +1,69 @@
+{
+  "objectName" : "nanofreezer",
+  "tags" : ["cooking"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Freezes anything in less then two seconds!",
+  "shortdescription" : "Nanofreeze",
+  "subtitle" : "Nanite Flash Freezing.",
+  "race" : "generic",
+  "category" : "Cookware",
+  "price" : 90,
+  "objectType" : "container",
+
+  "maximumLiquidLevel" : 0.2,
+
+  "apexDescription" : "It doesn't even feel cold.",
+  "avianDescription" : "I should be careful with my feathers around this.",
+  "floranDescription" : "Floran freeze preyss..",
+  "glitchDescription" : "Statement. An advanced flash freezer.",
+  "humanDescription" : "Wonder if I could turn it on and throw something through it..",
+  "hylotlDescription" : "Effective, yet potentialy dangerous. I must be careful",
+
+  "lightColor" : [125, 143, 179],
+
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+
+  "inventoryIcon" : "nanofreezericon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "nanofreezer.png:<color>.<frame>", "fullbright" : true }, { "image" : "nanofreezerlit.png:<color>.<frame>" } ],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "nanofreezer.png:<color>.<frame>", "fullbright" : true }, { "image" : "nanofreezerlit.png:<color>.<frame>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/campfire.wav",
+
+  "statusEffects" : [ ],
+
+  "recipeGroup" : "freezing",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 3,
+  "uiConfig" : "/interface/objectcrafting/freezestation.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

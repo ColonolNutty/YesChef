@@ -1,0 +1,10 @@
+{
+  "itemName" : "blendedalienmeat",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "blendedalienmeat.png",
+  "description" : "Blended meat. I can't eat it yet..",
+  "shortdescription" : "Blended Alienmeat",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

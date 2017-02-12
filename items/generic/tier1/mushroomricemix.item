@@ -1,0 +1,10 @@
+{
+  "itemName" : "mushroomricemix",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "mushroomricemix.png",
+  "description" : "Mushroom rice mix. Needs frying in oil.",
+  "shortdescription" : "Mushroom Rice Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

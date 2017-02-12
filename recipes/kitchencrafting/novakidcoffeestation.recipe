@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 10 },
+    { "item" : "copperbar", "count" : 10 },
+{ "item" : "glassmaterial", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "novakidcoffeestation",
+    "count" : 1
+  },
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+}

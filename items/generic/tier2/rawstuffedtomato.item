@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawstuffedtomato",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawstuffedtomato.png",
+  "description" : "Needs baking!",
+  "shortdescription" : "Raw Stuffed Tomato",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

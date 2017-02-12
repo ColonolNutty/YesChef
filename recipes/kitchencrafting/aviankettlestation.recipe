@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 10 },
+    { "item" : "clay", "count" : 10 },
+{ "item" : "goldbar", "count" : 1 }
+
+  ],
+  "output" : {
+    "item" : "aviankettlestation",
+    "count" : 1
+  },
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+}

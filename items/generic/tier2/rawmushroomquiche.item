@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawmushroomquiche",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawmushroomquiche.png",
+  "description" : "Needs baking!",
+  "shortdescription" : "Raw Mushroom Quiche",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

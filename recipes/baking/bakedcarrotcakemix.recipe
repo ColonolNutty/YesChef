@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "carrotcakemix", "count" : 1 }
+  ],
+  "output" : { "item" : "bakedcarrotcakemix", "count" : 1 },
+  "groups" : [ "baking", "consumables", "foodhealing", "foodmobility" ]
+}

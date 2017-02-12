@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "egg", "count" : 1 }
+
+,{ "item" : "coffee", "count" : 1 }
+
+,{ "item" : "sugar", "count" : 2 }
+
+  ],
+  "output" : { "item" : "coffeeicing", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables", "foodhealing","all" ]
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawseafoodgratin", "count" : 1 }
+  ],
+  "output" : { "item" : "seafoodgratin", "count" : 1 },
+  "groups" : [ "baking", "consumables", "foodhealing" ]
+}

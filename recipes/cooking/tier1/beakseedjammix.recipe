@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "pressedbeakseed", "count" : 3 },
+	{ "item" : "sugar", "count" : 4 }
+      ],
+  "output" : { "item" : "beakseedjammix", "count" : 1 },
+  "groups" : [ "craftingfood", "consumables"]
+}

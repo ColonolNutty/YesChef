@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "choppedorange", "count" : 1 },
+{ "item" : "liquidwater", "count" : 2 }
+
+  ],
+  "output" : { "item" : "orangejuiceMFM", "count" : 1 },
+  "groups" : [ "blending", "consumables", "foodhealing","all" ]
+}

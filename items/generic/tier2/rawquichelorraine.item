@@ -1,0 +1,9 @@
+{
+  "itemName" : "rawquichelorraine",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawquichelorraine.png",
+  "description" : "Needs baking!",
+  "shortdescription" : "Raw Quiche Lorraine",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000 
+}

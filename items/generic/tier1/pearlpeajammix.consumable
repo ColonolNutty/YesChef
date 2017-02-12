@@ -1,0 +1,18 @@
+{
+  "itemName" : "pearlpeajammix",
+  "rarity" : "Common",
+  "price" : 75,
+  "inventoryIcon" : "pearlpeajammix.png",
+  "description" : "Pressed Pearlpeas and piles of sugar! Just needs boiling with 2-parts water",
+  "shortdescription" : "Pealpea Jam Mix",
+  "category" : "food",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "omlettemix",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "omlettemix.png",
+  "description" : "Omlette mix. Needs frying in oil.",
+  "shortdescription" : "Omlette Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

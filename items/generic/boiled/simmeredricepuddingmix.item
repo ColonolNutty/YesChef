@@ -1,0 +1,9 @@
+{
+  "itemName" : "simmeredricepuddingmix",
+  "rarity" : "Common",
+  "inventoryIcon" : "simmeredricepuddingmix.png",
+  "description" : "Simmered ricepudding mix. Needs baking.",
+  "shortdescription" : "Simmered Rice Pudding Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000
+}

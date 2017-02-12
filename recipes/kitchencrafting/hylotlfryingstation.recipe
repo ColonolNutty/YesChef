@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 10 },
+    { "item" : "copperbar", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "hylotlfryingstation",
+    "count" : 1
+  },
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+}
