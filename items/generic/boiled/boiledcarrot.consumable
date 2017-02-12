@@ -6,7 +6,7 @@
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Carrot",
   "category" : "food",
-  "foodValue" : 10,
+  "foodValue": 15,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
