@@ -1,7 +1,12 @@
 [
 	{
 		"op": "replace",
-		"path": "/groups",
-		"value": []
+		"path": "/input",
+		"value": [
+			{ "item" : "fondant", "count" : 1 },
+			{ "item" : "choppedcorn", "count" : 1 },
+			{ "item" : "sugar", "count" : 1 },
+			{ "item" : "vanillaextractMFM", "count" : 1 }
+		]
 	}
 ]

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "batteredfish", "count" : 1 },
-    { "item" : "chips", "count" : 1 }
-  ],
-  "output" : { "item" : "fishnchips", "count" : 1 },
-  "groups" : [ "craftingfood", "mains", "consumables", "foodhealing", "foodhealthboost" ]
-}

@@ -1,7 +1,11 @@
 [
 	{
 		"op": "replace",
-		"path": "/groups",
-		"value": []
+		"path": "/input",
+		"value": [
+			{ "item" : "bakedcakemix", "count" : 1 },
+			{ "item" : "fondant", "count" : 1 },
+			{ "item" : "coffeeicing", "count" : 1 }
+		]
 	}
 ]

@@ -1,7 +1,10 @@
 [
 	{
 		"op": "replace",
-		"path": "/groups",
-		"value": []
+		"path": "/input",
+		"value": [
+			{ "item" : "boiledfondantmix", "count" : 1 },
+			{ "item" : "automato", "count" : 1 }
+		]
 	}
 ]
