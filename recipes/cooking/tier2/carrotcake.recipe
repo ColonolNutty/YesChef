@@ -5,5 +5,5 @@
     { "item" : "fondant", "count" : 1 }
   ],
   "output" : { "item" : "carrotcake", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+  "groups" : [ "craftingfood", "desserts", "consumables", "foodhealing", "foodmobility" ]
 }

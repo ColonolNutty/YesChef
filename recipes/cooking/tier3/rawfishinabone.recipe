@@ -4,5 +4,5 @@
     { "item" : "boneboo", "count" : 1 }
   ],
   "output" : { "item" : "rawfishinabone", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodother" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing", "foodother" ]
 }

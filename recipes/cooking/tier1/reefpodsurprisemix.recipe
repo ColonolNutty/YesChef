@@ -5,5 +5,5 @@
 
   ],
   "output" : { "item" : "reefpodsurprisemix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealthboost", "foodenergyboost" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealthboost", "foodenergyboost" ]
 }

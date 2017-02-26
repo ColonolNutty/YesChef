@@ -2,10 +2,10 @@
   "input" : [
     { "item" : "choppedcarrot", "count" : 2 },
 	{ "item" : "peaMFM", "count" : 2 },
-{ "item" : "choppedalienmeat", "count" : 2 },
-{ "item" : "flourMFM", "count" : 1 },
-{ "item" : "choppedonion", "count" : 1 }
-      ],
+	{ "item" : "choppedalienmeat", "count" : 2 },
+	{ "item" : "flourMFM", "count" : 1 },
+	{ "item" : "choppedonion", "count" : 1 }
+  ],
   "output" : { "item" : "meatpiemix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables"]
+  "groups" : [ "craftingfood", "snacks", "consumables"]
 }

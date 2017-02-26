@@ -7,5 +7,5 @@
 { "item" : "choppedboneboo", "count" : 1 }
   ],
   "output" : { "item" : "cakemixspooky", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing" ]
 }

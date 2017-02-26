@@ -7,5 +7,5 @@
 
       ],
   "output" : { "item" : "stockvegetablemix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables"]
+  "groups" : [ "craftingfood", "snacks", "consumables"]
 }

@@ -4,5 +4,5 @@
     { "item" : "cactusjuice", "count" : 1 }
   ],
   "output" : { "item" : "rawspikycookies", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility", "foodother" ]
+  "groups" : [ "craftingfood", "desserts", "consumables", "foodhealing", "foodmobility", "foodother" ]
 }

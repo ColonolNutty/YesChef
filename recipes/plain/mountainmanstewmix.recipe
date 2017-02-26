@@ -1,13 +1,12 @@
 {
   "input" : [
     { "item" : "campfirebread", "count" : 1 },
-{ "item" : "plantfibre", "count" : 5 },
-{ "item" : "choppedpoultry", "count" : 3 },
-{ "item" : "choppedalienmeat", "count" : 3 },
-{ "item" : "choppedtomato", "count" : 1 },
-{ "item" : "choppedpotato", "count" : 1 }
-
+	{ "item" : "plantfibre", "count" : 5 },
+	{ "item" : "choppedpoultry", "count" : 3 },
+	{ "item" : "choppedalienmeat", "count" : 3 },
+	{ "item" : "choppedtomato", "count" : 1 },
+	{ "item" : "choppedpotato", "count" : 1 }
   ],
   "output" : { "item" : "mountainmanstewmix", "count" : 1 },
-  "groups" : [ "craftingfood", "all", "other" ]
+  "groups" : [ "plain", "all", "other" ]
 }

@@ -3,8 +3,8 @@
     { "item" : "seaweed", "count" : 1 },
     { "item" : "boiledrice", "count" : 1 },
     { "item" : "choppedrawfish", "count" : 1 },
-{ "item" : "vinegarMSM", "count" : 1 }
+	{ "item" : "vinegarMSM", "count" : 1 }
   ],
   "output" : { "item" : "sushi", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing" ]
 }

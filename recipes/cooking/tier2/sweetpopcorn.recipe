@@ -4,5 +4,5 @@
     { "item" : "freshpopcorn", "count" : 1 }
   ],
   "output" : { "item" : "sweetpopcorn", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+  "groups" : [ "craftingfood", "desserts", "consumables", "foodhealing", "foodmobility" ]
 }

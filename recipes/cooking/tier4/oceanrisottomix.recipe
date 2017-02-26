@@ -2,12 +2,11 @@
   "input" : [
     { "item" : "rice", "count" : 4 },
     { "item" : "choppedreefpod", "count" : 2 },
-{ "item" : "choppedrawfish", "count" : 2 },
-{ "item" : "choppedcoralcreep", "count" : 1 },
-{ "item" : "choppedonion", "count" : 2 },
-{ "item" : "butter", "count" : 1 }
-    
+	{ "item" : "choppedrawfish", "count" : 2 },
+	{ "item" : "choppedcoralcreep", "count" : 1 },
+	{ "item" : "choppedonion", "count" : 2 },
+	{ "item" : "butter", "count" : 1 }
   ],
   "output" : { "item" : "oceanrisottomix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodhealthboost", "foodenergyboost" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing", "foodhealthboost", "foodenergyboost" ]
 }

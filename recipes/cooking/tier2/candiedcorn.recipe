@@ -7,5 +7,5 @@
 
   ],
   "output" : { "item" : "candiedcorn", "count" : 3 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+  "groups" : [ "craftingfood", "snacks", "foodhealing", "foodmobility" ]
 }

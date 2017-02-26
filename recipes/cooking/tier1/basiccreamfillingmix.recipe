@@ -6,5 +6,5 @@
 { "item" : "egg", "count" : 2 }
       ],
   "output" : { "item" : "basiccreamfillingmix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables"]
+  "groups" : [ "craftingfood", "snacks", "consumables"]
 }

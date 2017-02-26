@@ -6,5 +6,5 @@
 { "item" : "saltMFM", "count" : 1 }
   ],
   "output" : { "item" : "tomatosoupmix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing" ]
 }

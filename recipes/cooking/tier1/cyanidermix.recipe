@@ -6,5 +6,5 @@
 
   ],
   "output" : { "item" : "cyanidermix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing","all" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing","all" ]
 }

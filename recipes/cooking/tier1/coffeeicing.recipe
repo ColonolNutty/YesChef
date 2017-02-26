@@ -8,5 +8,5 @@
 
   ],
   "output" : { "item" : "coffeeicing", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing","all" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing","all" ]
 }

@@ -4,5 +4,5 @@
     { "item" : "redapple", "count" : 1 }
   ],
   "output" : { "item" : "candyapple", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing", "foodmobility" ]
 }

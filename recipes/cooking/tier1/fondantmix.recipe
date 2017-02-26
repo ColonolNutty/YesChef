@@ -6,5 +6,5 @@
 
   ],
   "output" : { "item" : "fondantmix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing" ]
 }

@@ -5,5 +5,5 @@
     { "item" : "choppedalienfruit", "count" : 1 }
   ],
   "output" : { "item" : "rawtoxictart", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodenergyboost", "foodmobility", "foodother" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodenergyboost", "foodmobility", "foodother" ]
 }

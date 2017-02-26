@@ -4,5 +4,5 @@
     { "item" : "toxictopjam", "count" : 1 }
   ],
   "output" : { "item" : "toxicjamdonut", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodenergyboost", "foodmobility" ]
+  "groups" : [ "craftingfood", "desserts", "consumables", "foodenergyboost", "foodmobility" ]
 }

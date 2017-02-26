@@ -5,5 +5,5 @@
 
   ],
   "output" : { "item" : "pineapplepizzaslice", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+  "groups" : [ "craftingfood", "mains", "consumables", "foodhealing", "foodmobility" ]
 }

@@ -3,9 +3,9 @@
     { "item" : "choppedreefpod", "count" : 1 },
     { "item" : "boiledpearlpeas", "count" : 1 },
     { "item" : "choppedcoralcreep", "count" : 1 },
-{ "item" : "choppedlettuce", "count" : 1 },
-{ "item" : "choppedtomato", "count" : 1 }
+	{ "item" : "choppedlettuce", "count" : 1 },
+	{ "item" : "choppedtomato", "count" : 1 }
   ],
   "output" : { "item" : "saltsalad", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodenergyboost", "foodhealthboost" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing", "foodenergyboost", "foodhealthboost" ]
 }
