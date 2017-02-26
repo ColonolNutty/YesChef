@@ -1,0 +1,12 @@
+[
+	{
+		"op": "replace",
+		"path": "/input",
+		"value": [
+			{ "item" : "choppedpineapple", "count" : 1 },
+			{ "item" : "choppedkiwi", "count" : 1 },
+			{ "item" : "choppedgrapes", "count" : 1 },
+			{ "item" : "choppedbanana", "count" : 1 }
+		]
+	}
+]
