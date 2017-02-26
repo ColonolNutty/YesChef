@@ -1,11 +1,10 @@
 {
   "input" : [
     { "item" : "choppedredapple", "count" : 2 },
-{ "item" : "sugar", "count" : 2 },
-{ "item" : "cinnamonMFM", "count" : 1 },
-{ "item" : "flourMFM", "count" : 1 }
-
+	{ "item" : "sugar", "count" : 2 },
+	{ "item" : "cinnamonMFM", "count" : 1 },
+	{ "item" : "flourMFM", "count" : 1 }
   ],
   "output" : { "item" : "stewedapplemix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing", "foodmobility" ]
 }

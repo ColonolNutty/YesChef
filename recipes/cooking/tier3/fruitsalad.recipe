@@ -6,5 +6,5 @@
     { "item" : "choppedbanana", "count" : 1 }
   ],
   "output" : { "item" : "fruitsalad", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodmobility", "foodenergyboost", "foodhealthboost" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodmobility", "foodenergyboost", "foodhealthboost" ]
 }

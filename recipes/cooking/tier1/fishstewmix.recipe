@@ -6,5 +6,5 @@
     { "item" : "choppedcorn", "count" : 1 }
   ],
   "output" : { "item" : "fishstewmix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing" ]
 }

@@ -4,5 +4,5 @@
     { "item" : "banana", "count" : 1 }
   ],
   "output" : { "item" : "rawbatteredbanana", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodenergyboost" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing", "foodenergyboost" ]
 }

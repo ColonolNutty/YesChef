@@ -4,5 +4,5 @@
     { "item" : "choppedbanana", "count" : 4 }
   ],
   "output" : { "item" : "luckydip", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodenergyboost" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing", "foodenergyboost" ]
 }

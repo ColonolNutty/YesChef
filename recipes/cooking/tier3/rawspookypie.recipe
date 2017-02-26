@@ -1,9 +1,9 @@
 {
   "input" : [
     { "item" : "shortcrustpastry", "count" : 1 },
-{ "item" : "creamfillingspooky", "count" : 1 },
-{ "item" : "whippedcream", "count" : 1 }
+	{ "item" : "creamfillingspooky", "count" : 1 },
+	{ "item" : "whippedcream", "count" : 1 }
   ],
   "output" : { "item" : "rawspookypie", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodenergyboost", "foodmobility" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing", "foodenergyboost", "foodmobility" ]
 }

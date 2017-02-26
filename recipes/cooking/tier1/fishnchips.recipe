@@ -4,5 +4,5 @@
     { "item" : "chips", "count" : 1 }
   ],
   "output" : { "item" : "fishnchips", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodhealthboost" ]
+  "groups" : [ "craftingfood", "mains", "consumables", "foodhealing", "foodhealthboost" ]
 }

@@ -5,5 +5,5 @@
 
   ],
   "output" : { "item" : "2kbpotage", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing" ]
 }

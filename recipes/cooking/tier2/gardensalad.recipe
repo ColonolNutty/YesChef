@@ -3,12 +3,11 @@
     { "item" : "choppedtomato", "count" : 1 },
     { "item" : "choppedcucumber", "count" : 1 },
     { "item" : "choppedcarrot", "count" : 1 },
-{ "item" : "choppedlettuce", "count" : 1 },
-{ "item" : "choppedonion", "count" : 1 },
-{ "item" : "vinegarMSM", "count" : 1 },
-{ "item" : "cookingoilMFM", "count" : 1 }
-
+	{ "item" : "choppedlettuce", "count" : 1 },
+	{ "item" : "choppedonion", "count" : 1 },
+	{ "item" : "vinegarMSM", "count" : 1 },
+	{ "item" : "cookingoilMFM", "count" : 1 }
   ],
   "output" : { "item" : "gardensalad", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "mains", "consumables", "foodhealing" ]
 }

@@ -2,9 +2,9 @@
   "input" : [
     { "item" : "flourMFM", "count" : 3 },
 	{ "item" : "saltMFM", "count" : 1 },
-{ "item" : "butter", "count" : 1 },
-{ "item" : "liquidwater", "count" : 1 }
+	{ "item" : "butter", "count" : 1 },
+	{ "item" : "liquidwater", "count" : 1 }
       ],
   "output" : { "item" : "shortcrustpastry", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables"]
+  "groups" : [ "craftingfood", "sides", "snacks", "consumables"]
 }

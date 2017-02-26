@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "sweetcrumbtopping", "count" : 1 },
-{ "item" : "stewedapples", "count" : 1 }
+	{ "item" : "stewedapples", "count" : 1 }
   ],
   "output" : { "item" : "rawapplecrumble", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing", "foodmobility" ]
 }

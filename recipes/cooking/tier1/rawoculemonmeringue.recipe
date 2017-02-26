@@ -5,5 +5,5 @@
     { "item" : "whippedcream", "count" : 1 }
   ],
   "output" : { "item" : "rawoculemonmeringue", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodhealthboost", "foodmobility" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing", "foodhealthboost", "foodmobility" ]
 }

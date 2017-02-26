@@ -8,5 +8,5 @@
     { "item" : "automato", "count" : 1 }
   ],
   "output" : { "item" : "desertsalsa", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodhealthboost", "foodmobility", "foodother" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing", "foodhealthboost", "foodmobility", "foodother" ]
 }

@@ -4,5 +4,5 @@
     { "item" : "liquidmilk", "count" : 1 }
   ],
   "output" : { "item" : "coconutrice", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodenergyboost", "foodhealing" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodenergyboost", "foodhealing" ]
 }

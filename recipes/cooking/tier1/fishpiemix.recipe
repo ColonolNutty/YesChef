@@ -7,5 +7,5 @@
 { "item" : "choppedonion", "count" : 1 }
       ],
   "output" : { "item" : "fishpiemix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables"]
+  "groups" : [ "craftingfood", "sides", "consumables"]
 }

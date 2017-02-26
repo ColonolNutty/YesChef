@@ -6,5 +6,5 @@
 
   ],
   "output" : { "item" : "coffeecake", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+  "groups" : [ "craftingfood", "desserts", "consumables", "foodhealing", "foodmobility" ]
 }

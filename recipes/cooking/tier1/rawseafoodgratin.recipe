@@ -2,11 +2,11 @@
   "input" : [
     { "item" : "choppedpotato", "count" : 1 },
     { "item" : "choppedcoralcreep", "count" : 1 },
-{ "item" : "choppedrawfish", "count" : 1 },
-{ "item" : "choppedonion", "count" : 1 },
-{ "item" : "creamMFM", "count" : 1 },
-{ "item" : "cheese", "count" : 1 }
+	{ "item" : "choppedrawfish", "count" : 1 },
+	{ "item" : "choppedonion", "count" : 1 },
+	{ "item" : "creamMFM", "count" : 1 },
+	{ "item" : "cheese", "count" : 1 }
   ],
   "output" : { "item" : "rawseafoodgratin", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing" ]
 }

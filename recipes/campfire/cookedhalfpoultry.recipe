@@ -10,8 +10,8 @@
         "count": 1
     },
     "groups": [
-        "cooking",
-"baking",
+        "campfire",
+		"baking",
         "consumables",
         "foodhealing",
         "all"

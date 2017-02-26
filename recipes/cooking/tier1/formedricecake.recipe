@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "seaweed", "count" : 1 },
-{ "item" : "boiledrice", "count" : 1 }
+	{ "item" : "boiledrice", "count" : 1 }
   ],
   "output" : { "item" : "formedricecake", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing" ]
 }

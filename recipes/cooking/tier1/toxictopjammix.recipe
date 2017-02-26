@@ -4,5 +4,5 @@
 	{ "item" : "sugar", "count" : 4 }
       ],
   "output" : { "item" : "toxictopjammix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables"]
+  "groups" : [ "craftingfood", "snacks", "consumables"]
 }

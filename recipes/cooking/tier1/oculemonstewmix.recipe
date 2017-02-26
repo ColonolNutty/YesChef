@@ -6,5 +6,5 @@
     { "item" : "choppedalienmeat", "count" : 2 }
   ],
   "output" : { "item" : "oculemonstewmix", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodhealthboost", "foodmobility" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing", "foodhealthboost", "foodmobility" ]
 }

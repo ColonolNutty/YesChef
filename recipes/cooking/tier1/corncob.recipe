@@ -3,5 +3,5 @@
     { "item" : "corn", "count" : 1 }
   ],
   "output" : { "item" : "corncob", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing" ]
 }

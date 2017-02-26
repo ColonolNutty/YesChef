@@ -1,7 +1,6 @@
 {
   "input" : [
     { "item" : "cobblestonematerial", "count" : 20 }
-
   ],
   "output" : { "item" : "campgrinder", "count" : 1 },
   "groups" : [ "plain", "all", "other" ]

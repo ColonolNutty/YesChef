@@ -6,5 +6,5 @@
     { "item" : "endomorphicjelly", "count" : 1 }
   ],
   "output" : { "item" : "oceansurprise", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodmobility" ]
+  "groups" : [ "craftingfood", "mains", "consumables", "foodhealing", "foodmobility" ]
 }

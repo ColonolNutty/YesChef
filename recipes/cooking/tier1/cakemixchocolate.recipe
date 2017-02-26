@@ -7,5 +7,5 @@
 { "item" : "chocolate", "count" : 1 }
   ],
   "output" : { "item" : "cakemixchocolate", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing" ]
 }
