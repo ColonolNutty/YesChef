@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "plainchocolatedoughnut", "count" : 1 },
-    { "item" : "creamfillingcoconut", "count" : 1 }
-  ],
-  "output" : { "item" : "choconut", "count" : 1 },
-  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing", "foodmobility", "foodenergyboost" ]
-}

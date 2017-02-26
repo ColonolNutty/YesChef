@@ -1,0 +1,15 @@
+[
+	{
+		"op": "replace",
+		"path": "/input",
+		"value": [
+			{ "item" : "choppedtomato", "count" : 1 },
+			{ "item" : "choppedlettuce", "count" : 1 },
+			{ "item" : "choppedonion", "count" : 1 },
+			{ "item" : "relish", "count" : 1 },
+			{ "item" : "cookedmeatpatty", "count" : 1 },
+			{ "item" : "cheese", "count" : 1 },
+			{ "item" : "breadslice", "count" : 2 }
+		]
+	}
+]

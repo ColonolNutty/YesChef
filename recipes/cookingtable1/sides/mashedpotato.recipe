@@ -6,5 +6,5 @@
 	{ "item" : "saltMFM", "count" : 1 }
   ],
   "output" : { "item" : "mashedpotato", "count" : 1 },
-  "groups" : [ "craftingfood", "consumables", "foodhealing", "foodhealthboost" ]
+  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing", "foodhealthboost" ]
 }

@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace",
+		"path": "/input",
+		"value": [
+			{ "item" : "boiledpearlpeas", "count" : 1 },
+			{ "item" : "mashedpotato", "count" : 1 },
+			{ "item" : "cookedhalfpoultry", "count" : 1 },
+			{ "item" : "boiledcarrot", "count" : 1 },
+			{ "item" : "boiledbroccoli", "count" : 1 },
+			{ "item" : "boiledcauliflower", "count" : 1 }
+		]
+	}
+]

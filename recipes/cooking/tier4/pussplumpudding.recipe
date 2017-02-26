@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "simmeredricepuddingmix", "count" : 1 },
-    { "item" : "choppedpussplum", "count" : 4 }
-  ],
-  "output" : { "item" : "pussplumpudding", "count" : 1 },
-  "groups" : [ "craftingfood", "desserts", "consumables", "foodhealing", "foodmobility" ]
-}

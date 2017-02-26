@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "pancakes", "count" : 2 },
-{ "item" : "cookedbacon", "count" : 3 }
-  ],
-  "output" : { "item" : "baconpancakes", "count" : 1 },
-  "groups" : [ "craftingfood", "mains", "consumables", "foodhealing", "foodmobility" ]
-}

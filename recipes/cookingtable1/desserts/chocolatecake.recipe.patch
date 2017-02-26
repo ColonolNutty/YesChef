@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace",
+		"path": "/input",
+		"value": [
+			{ "item" : "bakedchocolatecakemix", "count" : 1 },
+			{ "item" : "fondant", "count" : 1 },
+			{ "item" : "chocolateicingMFM", "count" : 1 }
+		]
+	}
+]
