@@ -5,5 +5,6 @@
   "description" : "Needs blending with 1-part vinegar.",
   "shortdescription" : "Desert Salsa Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["desertsalsa"]
 }

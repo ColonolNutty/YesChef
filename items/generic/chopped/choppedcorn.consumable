@@ -14,5 +14,13 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup": ["popcornkernels",
+                              "boiledcorncob",
+                              "fishstewmix",
+                              "relishmix",
+                              "rawstuffedautomato",
+                              "rawstuffedtomato",
+                              "specialrice",
+                              "candiedcorn"]
 }

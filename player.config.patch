@@ -1,847 +1,312 @@
 [
-{
-"op": "add",
-"path": "/defaultBlueprints/yescheftier1",
-"value": [{ "item" : "yeschefitem1" }]
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "cn_craftingkitchen" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "simpledough" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "campchopblock" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "campgrinder" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "campfirecookpot" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "boilstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "frystation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "bakingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "chopstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "blendstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "coffeestation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "waterstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "mountainmanstewmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "pearlpearisottomix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "pearlpeabrothmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "breadloafmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "fispiemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "meatpiemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "breadandbird" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "stockvegetablemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "simplebatter" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "fishstewmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "meatstewmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawbatteredfish" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawchips" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawfishdumplings" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawmeatdumplings" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "kettlestation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "ricedough" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "butteredtoast" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawapplecrumble" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "sweetcrumbtopping" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "stewedapplemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "pancakemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "stockvegetablemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawchips" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawbatteredfish" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "mountainmanstewmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawfishdumplings" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "fishpiemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "fishstewmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "fishnchips" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "beakseedbreadmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "beakseedjammix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "shortcrustpastry" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawbeakseedtart" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "fondantmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "cakemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "candiedcorn" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "candyapple" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "carrotbreadmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "carrotcakemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawmeatpatty" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "cheeseburger" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "coffeeicing" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "coffeecake" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "feathercrownjammix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawfeatherfood" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "eggybread" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "gardensalad" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "hamburger" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "kiwijammix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "mushroombreadmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "mushroomricemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "omlettemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawpasty" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "pearlpeajammix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "pearlpeapancakemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawpizza" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "porridgemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawquichelorraine" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "relishmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "ricepuddingmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "roastdinner" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "specialrice" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawspikycookies" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawstuffedtomato" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawbastedbacon" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "sweetpopcorn" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "tomatosoupmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "2kbpotagemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawapexfritter" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "automatostewmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "basiccreamfillingmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawbananacreampie" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "bananacreamdonut" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawbatteredbanana" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "candyautomato" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "choconut" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "desertsalsamix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawfishinabone" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "fruitsalad" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "pineapplejammix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "pineapplepizzaslice" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "spookydonut" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "cakemixspooky" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawspookypie" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawstuffedautomato" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "cakemixchocolate" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "alienfruitjammix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawbrineapple" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "cyanidermix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "oceanrisottomix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "oceansalsamix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "oceansurprise" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "raweoculemonmeringue" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "oculemonstewmix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "pussplumpudding" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawpussplumtart" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "reefpodsurprisemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "formedricecake" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "saltsalad" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawseafoodgratin" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawsoggysack" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawdirturchin" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "sushi" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "toxicjamdonut" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "rawtoxictart" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "toxictopjammix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "bananaicecreammix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "cactiicecreammix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "coconuticecreammix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "snowconemix" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "freezestation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "nanobake" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "nanochop" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "nanoboil" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "nanokettle" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "nanoblend" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "nanocoffee" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "nanowater" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "nanofreezer" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "hylotlbakingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "hylotlboilingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "hylotlfryingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "hylotlblendingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "hylotlwaterstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "hylotlcoffeestation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "hylotlchoppingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "hylotlkettlestation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "hylotlfreezingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "avianbakingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "avianboilingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "avianfryingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "avianblendingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "avianwaterstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "aviancoffeestation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "avianchoppingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "aviankettlestation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "avianfreezingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "novakidbakingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "novakidboilingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "novakidfryingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "novakidblendingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "novakidwaterstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "novakidcoffeestation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "novakidchoppingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "novakidkettlestation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "novakidfreezingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "glitchbakingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "glitchboilingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "glitchfryingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "glitchblendingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "glitchwaterstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "glitchcoffeestation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "glitchchoppingstation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "glitchkettlestation" }
-},
-{
-"op": "add",
-"path": "/defaultBlueprints/tier1/-",
-"value": { "item" : "glitchfreezingstation" }
-}
+  {
+    "op": "add", 
+    "path": "/defaultBlueprints/yescheftier1",
+    "value": [{ "item" : "yeschefitem1" }]
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "cn_craftingkitchen" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "campchopblock" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "campgrinder" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "campfirecookpot" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "boilstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "frystation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "bakingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "chopstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "blendstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "coffeestation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "waterstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "kettlestation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "freezestation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "nanobake" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "nanochop" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "nanoboil" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "nanokettle" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "nanoblend" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "nanocoffee" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "nanowater" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "nanofreezer" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "hylotlbakingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "hylotlboilingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "hylotlfryingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "hylotlblendingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "hylotlwaterstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "hylotlcoffeestation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "hylotlchoppingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "hylotlkettlestation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "hylotlfreezingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "avianbakingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "avianboilingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "avianfryingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "avianblendingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "avianwaterstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "aviancoffeestation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "avianchoppingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "aviankettlestation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "avianfreezingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "novakidbakingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "novakidboilingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "novakidfryingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "novakidblendingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "novakidwaterstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "novakidcoffeestation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "novakidchoppingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "novakidkettlestation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "novakidfreezingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "glitchbakingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "glitchboilingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "glitchfryingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "glitchblendingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "glitchwaterstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "glitchcoffeestation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "glitchchoppingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "glitchkettlestation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "glitchfreezingstation" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "ice" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "liquidwater" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "dragonfruitjuiceMFM" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "bottledwater" }
+  }
 ]

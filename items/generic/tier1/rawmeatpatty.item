@@ -5,5 +5,6 @@
   "description" : "A meat patty. Needs frying in oil before I can eat it..",
   "shortdescription" : "Raw Meat Patty",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["cookedmeatpatty"]
 }

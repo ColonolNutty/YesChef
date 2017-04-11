@@ -1,8 +1,7 @@
 {
   "input" : [
     { "item" : "choppedpotato", "count" : 2 },
-	{ "item" : "saltMFM", "count" : 1 }
-
+    { "item" : "saltMFM", "count" : 1 }
   ],
   "output" : { "item" : "rawchips", "count" : 1 },
   "groups" : [ "craftingfood", "sides", "consumables", "foodhealing" ]

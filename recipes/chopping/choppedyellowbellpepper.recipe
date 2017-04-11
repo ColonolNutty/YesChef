@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "yellowbellpepperMFM", "count" : 1 }
-      ],
+  ],
   "output" : { "item" : "choppedyellowbellpepper", "count" : 1 },
   "groups" : [ "chopping", "consumables"]
 }

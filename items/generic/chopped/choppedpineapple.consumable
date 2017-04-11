@@ -14,5 +14,11 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup": ["pineapplejuice",
+                              "sweetpunch",
+                              "fruitsalad",
+                              "pineapplepizzaslice",
+                              "oceansalsamix",
+                              "rawbrineapple"]
 }

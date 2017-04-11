@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "cakemixspooky", "count" : 1 },
-	{ "item" : "cookingoilMFM", "count" : 1 }
-      ],
+    { "item" : "cookingoilMFM", "count" : 1 }
+  ],
   "output" : { "item" : "plainspookydoughnut", "count" : 1 },
   "groups" : [ "frying", "consumables"]
 }

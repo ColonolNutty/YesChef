@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "liquidwater", "count" : 2 },
-    { "item" : "alienfruitjammix", "count" : 1 }
+    { "item" : "alienfruitjammix", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "alienfruitjam", "count" : 1 },
   "groups" : [ "boiling", "consumables", "foodhealing", "foodmobility", "foodother" ]

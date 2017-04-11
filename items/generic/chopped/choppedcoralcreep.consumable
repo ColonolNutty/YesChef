@@ -14,5 +14,10 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup": ["oceanrisottomix",
+                              "oceansalsamix",
+                              "rawbrineapple",
+                              "rawseafoodgratin",
+                              "saltsalad"]
 }

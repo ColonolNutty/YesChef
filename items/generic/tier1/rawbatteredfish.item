@@ -5,5 +5,6 @@
   "description" : "A raw fish fillet dipped in batter. Needs frying in some oil before I can eat it.",
   "shortdescription" : "Raw Battered Fish",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["batteredfish"]
 }

@@ -1,7 +1,6 @@
 {
   "input" : [
     { "item" : "feathercrown", "count" : 1 }
-
   ],
   "output" : { "item" : "pressedfeathercrown", "count" : 1 },
   "groups" : [ "handpress", "all", "other" ]

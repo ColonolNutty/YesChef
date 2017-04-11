@@ -14,5 +14,15 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup": ["rawpasty",
+                              "carrotjuice",
+                              "boiledcarrot",
+                              "gardensalad",
+                              "carrotcakemix",
+                              "carrotsoupmix",
+                              "meatpiemix",
+                              "meatstewmix",
+                              "stockvegetablemix",
+                              "carrotbreadmix"]
 }

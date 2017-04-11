@@ -1,7 +1,6 @@
 {
   "input" : [
     { "item" : "kiwi", "count" : 1 }
-
   ],
   "output" : { "item" : "pressedkiwi", "count" : 1 },
   "groups" : [ "handpress", "all", "other" ]

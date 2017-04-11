@@ -6,5 +6,6 @@
   "description" : "Fluffy, risen cake mix. Needs decorating.",
   "shortdescription" : "Baked Chocolate Cake Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["chocolatecake"]
 }

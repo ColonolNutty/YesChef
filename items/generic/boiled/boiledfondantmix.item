@@ -5,5 +5,8 @@
   "description" : "A hot melted mixture of sugar and syrup. Needs blending with butter.",
   "shortdescription" : "Boiled Fondant Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["fondant",
+                              "candyapple",
+                              "candyautomato"]
 }

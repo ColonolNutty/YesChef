@@ -5,5 +5,6 @@
   "description" : "Rice and Seaweed. Needs drying.",
   "shortdescription" : "Formed Ricecake",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["ricecake"]
 }

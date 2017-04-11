@@ -14,5 +14,20 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup": ["rawpasty",
+                              "pearlpearisotto",
+                              "cheeseburger",
+                              "gardensalad",
+                              "hamburger",
+                              "carrotsoupmix",
+                              "fishpiemix",
+                              "meatpiemix",
+                              "meatstewmix",
+                              "oceanrisottomix",
+                              "stockvegetablemix",
+                              "tomatosoupmix",
+                              "rawmushroomquiche",
+                              "rawpizza",
+                              "rawseafoodgratin"]
 }

@@ -7,5 +7,5 @@
   "shortdescription" : "Rice Flour",
   "category" : "cookingIngredient",
   "maxStack" : 1000,
-"learnBlueprintsOnPickup" : ["ricedough"]
+  "learnBlueprintsOnPickup" : ["ricedough"]
 }

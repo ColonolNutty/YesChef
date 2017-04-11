@@ -14,5 +14,8 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup": ["automatoshake",
+                              "2kbpotage",
+                              "automatostewmix"]
 }

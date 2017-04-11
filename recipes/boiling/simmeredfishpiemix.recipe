@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "fishpiemix", "count" : 1 },
-	{ "item" : "milk", "count" : 2 }
-      ],
+    { "item" : "milk", "count" : 2 }
+  ],
   "output" : { "item" : "simmeredfishpiemix", "count" : 1 },
   "groups" : [ "boiling", "consumables"]
 }

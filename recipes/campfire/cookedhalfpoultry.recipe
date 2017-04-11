@@ -1,19 +1,7 @@
 {
     "input": [
-        {
-            "item": "rawhalfpoultry",
-            "count": 1
-        }
+        { "item": "rawhalfpoultry", "count": 1 }
     ],
-    "output": {
-        "item": "cookedhalfpoultry",
-        "count": 1
-    },
-    "groups": [
-        "campfire",
-		"baking",
-        "consumables",
-        "foodhealing",
-        "all"
-    ]
+    "output": { "item": "cookedhalfpoultry", "count": 1 },
+    "groups": [ "campfire", "baking", "consumables", "foodhealing", "all" ]
 }

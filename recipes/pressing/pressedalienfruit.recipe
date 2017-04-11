@@ -1,7 +1,6 @@
 {
   "input" : [
     { "item" : "alienfruit", "count" : 1 }
-
   ],
   "output" : { "item" : "pressedalienfruit", "count" : 1 },
   "groups" : [ "handpress", "all", "other" ]

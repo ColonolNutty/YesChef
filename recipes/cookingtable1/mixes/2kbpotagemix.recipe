@@ -2,7 +2,6 @@
   "input" : [
     { "item" : "choppedcurrentcorn", "count" : 1 },
     { "item" : "choppedautomato", "count" : 1 }
-
   ],
   "output" : { "item" : "2kbpotage", "count" : 1 },
   "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing" ]

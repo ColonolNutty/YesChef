@@ -5,5 +5,9 @@
   "description" : "Vegetable reduction. Flavoursome stock ready for use.",
   "shortdescription" : "Stock - Vegetable",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["automatostew",
+                              "oceanrisotto",
+                              "simmeredcarrotsoupmix",
+                              "simmeredtomatosoupmix"]
 }

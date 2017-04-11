@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "reefpod", "count" : 1 }
-      ],
+  ],
   "output" : { "item" : "choppedreefpod", "count" : 1 },
   "groups" : [ "chopping", "consumables"]
 }

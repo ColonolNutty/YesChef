@@ -1,6 +1,6 @@
 {
   "input" : [
- { "item" : "rawfeatherfood", "count" : 1 }
+    { "item" : "rawfeatherfood", "count" : 1 }
   ],
   "output" : { "item" : "featherfood", "count" : 1 },
   "groups" : [ "baking", "consumables", "foodhealing", "foodhealthboost", "foodmobility" ]

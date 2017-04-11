@@ -6,5 +6,6 @@
   "description" : "Blended meat. I can't eat it yet..",
   "shortdescription" : "Blended Alienmeat",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["rawmeatpatty"]
 }

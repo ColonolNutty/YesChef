@@ -1,8 +1,7 @@
 {
   "input" : [
     { "item" : "rawfishfingers", "count" : 1 },
-	{ "item" : "cookingoilMFM", "count" : 1 }
-
+    { "item" : "cookingoilMFM", "count" : 1 }
   ],
   "output" : { "item" : "fishfingers", "count" : 1 },
   "groups" : [ "frying", "consumables", "foodhealing" ]

@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "pussplum", "count" : 1 }
-      ],
+  ],
   "output" : { "item" : "choppedpussplum", "count" : 1 },
   "groups" : [ "chopping", "consumables"]
 }

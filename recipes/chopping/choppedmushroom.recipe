@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "shroom", "count" : 1 }
-      ],
+  ],
   "output" : { "item" : "choppedmushroom", "count" : 1 },
   "groups" : [ "chopping", "consumables"]
 }

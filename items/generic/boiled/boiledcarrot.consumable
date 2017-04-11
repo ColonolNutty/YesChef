@@ -17,5 +17,7 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ]
+  "emitters" : [ "Eating" ],
+  "learnBlueprintsOnPickup": ["roastdinner",
+                              "luckydip"]
 }

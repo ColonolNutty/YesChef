@@ -5,5 +5,11 @@
   "description" : "A blended mixture used in making confectionry",
   "shortdescription" : "Fondant",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["bonbons",
+                              "cake",
+                              "carrotcake",
+                              "chocolatecake",
+                              "coffeecake",
+                              "candiedcorn"]
 }

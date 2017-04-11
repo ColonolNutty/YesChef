@@ -1,11 +1,11 @@
 {
   "input" : [
     { "item" : "flourMFM", "count" : 2 },
-{ "item" : "choppedcarrot", "count" : 4 },
-{ "item" : "egg", "count" : 2 },
-{ "item" : "sugar", "count" : 2 },
-{ "item" : "cookingoilMFM", "count" : 1 },
-{ "item" : "groundcinnamonMFM", "count" : 1 }
+    { "item" : "choppedcarrot", "count" : 4 },
+    { "item" : "egg", "count" : 2 },
+    { "item" : "sugar", "count" : 2 },
+    { "item" : "cookingoilMFM", "count" : 1 },
+    { "item" : "groundcinnamonMFM", "count" : 1 }
   ],
   "output" : { "item" : "carrotcakemix", "count" : 1 },
   "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing" ]

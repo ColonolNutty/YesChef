@@ -5,5 +5,6 @@
   "description" : "Flour and water, as basic as it gets.",
   "shortdescription" : "Simple Dough",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["campfirebread"]
 }

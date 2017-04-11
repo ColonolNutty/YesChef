@@ -5,5 +5,7 @@
   "description" : "Rice flour and water. Kneeded and rolled.",
   "shortdescription" : "Rice Dough",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["rawfishdumplings",
+                              "rawmeatdumplings"]
 }

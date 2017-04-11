@@ -7,5 +7,10 @@
   "shortdescription" : "Breadcrumbs",
   "learnBlueprintsOnPickup" : ["rawfishfingers"],
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["pearlpeabrothmix",
+                              "rawfishfingers",
+                              "rawstuffedautomato",
+                              "rawstuffeddirturchin",
+                              "rawstuffedtomato"]
 }

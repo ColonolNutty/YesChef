@@ -3,7 +3,7 @@
     { "item" : "choppedpineapple", "count" : 1 },
     { "item" : "choppedkiwi", "count" : 1 },
     { "item" : "choppedgrapes", "count" : 1 },
-{ "item" : "liquidwater", "count" : 2 }
+    { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "sweetpunch", "count" : 1 },
   "groups" : [ "blending", "consumables", "foodhealthboost", "foodmobility" ]

@@ -6,5 +6,6 @@
   "description" : "Risotto mix. Needs boiling in 1-part Vegetable Stock.",
   "shortdescription" : "Pearlpea Risotto Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": ["pearlpearisotto"]
 }

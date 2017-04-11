@@ -1,18 +1,7 @@
 {
     "input": [
-        {
-            "item": "simpledough",
-            "count": 1
-        }
+      { "item": "simpledough", "count": 1 }
     ],
-    "output": {
-        "item": "campfirebread",
-        "count": 1
-    },
-    "groups": [
-        "campfire",
-        "consumables",
-        "foodhealing",
-        "all"
-    ]
+    "output": { "item": "campfirebread", "count": 1 },
+    "groups": [ "campfire", "consumables", "foodhealing", "all" ]
 }

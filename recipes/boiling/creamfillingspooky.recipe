@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "basiccreamfilling", "count" : 1 },
-	{ "item" : "choppedboneboo", "count" : 1 }
-      ],
+    { "item" : "choppedboneboo", "count" : 1 },
+    { "item" : "basiccreamfilling", "count" : 1 }
+  ],
   "output" : { "item" : "creamfillingspooky", "count" : 1 },
   "groups" : [ "boiling", "consumables"]
 }

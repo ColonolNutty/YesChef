@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "meatpiemix", "count" : 1 },
-	{ "item" : "liquidwater", "count" : 2 }
-      ],
+    { "item" : "liquidwater", "count" : 2 }
+  ],
   "output" : { "item" : "simmeredmeatpiemix", "count" : 1 },
   "groups" : [ "boiling", "consumables"]
 }

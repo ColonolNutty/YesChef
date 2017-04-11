@@ -14,5 +14,9 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup": ["creamfillingoculemon",
+                              "cyanidermix",
+                              "oculemonstewmix",
+                              "reefpodsurprisemix"]
 }

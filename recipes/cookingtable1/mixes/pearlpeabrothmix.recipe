@@ -4,7 +4,7 @@
     { "item" : "pearlpea", "count" : 4 },
     { "item" : "choppedbeakseed", "count" : 1 },
     { "item" : "breadcrumbs", "count" : 1 },
-	{ "item" : "choppedtomato", "count" : 1 }
+    { "item" : "choppedtomato", "count" : 1 }
   ],
   "output" : { "item" : "pearlpeabrothmix", "count" : 1 },
   "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing" ]

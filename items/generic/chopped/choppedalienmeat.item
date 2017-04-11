@@ -5,7 +5,16 @@
   "inventoryIcon" : "choppedalienmeat.png",
   "description" : "Diced meat. I can't eat it yet..",
   "shortdescription" : "Raw Diced Alienmeat",
-  "learnBlueprintsOnPickup" : ["mountainmanstewmix", "rawmeatdumplings", "meatpiemix", "meatstewmix"],
   "category" : "cookingIngredient",
-  "maxStack" : 1000
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup" : ["mountainmanstewmix", 
+                               "rawmeatdumplings",
+                               "meatpiemix",
+                               "meatstewmix",
+                               "rawpasty",
+                               "blendedalienmeat",
+                               "meatpiemix",
+                               "meatstewmix",
+                               "oculemonstewmix",
+                               "mountainmanstewmix"]
 }

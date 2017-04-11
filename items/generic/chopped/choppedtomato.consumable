@@ -14,5 +14,17 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup": ["tomatojuice",
+                              "cheeseburger",
+                              "gardensalad",
+                              "hamburger",
+                              "meatstewmix",
+                              "pearlpeabrothmix",
+                              "relishmix",
+                              "stockvegetablemix",
+                              "tomatosoupmix",
+                              "rawpizza",
+                              "saltsalad",
+                              "mountainmanstewmix"]
 }
