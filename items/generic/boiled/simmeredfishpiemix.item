@@ -4,7 +4,6 @@
   "inventoryIcon" : "simmeredfishpiemix.png",
   "description" : "Simmered fish pie mix ready for use.",
   "shortdescription" : "Simmered Fishpie Mix",
-  "learnBlueprintsOnPickup" : ["rawfishpie"],
   "category" : "cookingIngredient",
   "maxStack" : 1000,
   "learnBlueprintsOnPickup": ["rawfishpie"]

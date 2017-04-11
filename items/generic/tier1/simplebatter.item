@@ -4,7 +4,6 @@
   "inventoryIcon" : "simplebatter.png",
   "description" : "A basic savoury batter mix. Suitable for coating and frying.",
   "shortdescription" : "Simple Batter",
-"learnBlueprintsOnPickup" : ["rawbatteredfish"],
   "category" : "cookingIngredient",
   "maxStack" : 1000,
   "learnBlueprintsOnPickup": ["rawbatteredfish"]
