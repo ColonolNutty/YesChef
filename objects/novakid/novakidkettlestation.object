@@ -92,7 +92,7 @@
     "preciseStandPositionRight" : [1.0, 0.0],
     "maxNpcs" : 1
   },
-"recipeGroup" : "purify",
+"recipeGroup" : "purifying",
   "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
   "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/purifystation.config",
