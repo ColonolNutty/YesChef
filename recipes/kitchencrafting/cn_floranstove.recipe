@@ -5,5 +5,5 @@
     { "item" : "glassmaterial", "count" : 1 }
   ],
   "output" : { "item" : "floranstove", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+  "groups" : [ "cn_kitchencrafting", "floran", "craftingstations", "tools", "all" ]
 }

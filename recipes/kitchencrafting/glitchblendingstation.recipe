@@ -5,5 +5,5 @@
     { "item" : "darkwoodmaterial", "count" : 5 }
   ],
   "output" : { "item" : "glitchblendingstation", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+  "groups" : [ "cn_kitchencrafting", "glitch", "craftingstations", "tools", "all" ]
 }

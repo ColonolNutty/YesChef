@@ -5,5 +5,5 @@
     { "item" : "glassmaterial", "count" : 3 }
   ],
   "output" : { "item" : "novakidbakingstation", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+  "groups" : [ "cn_kitchencrafting", "novakid", "craftingstations", "tools", "all" ]
 }

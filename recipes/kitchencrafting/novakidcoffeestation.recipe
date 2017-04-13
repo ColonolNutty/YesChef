@@ -1,12 +1,9 @@
 {
   "input" : [
-    { "item" : "ironbar", "count" : 10 },
-    { "item" : "copperbar", "count" : 10 },
-{ "item" : "glassmaterial", "count" : 10 }
+    { "item" : "ironbar", "count" : 5 },
+    { "item" : "copperbar", "count" : 3 },
+    { "item" : "glassmaterial", "count" : 1 }
   ],
-  "output" : {
-    "item" : "novakidcoffeestation",
-    "count" : 1
-  },
-  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+  "output" : { "item" : "novakidcoffeestation", "count" : 1 },
+  "groups" : [ "cn_kitchencrafting", "novakid", "craftingstations", "tools", "all" ]
 }

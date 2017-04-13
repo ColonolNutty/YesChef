@@ -4,5 +4,5 @@
     { "item" : "darkwoodmaterial", "count" : 5 }
   ],
   "output" : { "item" : "glitchchoppingstation", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
+  "groups" : [ "cn_kitchencrafting", "glitch", "craftingstations", "tools", "all" ]
 }
