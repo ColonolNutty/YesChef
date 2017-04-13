@@ -1,11 +1,8 @@
 {
   "input" : [
-    { "item" : "ironbar", "count" : 5 },
-	{ "item" : "darkwoodmaterial", "count" : 10 }
+    { "item" : "ironbar", "count" : 1 },
+    { "item" : "darkwoodmaterial", "count" : 10 }
   ],
-  "output" : {
-    "item" : "chopstation",
-    "count" : 1
-  },
+  "output" : { "item" : "chopstation", "count" : 1 },
   "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
 }

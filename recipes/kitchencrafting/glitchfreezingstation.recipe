@@ -1,11 +1,8 @@
 {
   "input" : [
-    { "item" : "darkwoodmaterial", "count" : 10 },
-    { "item" : "ice", "count" : 10 }
+    { "item" : "darkwoodmaterial", "count" : 5 },
+    { "item" : "ice", "count" : 5 }
   ],
-  "output" : {
-    "item" : "glitchfreezingstation",
-    "count" : 1
-  },
+  "output" : { "item" : "glitchfreezingstation", "count" : 1 },
   "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
 }

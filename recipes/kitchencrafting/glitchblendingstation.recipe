@@ -1,12 +1,9 @@
 {
   "input" : [
-    { "item" : "ironbar", "count" : 5 },
-    { "item" : "copperbar", "count" : 5 },
-{ "item" : "darkwoodmaterial", "count" : 10 }
+    { "item" : "ironbar", "count" : 3 },
+    { "item" : "copperbar", "count" : 2 },
+    { "item" : "darkwoodmaterial", "count" : 5 }
   ],
-  "output" : {
-    "item" : "glitchblendingstation",
-    "count" : 1
-  },
+  "output" : { "item" : "glitchblendingstation", "count" : 1 },
   "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
 }

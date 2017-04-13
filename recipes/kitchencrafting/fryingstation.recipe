@@ -1,11 +1,8 @@
 {
   "input" : [
-    { "item" : "ironbar", "count" : 10 },
-    { "item" : "copperbar", "count" : 10 }
+    { "item" : "ironbar", "count" : 5 },
+    { "item" : "copperbar", "count" : 3 }
   ],
-  "output" : {
-    "item" : "frystation",
-    "count" : 1
-  },
+  "output" : { "item" : "frystation", "count" : 1 },
   "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
 }

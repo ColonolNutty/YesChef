@@ -1,12 +1,9 @@
 {
   "input" : [
-    { "item" : "ironbar", "count" : 5 },
-    { "item" : "copperbar", "count" : 5 },
-{ "item" : "glassmaterial", "count" : 10 }
+    { "item" : "ironbar", "count" : 3 },
+    { "item" : "copperbar", "count" : 2 },
+    { "item" : "glassmaterial", "count" : 2 }
   ],
-  "output" : {
-    "item" : "blendstation",
-    "count" : 1
-  },
+  "output" : { "item" : "blendstation", "count" : 1 },
   "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
 }

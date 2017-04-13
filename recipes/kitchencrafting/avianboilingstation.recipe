@@ -1,11 +1,8 @@
 {
   "input" : [
-    { "item" : "ironbar", "count" : 10 },
-    { "item" : "copperbar", "count" : 10 }
+    { "item" : "ironbar", "count" : 3 },
+    { "item" : "copperbar", "count" : 2 }
   ],
-  "output" : {
-    "item" : "avianboilingstation",
-    "count" : 1
-  },
+  "output" : { "item" : "avianboilingstation", "count" : 1 },
   "groups" : [ "cn_kitchencrafting", "craftingstations", "tools", "all" ]
 }
