@@ -31,7 +31,7 @@
   ],
 
   "recipeGroup" : "purifying",
-  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/purifystation.config",
   "frameCooldown" : 67,

@@ -68,7 +68,7 @@
     "maxNpcs" : 1
   },
 "recipeGroup" : "coffee",
-  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 3,
   "uiConfig" : "/interface/objectcrafting/coffeemachine.config",
   "frameCooldown" : 5,

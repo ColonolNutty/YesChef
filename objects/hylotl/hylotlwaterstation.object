@@ -78,12 +78,12 @@
 
   ],
 
-  "soundEffect" : "/sfx/objects/fountain_small1.wav",
+  "soundEffect" : "/sfx/objects/fountain_small1.ogg",
 "soundEffectRadius" : 20,
 
 
   "recipeGroup" : "watermachine",
-  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/fillstation.config",
   "frameCooldown" : 67,

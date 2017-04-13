@@ -55,12 +55,12 @@
     }
   ],
 
-  "soundEffect" : "/sfx/objects/campfire.wav",
+  "soundEffect" : "/sfx/objects/campfire.ogg",
 
   "statusEffects" : [ ],
 
   "recipeGroup" : "chopping",
-  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/chopstation.config",
   "frameCooldown" : 5,

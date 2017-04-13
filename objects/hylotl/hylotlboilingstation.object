@@ -78,11 +78,11 @@
     }
   },
 
-"soundEffect" : "/sfx/objects/spookycauldron.wav",
+"soundEffect" : "/sfx/objects/spookycauldron.ogg",
 "soundEffectRadius" : 20,
 
   "recipeGroup" : "boiling",
-  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 3,
   "uiConfig" : "/interface/objectcrafting/boilstation.config",
   "frameCooldown" : 67,

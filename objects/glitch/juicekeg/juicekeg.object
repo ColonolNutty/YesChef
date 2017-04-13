@@ -32,7 +32,7 @@
     }
   ],
 "recipeGroup" : "juicekeg",
-  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/fillstation.config",
   "frameCooldown" : 5,

@@ -68,7 +68,7 @@
     "maxNpcs" : 1
   },
 "recipeGroup" : "chopping",
-  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/chopstation.config",
   "frameCooldown" : 5,

@@ -56,9 +56,9 @@
       "anchors" : [ "bottom" ]
     }
   ],
-  "soundEffect" : "/sfx/objects/torch.wav",
+  "soundEffect" : "/sfx/objects/torch.ogg",
   "recipeGroup" : "baking",
-  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/bakestation.config",
   "frameCooldown" : 5,

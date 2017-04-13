@@ -82,7 +82,7 @@
 
 
   "recipeGroup" : "baking",
-  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/bakestation.config",
   "frameCooldown" : 67,
