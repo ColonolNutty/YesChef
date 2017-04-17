@@ -10,6 +10,7 @@
     "config" : "/interface/windowconfig/cn_recipebook.config",
     "filter" : [ "baking",
                  "blending",
+                 "blender",
                  "boiling",
                  "coffee",
                  "chopping",
@@ -17,7 +18,8 @@
                  "frying",
                  "purifying",
                  "handmill",
-                 "handpress" ]
+                 "handpress",
+                 "grinderMFM" ]
   },
   "description" : "Used to find the recipe you're looking for",
   "shortdescription" : "^orange;Recipe Book (YesChefMFM)^white;",
