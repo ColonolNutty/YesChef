@@ -3,5 +3,14 @@
     "op": "replace",
     "path": "/groups",
     "value": [ "cn_kitchencrafting", "generic", "craftingstations", "tools", "all" ]
+  },
+  {
+    "op": "replace",
+    "path": "/input",
+    "value": [
+      { "item" : "ironbar", "count" : 3 },
+      { "item" : "copperbar", "count" : 2 },
+      { "item" : "glassmaterial", "count" : 1 }
+    ]
   }
 ]
