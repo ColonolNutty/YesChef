@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "durasteelbar", "count" : 2 },
-    { "item" : "siliconboard", "count" : 1 }
-  ],
-  "output" : { "item" : "nanostove", "count" : 1 },
-  "groups" : [ "craftingwiring", "mechanics", "objects", "tools", "all" ]
-}

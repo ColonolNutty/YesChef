@@ -9,8 +9,8 @@
     "path": "/input",
     "value": [
       { "item" : "ironbar", "count" : 5 },
-      { "item" : "copperbar", "count" : 2 },
-      { "item" : "glassmaterial", "count" : 1 }
+      { "item" : "copperbar", "count" : 3 },
+      { "item" : "glassmaterial", "count" : 2 }
     ]
   }
 ]

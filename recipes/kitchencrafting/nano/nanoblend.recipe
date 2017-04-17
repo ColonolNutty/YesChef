@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 3 },
+    { "item" : "siliconboard", "count" : 2 },
+    { "item" : "glassmaterial", "count" : 2 }
+  ],
+  "output" : { "item" : "nanoblend", "count" : 1 },
+  "groups" : [ "cn_kitchencrafting", "nano", "craftingstations", "tools", "all" ]
+}

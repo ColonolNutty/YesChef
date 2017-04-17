@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 5 }
+  ],
+  "output" : { "item" : "nanochop", "count" : 1 },
+  "groups" : [ "cn_kitchencrafting", "nano", "craftingstations", "tools", "all" ]
+}
