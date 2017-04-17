@@ -1,0 +1,12 @@
+[
+  {
+    "op" : "replace",
+    "path" : "/slotCount",
+    "value" : 3
+  },
+  {
+    "op" : "replace",
+    "path" : "/uiConfig",
+    "value" : "/interface/objectcrafting/blendstation.config"
+  }
+]

@@ -10,7 +10,6 @@
     "config" : "/interface/windowconfig/cn_recipebook.config",
     "filter" : [ "baking",
                  "blending",
-                 "blender",
                  "boiling",
                  "coffee",
                  "chopping",
