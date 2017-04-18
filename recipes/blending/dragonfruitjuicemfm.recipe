@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "choppeddragonfruit", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
-  ],
-  "output" : { "item" : "dragonfruitjuiceMFM", "count" : 1 },
-  "groups" : [ "blending", "consumables", "foodhealing","all" ]
-}
