@@ -15,5 +15,6 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup": ["automatostewmix"]
+  "learnBlueprintsOnPickup": ["automatostewmix",
+                              "boileddiodiaCNYC"]
 }

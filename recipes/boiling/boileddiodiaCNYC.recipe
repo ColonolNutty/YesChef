@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "choppeddiodia", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "boileddiodiaCNYC", "count" : 1 },
+  "groups" : [ "boiling", "consumables" ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "choppedasparagus", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "boiledasparagusCNYC", "count" : 1 },
+  "groups" : [ "boiling", "consumables" ]
+}

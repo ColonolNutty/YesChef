@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "choppedlemon", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "boiledlemonCNYC", "count" : 1 },
+  "groups" : [ "boiling", "consumables" ]
+}

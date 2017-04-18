@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "choppedboneboo", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "boiledbonebooCNYC", "count" : 1 },
+  "groups" : [ "boiling", "consumables" ]
+}

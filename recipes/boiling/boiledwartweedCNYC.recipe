@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "choppedwartweed", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "boiledwartweedCNYC", "count" : 1 },
+  "groups" : [ "boiling", "consumables" ]
+}

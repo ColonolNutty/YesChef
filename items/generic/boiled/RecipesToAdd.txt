@@ -7,8 +7,8 @@ boiledblueberriesCNYC
 boiledboltbulbCNYC
 boiledbonebooCNYC
 boiledbrusselsproutCNYC
+boiledchiliCNYC
 boiledcoralcreepCNYC
-boiledcornCNYC
 boiledcrystalplantCNYC
 boiledcucumberCNYC
 boiledcurrentcornCNYC
@@ -33,8 +33,8 @@ boiledmangoCNYC
 boiledmushroomCNYC
 boiledneonmelonCNYC
 boiledoculemonCNYC
-boiledorangebellpepperCNYC
 boiledorangeCNYC
+boiledorangebellpepperCNYC
 boiledparsnipCNYC
 boiledpineappleCNYC
 boiledpussplumCNYC

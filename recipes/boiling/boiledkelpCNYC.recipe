@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "choppedkelp", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "boiledkelpCNYC", "count" : 1 },
+  "groups" : [ "boiling", "consumables" ]
+}

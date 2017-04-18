@@ -15,7 +15,5 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup": ["pearlpeabrothmix",
-                              "rawfeatherfood",
-                              "beakseedbreadmix"]
+  "learnBlueprintsOnPickup": [ "boiledbeetMFM" ]
 }

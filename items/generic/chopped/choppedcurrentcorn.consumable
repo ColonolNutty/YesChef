@@ -15,5 +15,7 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup": ["2kbpotage", "automatostewmix"]
+  "learnBlueprintsOnPickup": ["2kbpotage",
+                              "automatostewmix",
+                              "boiledcurrentcornCNYC"]
 }

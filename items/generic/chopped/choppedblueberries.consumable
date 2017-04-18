@@ -15,5 +15,6 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup": ["blueberryshake"]
+  "learnBlueprintsOnPickup": ["blueberryshake",
+                              "boiledblueberriesCNYC"]
 }

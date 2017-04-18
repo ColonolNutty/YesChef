@@ -15,5 +15,6 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup": ["rawfeatherfood"]
+  "learnBlueprintsOnPickup": ["rawfeatherfood",
+                              "boiledfeathercrownCNYC"]
 }

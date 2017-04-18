@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "choppedblueberries", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "boiledblueberriesCNYC", "count" : 1 },
+  "groups" : [ "boiling", "consumables" ]
+}
