@@ -1,10 +1,10 @@
 {
-  "itemName" : "boiledcarrot",
+  "itemName" : "boiledsweetpotatoCNYC",
   "rarity" : "Common",
   "price" : 20,
-  "inventoryIcon" : "boiledcarrot.png",
+  "inventoryIcon" : "boiledsweetpotatoCNYC.png",
   "description" : "Boiled and reduced!",
-  "shortdescription" : "Boiled Carrot",
+  "shortdescription" : "Boiled Sweet Potato",
   "category" : "preparedFood",
   "foodValue": 15,
   "tooltipKind" : "food",

@@ -1,10 +1,10 @@
 {
-  "itemName" : "boiledcarrot",
+  "itemName" : "boiledjalapenopepperCNYC",
   "rarity" : "Common",
   "price" : 20,
-  "inventoryIcon" : "boiledcarrot.png",
+  "inventoryIcon" : "boiledjalapenopepperCNYC.png",
   "description" : "Boiled and reduced!",
-  "shortdescription" : "Boiled Carrot",
+  "shortdescription" : "Boiled Jalapeno Pepper",
   "category" : "preparedFood",
   "foodValue": 15,
   "tooltipKind" : "food",

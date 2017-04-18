@@ -1,10 +1,10 @@
 {
-  "itemName" : "boiledcarrot",
+  "itemName" : "boileddirturchinCNYC",
   "rarity" : "Common",
   "price" : 20,
-  "inventoryIcon" : "boiledcarrot.png",
+  "inventoryIcon" : "boileddirturchinCNYC.png",
   "description" : "Boiled and reduced!",
-  "shortdescription" : "Boiled Carrot",
+  "shortdescription" : "Boiled Diodia",
   "category" : "preparedFood",
   "foodValue": 15,
   "tooltipKind" : "food",

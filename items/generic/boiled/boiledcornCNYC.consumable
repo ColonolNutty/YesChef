@@ -1,10 +1,10 @@
 {
-  "itemName" : "boiledcarrot",
+  "itemName" : "boiledcornCNYC",
   "rarity" : "Common",
   "price" : 20,
-  "inventoryIcon" : "boiledcarrot.png",
+  "inventoryIcon" : "boiledcornCNYC.png",
   "description" : "Boiled and reduced!",
-  "shortdescription" : "Boiled Carrot",
+  "shortdescription" : "Boiled Corn",
   "category" : "preparedFood",
   "foodValue": 15,
   "tooltipKind" : "food",

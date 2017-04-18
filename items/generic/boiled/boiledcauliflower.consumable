@@ -5,7 +5,7 @@
   "inventoryIcon" : "boiledcauliflower.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Cauliflower",
-  "category" : "food",
+  "category" : "preparedFood",
   "foodValue": 15,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",

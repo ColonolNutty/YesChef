@@ -5,7 +5,7 @@
   "inventoryIcon" : "boiledalienfruit.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Alien Fruit",
-  "category" : "food",
+  "category" : "preparedFood",
   "foodValue" : 10,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",

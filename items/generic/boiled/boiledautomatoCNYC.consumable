@@ -1,12 +1,12 @@
 {
-  "itemName" : "boiledcarrot",
+  "itemName" : "boiledautomatoCNYC",
   "rarity" : "Common",
   "price" : 20,
-  "inventoryIcon" : "boiledcarrot.png",
+  "inventoryIcon" : "boiledautomatoCNYC.png",
   "description" : "Boiled and reduced!",
-  "shortdescription" : "Boiled Carrot",
+  "shortdescription" : "Boiled Automato",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue" : 10,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -15,9 +15,6 @@
   "blockingEffects" : [
     "wellfed"
   ],
-
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
-  "learnBlueprintsOnPickup": ["roastdinner",
-                              "luckydip"]
+  "emitters" : [ "Eating" ]
 }
