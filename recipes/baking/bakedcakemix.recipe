@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "cakemix", "count" : 1 }
+    { "item" : "cnycakemix", "count" : 1 }
   ],
   "output" : { "item" : "bakedcakemix", "count" : 1 },
   "groups" : [ "baking", "consumables", "foodhealing", "foodmobility" ]

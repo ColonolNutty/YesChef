@@ -1,8 +1,8 @@
 {
-  "itemName" : "cakemix",
+  "itemName" : "cnycakemix",
   "rarity" : "Common",
   "price" : 40,
-  "inventoryIcon" : "cakemix.png",
+  "inventoryIcon" : "cnycakemix.png",
   "description" : "Cake mix. Bake or Fry in oil.",
   "shortdescription" : "Cake Mix",
   "category" : "cookingIngredient",
