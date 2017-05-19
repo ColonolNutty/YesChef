@@ -3,6 +3,6 @@
   "description" : "Get fancy with the spices. Completley overhauls the cooking flow and gameplay. Thanks to JaseofBase for the Original Mod, and to me ColonolNutty for making it great again",
   "friendlyName" : "YesChef",
   "name" : "YesChef",
-  "requires" : ["MoreFarming"],
+  "includes" : ["MoreFarming"],
   "version" : "2017-17-04"
 }
