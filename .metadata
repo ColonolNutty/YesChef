@@ -1,8 +1,10 @@
 {
   "author" : "ColonolNutty",
-  "description" : "Get fancy with the spices. Completley overhauls the cooking flow and gameplay. Thanks to JaseofBase for the Original Mod, and to me ColonolNutty for making it great again",
-  "friendlyName" : "YesChef",
-  "name" : "YesChef",
+  "description" : "Get fancy with the spices. Completley overhauls the cooking flow and gameplay. Thanks to JaseofBase for the Original Mod, and to me ColonolNutty for making it great again\n\nFor a more detailed (and definitely prettier) description check out the Chucklefish forum version here:\nhttp://community.playstarbound.com/resources/cn-yes-chef-back-in-the-kitchen.4538/\n\nAnd for those using Frackin' Universe I've a special addon for More Farming here:\nhttp://community.playstarbound.com/resources/cn-more-farming-revitalization-frackin-universe-addon.4710/\n\n\nCredits:\nJaseofBase for the original mod\nColonolNutty for making it great again",
+  "friendlyName" : "CN Yes Chef: Back in the Kitchen",
   "includes" : ["MoreFarming"],
-  "version" : "2017-17-04"
+  "link" : "steam://url/CommunityFilePage/928906190",
+  "name" : "YesChef",
+  "steamContentId" : "928906190",
+  "version" : "v2.0.2"
 }
