@@ -3,6 +3,6 @@
     { "item" : "egg", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
-  "output" : { "item" : "boiledegg", "count" : 1 },
+  "output" : { "item" : "boiledeggYC", "count" : 1 },
   "groups" : [ "boiling", "consumables"]
 }

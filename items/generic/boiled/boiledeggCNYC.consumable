@@ -1,8 +1,8 @@
 {
-  "itemName" : "boiledegg",
+  "itemName" : "boiledeggCNYC",
   "rarity" : "Common",
   "price" : 20,
-  "inventoryIcon" : "boiledegg.png",
+  "inventoryIcon" : "boiledeggCNYC.png",
   "description" : "Hardboiled!",
   "shortdescription" : "Boiled Egg",
   "category" : "food",
