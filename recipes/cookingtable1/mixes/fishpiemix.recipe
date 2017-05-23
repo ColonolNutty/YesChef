@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "cheese", "count" : 1 },
-    { "item" : "butter", "count" : 2 },
+    { "item" : "butterMFM", "count" : 2 },
     { "item" : "choppedrawfish", "count" : 2 },
     { "item" : "flourMFM", "count" : 2 },
     { "item" : "choppedonion", "count" : 1 }

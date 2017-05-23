@@ -3,7 +3,7 @@
     { "item" : "flourMFM", "count" : 2 },
     { "item" : "egg", "count" : 4 },
     { "item" : "sugar", "count" : 2 },
-    { "item" : "butter", "count" : 2 }
+    { "item" : "butterMFM", "count" : 2 }
   ],
   "output" : { "item" : "cnycakemix", "count" : 1 },
   "groups" : [ "craftingfood", "snacks", "consumables", "foodhealing" ]

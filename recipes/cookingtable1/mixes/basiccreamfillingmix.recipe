@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "flourMFM", "count" : 2 },
     { "item" : "sugar", "count" : 2 },
-    { "item" : "butter", "count" : 1 },
+    { "item" : "butterMFM", "count" : 1 },
     { "item" : "egg", "count" : 2 }
   ],
   "output" : { "item" : "basiccreamfillingmix", "count" : 1 },
