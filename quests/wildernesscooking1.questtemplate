@@ -3,12 +3,26 @@
   "title" : "^green;Cooking for Survival - I",
   "text" : "The first page outlines how to make flour from grains. According to this i'll need to gather up some stone and set them up to make a set of ^orange;Camp Millstones^white;.",
   "completionText" : "Some good sizable rocks should be enough to grind ingredients. I feel like Jay Sears, just without the questionable shorts. Right, what's next..",
-  "completionConditions" : [
-    { "type" : "gather", "item" : "campgrinder", "count" : 1, "consume" : false }
-  ],
-  "speaker" : "questGiver",
-  "rewards" : [],
+  "speaker" : "player",
   "moneyRange" : [10, 10],
-  "canBeAbandoned" : false,
-  "followUp" : "wildernesscooking2.gearup"
+  
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "player",
+      "questComplete" : "player"
+    },
+    "followUp" : "wildernesscooking2.gearup",
+	"requireTurnIn" : false,
+	"canBeAbandoned" : false,
+	"conditions" : [
+		{
+			"type" : "gatherItem",
+			"itemName" : "campgrinder",
+			"count" : 1,
+			"consume" : false
+		}
+	]
+  }
 }
