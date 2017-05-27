@@ -4,5 +4,5 @@
     { "item" : "copperbar", "count" : 2 }
   ],
   "output" : { "item" : "avianfryingstation", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "avian", "craftingstations", "tools", "all" ]
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "avianMFM", "fryingmachineMFM", "all" ]
 }

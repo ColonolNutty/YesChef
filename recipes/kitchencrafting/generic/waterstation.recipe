@@ -5,5 +5,5 @@
     { "item" : "glassmaterial", "count" : 1 }
   ],
   "output" : { "item" : "waterstation", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "generic", "craftingstations", "tools", "all" ]
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "genericMFM", "watermachineMFM", "all" ]
 }

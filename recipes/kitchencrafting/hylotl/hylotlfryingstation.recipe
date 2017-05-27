@@ -4,5 +4,5 @@
     { "item" : "darkwoodmaterial", "count" : 3 }
   ],
   "output" : { "item" : "hylotlfryingstation", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "hylotl", "craftingstations", "tools", "all" ]
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "hylotlMFM", "fryingmachineMFM", "all" ]
 }

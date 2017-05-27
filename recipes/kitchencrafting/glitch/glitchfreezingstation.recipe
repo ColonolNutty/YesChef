@@ -4,5 +4,5 @@
     { "item" : "ice", "count" : 5 }
   ],
   "output" : { "item" : "glitchfreezingstation", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "glitch", "craftingstations", "tools", "all" ]
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "glitchMFM", "freezingmachineMFM", "all" ]
 }

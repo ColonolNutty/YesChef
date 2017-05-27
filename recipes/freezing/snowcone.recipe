@@ -3,5 +3,5 @@
     { "item" : "snowconemix", "count" : 1 }
   ],
   "output" : { "item" : "snowcone", "count" : 1 },
-  "groups" : [ "freezing", "consumables", "foodhealing", "foodmobility" ]
+  "groups" : [ "freezingMFM", "consumables", "foodhealing", "foodmobility" ]
 }

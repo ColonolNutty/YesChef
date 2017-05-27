@@ -52,7 +52,7 @@
 
     "particle" : {
       "type" : "animated",
-"animation" : "/animations/dustclear/dustclear.animation",
+      "animation" : "/animations/dustclear/dustclearCNYC.animation",
       "position" : [1.2, 1.1],
       "size" : 1.0,
       "color" : [255, 255, 255, 50],

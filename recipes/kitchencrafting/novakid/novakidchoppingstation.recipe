@@ -4,5 +4,5 @@
     { "item" : "darkwoodmaterial", "count" : 10 }
   ],
   "output" : { "item" : "novakidchoppingstation", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "novakid", "craftingstations", "tools", "all" ]
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "novakidMFM", "choppingmachineMFM", "all" ]
 }

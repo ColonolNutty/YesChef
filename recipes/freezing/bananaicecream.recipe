@@ -3,5 +3,5 @@
     { "item" : "bananaicecreammix", "count" : 1 }
   ],
   "output" : { "item" : "bananaicecream", "count" : 1 },
-  "groups" : [ "freezing", "consumables", "foodhealing", "foodenergyboost", "foodmobility" ]
+  "groups" : [ "freezingMFM", "consumables", "foodhealing", "foodenergyboost", "foodmobility" ]
 }

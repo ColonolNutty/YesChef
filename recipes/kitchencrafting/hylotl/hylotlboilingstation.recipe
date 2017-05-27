@@ -4,5 +4,5 @@
     { "item" : "copperbar", "count" : 2 }
   ],
   "output" : { "item" : "hylotlboilingstation", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "hylotl", "craftingstations", "tools", "all" ]
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "hylotlMFM", "boilingmachineMFM", "all" ]
 }

@@ -5,5 +5,5 @@
     { "item" : "clay", "count" : 5 }
   ],
   "output" : { "item" : "avianbakingstation", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "avian", "craftingstations", "tools", "all" ]
+  "groups" : [ "cn_kitchencrafting", "craftingstations", "avianMFM", "bakingmachineMFM", "all" ]
 }

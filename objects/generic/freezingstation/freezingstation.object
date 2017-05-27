@@ -43,17 +43,15 @@
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
-
-
   ],
 
-"particleEmitter" : {
+  "particleEmitter" : {
     "emissionRate" : 3.0,
     "emissionVariance" : 1.0,
 
     "particle" : {
       "type" : "animated",
-"animation" : "/animations/dustclearblue/dustclearblue.animation",
+      "animation" : "/animations/dustclearblue/dustclearblueCNYC.animation",
       "position" : [-0.8, 1.7],
       "size" : 1.0,
       "color" : [146, 236, 255, 50],
@@ -68,11 +66,10 @@
     "particleVariance" : {
       "initialVelocity" : [0.3, 2.0],
       "position" : [0.2, 0]
-	}
-    },
+    }
+  },
 
-
-  "recipeGroup" : "freezing",
+  "recipeGroup" : "freezingMFM",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/freezestation.config",

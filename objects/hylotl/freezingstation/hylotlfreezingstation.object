@@ -18,7 +18,7 @@
   "humanDescription" : "I think it's a freezer.. why is there a fish in it?",
   "hylotlDescription" : "Thiers alot water can do if given the respect.",
 
-"lightColor" : [125, 143, 179],
+  "lightColor" : [125, 143, 179],
 
   "flickerPeriod" : 0.3,
   "flickerMinIntensity" : 0.5,
@@ -54,7 +54,7 @@
 
   ],
 
-  "recipeGroup" : "freezing",
+  "recipeGroup" : "freezingMFM",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/freezestation.config",
