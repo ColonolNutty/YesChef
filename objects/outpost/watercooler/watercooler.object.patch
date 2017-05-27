@@ -9,7 +9,11 @@
   ],
   [
     { "op": "test", "path": "/openSounds", "inverse" : true },
-    { "op" : "add", "path" : "/openSounds", "value" : [] }
+    { "op" : "add", "path" : "/openSounds", "value" : ["/sfx/objects/sinkMFMenter.ogg"] }
+  ],
+  [
+    { "op": "test", "path": "/closeSounds", "inverse" : true },
+    { "op" : "add", "path" : "/closeSounds", "value" : [ "/sfx/objects/sinkMFMexit.ogg" ] }
   ],
   [
     { "op": "test", "path": "/slotCount", "inverse" : true },
@@ -41,7 +45,7 @@
     {
       "op" : "replace",
       "path" : "/recipeGroup",
-      "value" : "watermachine"
+      "value" : "sinkMFM"
     },
     {
       "op" : "replace",
@@ -56,7 +60,7 @@
     {
       "op" : "replace",
       "path" : "/uiConfig",
-      "value" : "/interface/objectcrafting/fillstation.config"
+      "value" : "/interface/objectcrafting/sinkMFM.config"
     },
     {
       "op" : "replace",

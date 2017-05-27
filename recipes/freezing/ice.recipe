@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "liquidwater", "count" : 1 }
-  ],
-  "output" : { "item" : "ice", "count" : 1 },
-  "groups" : [ "freezing", "icemaker", "consumables", "all" ]
-}

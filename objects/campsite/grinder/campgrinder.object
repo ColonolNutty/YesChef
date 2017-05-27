@@ -33,7 +33,7 @@
   "recipeGroup" : "handmill",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
-  "uiConfig" : "/interface/objectcrafting/handmill.config",
+  "uiConfig" : "/interface/objectcrafting/handmillMFM.config",
   "frameCooldown" : 67,
   "autoCloseCooldown" : 3600
 }
