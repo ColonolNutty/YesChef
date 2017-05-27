@@ -60,7 +60,7 @@
     {
       "op" : "replace",
       "path" : "/uiConfig",
-      "value" : "/interface/objectcrafting/fillstation.config"
+      "value" : "/interface/objectcrafting/sinkMFM.config"
     },
     {
       "op" : "replace",
