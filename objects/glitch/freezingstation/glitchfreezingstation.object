@@ -57,7 +57,8 @@
   "recipeGroup" : "freezingMFM",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
-  "uiConfig" : "/interface/objectcrafting/freezestation.config",
+  "uiConfig" : "/interface/objectcrafting/freezerMFM.config",
   "frameCooldown" : 67,
-  "autoCloseCooldown" : 3600
+  "autoCloseCooldown" : 3600,
+  "learnBlueprintsOnPickup" : ["ice"]
 }
