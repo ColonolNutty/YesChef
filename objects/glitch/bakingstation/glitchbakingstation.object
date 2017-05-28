@@ -18,7 +18,7 @@
   "humanDescription" : "Does the job, looks nice too!",
   "hylotlDescription" : "Simple and effective.",
 
-"lightColor" : [218, 83, 2, 5],
+  "lightColor" : [218, 83, 2, 5],
 
   "flickerPeriod" : 0.8,
   "flickerMinIntensity" : 0.2,
@@ -51,10 +51,7 @@
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
-
   ],
-
-
 
   "recipeGroup" : "baking",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
