@@ -38,7 +38,8 @@
       "animationCycle" : 0.6,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
     },
     {
       "imageLayers" : [ { "image" : "glitchbakingstation.png:<color>.<frame>", "fullbright" : true }, { "image" : "glitchbakingstationlit.png:<color>.<frame>" } ],
@@ -49,7 +50,8 @@
       "animationCycle" : 0.6,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
     }
   ],
 

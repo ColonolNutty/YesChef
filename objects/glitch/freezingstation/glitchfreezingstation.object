@@ -38,7 +38,8 @@
       "animationCycle" : 0.6,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
     },
     {
       "imageLayers" : [ { "image" : "glitchfreezingstation.png:<color>", "fullbright" : true }, { "image" : "glitchfreezingstationlit.png:<color>" } ],
@@ -49,9 +50,9 @@
       "animationCycle" : 0.6,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
     }
-
   ],
 
   "recipeGroup" : "freezingMFM",

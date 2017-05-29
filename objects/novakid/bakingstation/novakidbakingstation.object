@@ -38,7 +38,8 @@
       "animationCycle" : 0.6,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
     },
     {
       "imageLayers" : [ { "image" : "novakidbakingstation.png:<color>.<frame>", "fullbright" : true }, { "image" : "novakidbakingstationlit.png:<color>.<frame>" } ],
@@ -49,7 +50,8 @@
       "animationCycle" : 0.6,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
     }
   ],
 
@@ -76,9 +78,6 @@
       "position" : [0.4, 0]
     }
   },
-
-
-
 
   "recipeGroup" : "baking",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],

@@ -28,7 +28,8 @@
       "animationCycle" : 0.6,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
     },
     {
       "imageLayers" : [ { "image" : "novakidfreezingstation.png:<color>", "fullbright" : true }, { "image" : "novakidfreezingstationlit.png:<color>" } ],
@@ -39,9 +40,9 @@
       "animationCycle" : 0.6,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
     }
-
   ],
     
   "scripts" : [ "/scripts/npcToyObject.lua" ],

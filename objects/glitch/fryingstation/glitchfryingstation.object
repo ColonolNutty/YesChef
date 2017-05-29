@@ -55,7 +55,7 @@
 
   ],
 
-"particleEmitter" : {
+  "particleEmitter" : {
     "emissionRate" : 2.0,
     "emissionVariance" : 1.0,
 
