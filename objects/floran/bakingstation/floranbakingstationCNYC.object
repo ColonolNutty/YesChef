@@ -50,7 +50,7 @@
 
   "animation" : "floranbakingstationCNYC.animation",
   "animationPosition" : [1, 14],
-  "placementImage" : "floranbakingstationbaseCNYC.png:default.default",
+  "placementImage" : "floranbakingstationCNYCplacementpreview.png:default.default",
   "placementImagePosition" : [-16, 0],    
 
   "npcToy" : {
