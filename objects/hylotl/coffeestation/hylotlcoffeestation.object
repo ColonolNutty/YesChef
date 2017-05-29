@@ -32,7 +32,7 @@
 
   "recipeGroup" : "coffee",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
-  "slotCount" : 3,
+  "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/coffeemachine.config",
   "frameCooldown" : 67,
   "autoCloseCooldown" : 3600

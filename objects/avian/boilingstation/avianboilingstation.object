@@ -18,7 +18,7 @@
   "humanDescription" : "aaaaaaaah-muenga.. can't remember the rest..",
   "hylotlDescription" : "Functional cookpot. A little heavier then i'm used to",
 
-"lightColor" : [218, 83, 2, 5],
+  "lightColor" : [218, 83, 2, 5],
 
   "flickerPeriod" : 0.8,
   "flickerMinIntensity" : 0.1,
@@ -77,8 +77,6 @@
     }
 
   ],
-
-
 
   "recipeGroup" : "boiling",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],

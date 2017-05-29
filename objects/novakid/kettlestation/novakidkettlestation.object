@@ -41,16 +41,15 @@
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
-
   ],
 
-"particleEmitter" : {
+  "particleEmitter" : {
     "emissionRate" : 2.0,
     "emissionVariance" : 1.0,
 
     "particle" : {
       "type" : "animated",
-"animation" : "/animations/coldbreath/coldbreath.animation",
+      "animation" : "/animations/coldbreath/coldbreath.animation",
       "position" : [-3.5, 1.1],
       "size" : 1.0,
       "color" : [255, 255, 255, 50],
@@ -65,8 +64,8 @@
     "particleVariance" : {
       "initialVelocity" : [0.3, 0.0],
       "position" : [0.0, 0.0]
-	}
-    },
+    }
+  },
 
     
   "scripts" : [ "/scripts/npcToyObject.lua" ],
@@ -92,7 +91,7 @@
     "preciseStandPositionRight" : [1.0, 0.0],
     "maxNpcs" : 1
   },
-"recipeGroup" : "purifying",
+  "recipeGroup" : "purifying",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 2,
   "uiConfig" : "/interface/objectcrafting/purifystation.config",

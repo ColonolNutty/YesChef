@@ -56,7 +56,7 @@
     {
       "op" : "replace",
       "path" : "/slotCount",
-      "value" : 3
+      "value" : 2
     },
     {
       "op" : "replace",

@@ -68,7 +68,7 @@
     "preciseStandPositionRight" : [1.0, 0.0],
     "maxNpcs" : 1
   },
-"recipeGroup" : "blending",
+  "recipeGroup" : "blending",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 3,
   "uiConfig" : "/interface/objectcrafting/blendstation.config",

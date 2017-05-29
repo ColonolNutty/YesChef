@@ -18,7 +18,7 @@
   "humanDescription" : "A fistfull of baked goods!",
   "hylotlDescription" : "Wel at least it doesn't clang..",
 
-"lightColor" : [218, 83, 2, 5],
+  "lightColor" : [218, 83, 2, 5],
 
   "flickerPeriod" : 0.8,
   "flickerMinIntensity" : 0.2,
@@ -51,10 +51,9 @@
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
-
   ],
 
-"particleEmitter" : {
+  "particleEmitter" : {
     "emissionRate" : 6.0,
     "emissionVariance" : 1.0,
 
@@ -75,8 +74,8 @@
     "particleVariance" : {
       "initialVelocity" : [0.3, 2.0],
       "position" : [0.4, 0]
-	}
-    },
+    }
+  },
 
 
 

@@ -18,7 +18,7 @@
   "humanDescription" : "That's alot of kelp noodle soup..",
   "hylotlDescription" : "Finnaly I have my own pot again.",
 
-"lightColor" : [179, 149, 107],
+  "lightColor" : [179, 149, 107],
 
   "flickerPeriod" : 0.3,
   "flickerMinIntensity" : 0.85,
@@ -78,8 +78,8 @@
     }
   },
 
-"soundEffect" : "/sfx/objects/spookycauldron.ogg",
-"soundEffectRadius" : 20,
+  "soundEffect" : "/sfx/objects/spookycauldron.ogg",
+  "soundEffectRadius" : 20,
 
   "recipeGroup" : "boiling",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],

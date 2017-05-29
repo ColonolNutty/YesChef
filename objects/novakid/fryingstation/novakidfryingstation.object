@@ -69,9 +69,6 @@
     }
   },
 
-
-
-
   "recipeGroup" : "frying",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 3,
