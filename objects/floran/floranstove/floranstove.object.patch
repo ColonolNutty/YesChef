@@ -43,7 +43,7 @@
     {
       "op" : "replace",
       "path" : "/shortdescription",
-      "value" : "Primitive Stove (Boiling)"
+      "value" : "Primitive Pot (Boiling)"
     },
     {
       "op" : "replace",
