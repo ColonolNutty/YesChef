@@ -56,12 +56,12 @@
     {
       "op" : "replace",
       "path" : "/slotCount",
-      "value" : 2
+      "value" : 3
     },
     {
       "op" : "replace",
       "path" : "/uiConfig",
-      "value" : "/interface/objectcrafting/coffeemachine.config"
+      "value" : "/interface/objectcrafting/coffeemachineMFM.config"
     },
     {
       "op" : "replace",
