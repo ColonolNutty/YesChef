@@ -1,8 +1,8 @@
 {
-  "itemName" : "boiledpotato",
+  "itemName" : "boiledpotatoCNYC",
   "rarity" : "Common",
   "price" : 20,
-  "inventoryIcon" : "boiledpotato.png",
+  "inventoryIcon" : "boiledpotatoCNYC.png",
   "description" : "Boiled and fluffy!",
   "shortdescription" : "Boiled Potato",
   "category" : "food",
