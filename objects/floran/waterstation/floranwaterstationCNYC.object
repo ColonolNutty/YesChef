@@ -1,0 +1,31 @@
+{
+  "objectName" : "floranwaterstationCNYC",
+  "retainObjectParametersInItem" : true,
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Bone bowl containing a pool of water!",
+  "shortdescription" : "^orange;Floran Bone Wash Basin^white;",
+  "subtitle" : "Water tub!",
+  "race" : "generic",
+  "category" : "Cookware",
+  "price" : 75,
+  "objectType" : "container",
+
+  "inventoryIcon" : "floranwaterstationCNYCicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "floranwaterstationCNYC.png:<color>",
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "recipeGroup" : "sinkMFM",
+  "openSounds" : [ "/sfx/objects/sinkMFMenter.ogg" ],
+  "closeSounds" : [ "/sfx/objects/sinkMFMexit.ogg" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/sinkMFM.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}
