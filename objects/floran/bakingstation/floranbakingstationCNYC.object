@@ -30,17 +30,8 @@
   "inventoryIcon" : "floranbakingstationCNYCicon.png",
   "orientations" : [
     {
-      "image" : "floranbakingstationbaseCNYC.png:default.<frame>",
-      "imagePosition" : [-16, 0],    
-      "direction" : "left",
-      "flipImages" : true,
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    },
-    {
-      "image" : "floranbakingstationbaseCNYC.png:default.<frame>",
-      "imagePosition" : [-16, 0],    
-      "direction" : "right",
+      "dualImage" : "floranbakingstationCNYCplacementpreview.png:<color>",
+      
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
@@ -49,9 +40,7 @@
   "scripts" : [ "/scripts/npcToyObject.lua" ],
 
   "animation" : "floranbakingstationCNYC.animation",
-  "animationPosition" : [1, 14],
-  "placementImage" : "floranbakingstationCNYCplacementpreview.png:default.default",
-  "placementImagePosition" : [-16, 0],    
+  "animationPosition" : [0, 0],  
 
   "npcToy" : {
     "influence" : [

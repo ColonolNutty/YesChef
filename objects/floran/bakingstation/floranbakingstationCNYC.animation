@@ -29,15 +29,15 @@
     "parts" : {
       "base" : {
         "properties" : {
-          "zLevel" : 0,
-          "offset" : [0, -0.2],
-          "centered" : true
+          "zLevel" : 1,
+          "offset" : [0.0, 0.0],
+          "centered" : false
         },
         "partStates" : {
           "baseState" : {
             "on" : {
               "properties" : {
-                "image" : "floranbakingstationbaseCNYC.png:default.default"
+                "image" : "floranbakingstationCNYC.png:default"
               }
             }
           }
@@ -46,16 +46,16 @@
 
       "coals" : {
         "properties" : {
-          "zLevel" : 1,
-          "offset" : [0, -1.5],
-          "centered" : true,
+          "zLevel" : 0,
+          "offset" : [1.1, 0.0],
+          "centered" : false,
           "fullbright" : true
         },
         "partStates" : {
           "coalState" : {
             "on" : {
               "properties" : {
-                "image" : "floranbakingstationcoalsCNYC.png:default.<frame>"
+                "image" : "/objects/floran/coals/coalsCNYC.png:default.<frame>"
               }
             }
           }

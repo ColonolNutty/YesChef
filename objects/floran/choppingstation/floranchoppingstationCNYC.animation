@@ -32,7 +32,7 @@
           "baseState" : {
             "on" : {
               "properties" : {
-                "image" : "floranchoppingstationCNYC.png:default.default"
+                "image" : "floranchoppingstationCNYC.png:default"
               }
             }
           }
