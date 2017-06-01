@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "price" : 40,
   "inventoryIcon" : "basiccreamfillingmix.png",
-  "description" : "Boil in 2-parts milk to get it started.",
+  "description" : "Boil 2 of these with 1 milk to get it started.",
   "shortdescription" : "Basic Cream Filling Mix",
   "category" : "cookingIngredient",
   "maxStack" : 1000,

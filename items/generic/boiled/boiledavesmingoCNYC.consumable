@@ -4,7 +4,7 @@
   "price" : 20,
   "inventoryIcon" : "boiledavesmingoCNYC.png",
   "description" : "Boiled and reduced!",
-  "shortdescription" : "Boiled Automato",
+  "shortdescription" : "Boiled Avesmingo",
   "category" : "preparedFood",
   "foodValue" : 10,
   "tooltipKind" : "food",
