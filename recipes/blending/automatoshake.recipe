@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "milk", "count" : 2 },
-    { "item" : "choppedautomato", "count" : 1 }
+    { "item" : "choppedautomato", "count" : 1 },
+    { "item" : "milk", "count" : 1 }
   ],
   "output" : { "item" : "automatoshake", "count" : 1 },
   "groups" : [ "blending", "consumables", "foodhealing" ]

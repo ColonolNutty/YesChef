@@ -1,0 +1,73 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "baseState" : {
+        "default" : "on",
+        "states" : {
+          "on" : {
+            "frames" : 1
+          }
+        }
+      },
+      "knifeState" : {
+        "default" : "on",
+        "states" : {
+          "on" : {
+            "frames" : 4,
+            "cycle" : 0.5,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "base" : {
+        "properties" : {
+          "zLevel" : 1,
+          "offset" : [0.0, 0.0],
+          "centered" : false
+        },
+        "partStates" : {
+          "baseState" : {
+            "on" : {
+              "properties" : {
+                "image" : "floranchoppingstationCNYC.png:default"
+              }
+            }
+          }
+        }
+      },
+
+      "knife" : {
+        "properties" : {
+          "zLevel" : 0,
+          "offset" : [0.5, 0.2],
+          "centered" : false,
+          "fullbright" : true
+        },
+        "partStates" : {
+          "knifeState" : {
+            "on" : {
+              "properties" : {
+                "image" : "floranchoppingstationboneknifeCNYC.png:default.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+  },
+  
+  "particleEmitters" : {
+    "dust" : {
+      "emissionRate" : 0.0,
+      "burstCount"  : 10,
+      "offsetRegion" : [-2, -2, 2, 2],
+      "particles" : [{ "particle" : "dust2"}]
+    }
+  }
+}

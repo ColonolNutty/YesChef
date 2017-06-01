@@ -332,11 +332,6 @@
   {
     "op": "add",
     "path": "/defaultBlueprints/tier1/-",
-    "value": { "item" : "floranstove" }
-  },
-  {
-    "op": "add",
-    "path": "/defaultBlueprints/tier1/-",
     "value": { "item" : "nanostove" }
   },
   {
