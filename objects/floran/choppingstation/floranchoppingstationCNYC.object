@@ -14,7 +14,7 @@
   "inventoryIcon" : "floranchoppingstationCNYCicon.png",
   "orientations" : [
     {
-      "dualImage" : "floranchoppingstationCNYCplacementimage.png:<color>",
+      "dualImage" : "floranchoppingstationCNYCplacementimage.png:default",
       
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

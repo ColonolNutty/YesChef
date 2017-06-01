@@ -22,17 +22,8 @@
   "inventoryIcon" : "floranblendingstationCNYCicon.png",
   "orientations" : [
     {
-      "image" : "floranblendingstationbaseCNYC.png:default.<frame>",
-      "imagePosition" : [-16, 0],    
-      "direction" : "left",
-      "flipImages" : true,
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    },
-    {
-      "image" : "floranblendingstationbaseCNYC.png:default.<frame>",
-      "imagePosition" : [-16, 0],    
-      "direction" : "right",
+      "dualImage" : "floranblendingstationCNYCplacementpreview.png:default",
+      
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
@@ -41,9 +32,7 @@
   "scripts" : [ "/scripts/npcToyObject.lua" ],
 
   "animation" : "floranblendingstationCNYC.animation",
-  "animationPosition" : [1, 14],
-  "placementImage" : "floranblendingstationCNYCplacementpreview.png:default.default",
-  "placementImagePosition" : [-16, 0],    
+  "animationPosition" : [0, 0],
 
   "npcToy" : {
     "influence" : [
