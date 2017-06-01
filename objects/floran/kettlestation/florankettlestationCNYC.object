@@ -1,0 +1,44 @@
+{
+  "objectName" : "florankettlestationCNYC",
+  "retainObjectParametersInItem" : true,
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A bone teapot!",
+  "shortdescription" : "^orange;Floran Teapot^white;",
+  "subtitle" : "Purify Water!",
+  "race" : "generic",
+  "category" : "Cookware",
+  "price" : 75,
+  "objectType" : "container",
+
+  "inventoryIcon" : "florankettlestationCNYCicon.png",
+  "orientations" : [
+    {
+      "image" : "florankettlestationCNYCbase.png:default.<frame>",
+      "imagePosition" : [0, 0],    
+      "direction" : "left",
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "florankettlestationCNYCbase.png:default.<frame>",
+      "imagePosition" : [0, 0],    
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "florankettlestationCNYC.animation",
+  "animationPosition" : [6, 5.5],
+  "placementImage" : "florankettlestationCNYCbase.png:default.default",
+  "placementImagePosition" : [0, 0],
+
+  "recipeGroup" : "purifying",
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/purifystation.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}
