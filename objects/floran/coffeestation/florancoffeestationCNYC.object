@@ -14,7 +14,7 @@
   "inventoryIcon" : "florancoffeestationCNYCicon.png",
   "orientations" : [
     {
-      "dualImage" : "florancoffeestationCNYC.png:<color>",
+      "dualImage" : "florancoffeestationCNYC.png:default",
       
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

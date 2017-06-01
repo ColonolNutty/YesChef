@@ -14,7 +14,7 @@
   "inventoryIcon" : "florankettlestationCNYCicon.png",
   "orientations" : [
     {
-      "dualImage" : "florankettlestationCNYC.png:<color>",
+      "dualImage" : "florankettlestationCNYC.png:default",
       
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

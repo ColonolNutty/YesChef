@@ -30,7 +30,7 @@
   "inventoryIcon" : "floranbakingstationCNYCicon.png",
   "orientations" : [
     {
-      "dualImage" : "floranbakingstationCNYCplacementpreview.png:<color>",
+      "dualImage" : "floranbakingstationCNYCplacementpreview.png:default",
       
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

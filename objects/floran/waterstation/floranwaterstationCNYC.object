@@ -14,7 +14,7 @@
   "inventoryIcon" : "floranwaterstationCNYCicon.png",
   "orientations" : [
     {
-      "dualImage" : "floranwaterstationCNYC.png:<color>",
+      "dualImage" : "floranwaterstationCNYC.png:default",
       
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
