@@ -4,10 +4,6 @@
       "baseState" : {
         "default" : "on",
         "states" : {
-          "off" : {
-            "frames" : 1,
-            "cycle" : 0.5
-          },
           "on" : {
             "frames" : 1
           }
@@ -16,12 +12,6 @@
       "coalState" : {
         "default" : "on",
         "states" : {
-          "off" : {
-            "frames" : 1,
-            "properties" : {
-              "lightsOff" : [ "coalglow" ]
-            }
-          },
           "on" : {
             "frames" : 16,
             "cycle" : 3,
@@ -45,12 +35,6 @@
         },
         "partStates" : {
           "baseState" : {
-            "off" : {
-              "properties" : {
-                "image" : "floranbakingstationbaseCNYC.png:default.off"
-              }
-            },
-
             "on" : {
               "properties" : {
                 "image" : "floranbakingstationbaseCNYC.png:default.default"
@@ -69,12 +53,6 @@
         },
         "partStates" : {
           "coalState" : {
-            "off" : {
-              "properties" : {
-                "image" : "floranbakingstationcoalsCNYC.png:default.off"
-              }
-            },
-
             "on" : {
               "properties" : {
                 "image" : "floranbakingstationcoalsCNYC.png:default.<frame>"

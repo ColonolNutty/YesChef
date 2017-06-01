@@ -11,14 +11,6 @@
   "price" : 75,
   "objectType" : "container",
 
-  "lightColor" : [218, 83, 2, 5],
-
-  "flickerPeriod" : 0.8,
-  "flickerMinIntensity" : 0.2,
-  "flickerMaxIntensity" : 0.3,
-  "flickerPeriodVariance" : 0.075,
-  "flickerIntensityVariance" : 0.025,
-
   "inventoryIcon" : "floranchoppingstationCNYCicon.png",
   "orientations" : [
     {
@@ -37,35 +29,11 @@
       "anchors" : [ "bottom" ]
     }
   ],
-  
-  "scripts" : [ "/scripts/npcToyObject.lua" ],
 
   "animation" : "floranchoppingstationCNYC.animation",
   "animationPosition" : [0, 0],
   "placementImage" : "floranchoppingstationCNYCplacementimage.png:default.default",
-  "placementImagePosition" : [-10, -1],    
-
-  "npcToy" : {
-    "influence" : [
-      "furnace",
-      "furnace",
-      "furnaceComplete"
-    ],
-    "defaultReactions" : {
-      "furnace" : [
-        [1.0, "warmhands"],
-        [1.0, "crouchwarm"]
-      ],
-      "furnaceComplete" : [
-        [1.0, "warmhands"],
-        [1.0, "crouchwarm"],
-        [1.0, "pokefire"]
-      ]
-    },
-    "preciseStandPositionLeft" : [-1.5, 0.0],
-    "preciseStandPositionRight" : [2.5, 0.0],
-    "maxNpcs" : 1
-  },
+  "placementImagePosition" : [-10, -1],
 
   "recipeGroup" : "chopping",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],

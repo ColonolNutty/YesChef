@@ -43,7 +43,7 @@
     {
       "op" : "replace",
       "path" : "/shortdescription",
-      "value" : "Primitive Pot (Boiling)"
+      "value" : "^orange;Floran Boiling Pot^white;"
     },
     {
       "op" : "replace",
