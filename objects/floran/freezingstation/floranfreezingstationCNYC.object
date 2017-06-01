@@ -22,26 +22,12 @@
   "inventoryIcon" : "floranfreezingstationCNYCicon.png",
   "orientations" : [
     {
-      "image" : "floranfreezingstationbaseCNYC.png:default.<frame>",
-      "imagePosition" : [-16, 0],    
-      "direction" : "left",
-      "flipImages" : true,
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    },
-    {
-      "image" : "floranfreezingstationbaseCNYC.png:default.<frame>",
-      "imagePosition" : [-16, 0],    
-      "direction" : "right",
+      "dualImage" : "floranfreezingstationCNYC.png:<color>",
+      
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
   ],
-
-  "animation" : "floranfreezingstationCNYC.animation",
-  "animationPosition" : [1, 8.5],
-  "placementImage" : "floranfreezingstationbaseCNYC.png:default.default",
-  "placementImagePosition" : [-16, 0],
 
   "recipeGroup" : "freezingMFM",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],

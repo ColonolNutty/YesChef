@@ -14,26 +14,12 @@
   "inventoryIcon" : "florankettlestationCNYCicon.png",
   "orientations" : [
     {
-      "image" : "florankettlestationCNYCbase.png:default.<frame>",
-      "imagePosition" : [0, 0],    
-      "direction" : "left",
-      "flipImages" : true,
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    },
-    {
-      "image" : "florankettlestationCNYCbase.png:default.<frame>",
-      "imagePosition" : [0, 0],    
-      "direction" : "right",
+      "dualImage" : "florankettlestationCNYC.png:<color>",
+      
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
   ],
-
-  "animation" : "florankettlestationCNYC.animation",
-  "animationPosition" : [6, 5.5],
-  "placementImage" : "florankettlestationCNYCbase.png:default.default",
-  "placementImagePosition" : [0, 0],
 
   "recipeGroup" : "purifying",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],

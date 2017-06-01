@@ -24,15 +24,15 @@
     "parts" : {
       "base" : {
         "properties" : {
-          "zLevel" : 0,
-          "offset" : [0, 0],
-          "centered" : true
+          "zLevel" : 1,
+          "offset" : [0.0, 0.0],
+          "centered" : false
         },
         "partStates" : {
           "baseState" : {
             "on" : {
               "properties" : {
-                "image" : "floranchoppingstationbaseCNYC.png:default.default"
+                "image" : "floranchoppingstationCNYC.png:default.default"
               }
             }
           }
@@ -41,9 +41,9 @@
 
       "knife" : {
         "properties" : {
-          "zLevel" : 1,
-          "offset" : [0.0, 0.7],
-          "centered" : true,
+          "zLevel" : 0,
+          "offset" : [0.5, 0.2],
+          "centered" : false,
           "fullbright" : true
         },
         "partStates" : {
