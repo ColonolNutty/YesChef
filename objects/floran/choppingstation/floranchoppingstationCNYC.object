@@ -15,7 +15,7 @@
   "orientations" : [
     {
       "image" : "floranchoppingstationbaseCNYC.png:default.<frame>",
-      "imagePosition" : [-16, 0],    
+      "imagePosition" : [0, 0],    
       "direction" : "left",
       "flipImages" : true,
       "spaceScan" : 0.1,
@@ -23,7 +23,7 @@
     },
     {
       "image" : "floranchoppingstationbaseCNYC.png:default.<frame>",
-      "imagePosition" : [-16, 0],    
+      "imagePosition" : [0, 0],    
       "direction" : "right",
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
@@ -31,9 +31,9 @@
   ],
 
   "animation" : "floranchoppingstationCNYC.animation",
-  "animationPosition" : [0, 0],
+  "animationPosition" : [0, 1],
   "placementImage" : "floranchoppingstationCNYCplacementimage.png:default.default",
-  "placementImagePosition" : [-10, -1],
+  "placementImagePosition" : [-10, 0],
 
   "recipeGroup" : "chopping",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
