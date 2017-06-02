@@ -1,0 +1,16 @@
+[
+	{
+		"op": "replace",
+		"path": "/input",
+		"value": [
+      { "item" : "cookingoilMFM", "count" : 1 },
+      { "item" : "chili", "count" : 1 },
+      { "item" : "choppedlemon", "count" : 1 },
+      { "item" : "vinegarMSM", "count" : 1 },
+      { "item" : "peanutPBJ", "count" : 1 },
+      { "item" : "freshpastaMFM", "count" : 1 },
+      { "item" : "egg", "count" : 2 },
+      { "item" : "sugar", "count" : 2 }
+		]
+	}
+]
