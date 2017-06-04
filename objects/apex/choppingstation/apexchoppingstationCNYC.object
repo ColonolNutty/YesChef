@@ -1,0 +1,88 @@
+{
+  "objectName" : "apexchoppingstationCNYC",
+  "retainObjectParametersInItem" : true,
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A steel chopping tool!",
+  "shortdescription" : "^orange;Apex Chopping Machine^white;",
+  "subtitle" : "Chop things to bits!",
+  "race" : "generic",
+  "category" : "Cookware",
+  "price" : 75,
+  "objectType" : "container",
+
+  "lightColor" : [218, 83, 2, 5],
+
+  "flickerPeriod" : 0.8,
+  "flickerMinIntensity" : 0.2,
+  "flickerMaxIntensity" : 0.3,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+
+  "inventoryIcon" : "apexchoppingstationCNYCicon.png",
+  "orientations" : [
+    {
+      "image" : "apexchoppingstationCNYC.png:default",
+      
+      "spaceScan" : 0.1,
+      "bgAnchors" : [ [0, 0] ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "apexchoppingstationCNYC.png:default",
+      
+      "spaceScan" : 0.1,
+      "bgAnchors" : [ [0, 1] ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "apexchoppingstationCNYC.png:default",
+      
+      "spaceScan" : 0.1,
+      "bgAnchors" : [ [1, 0] ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "apexchoppingstationCNYC.png:default",
+      
+      "spaceScan" : 0.1,
+      "bgAnchors" : [ [1, 1] ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "apexchoppingstationCNYC.png:default",
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "apexchoppingstationCNYC.png:default",
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "left" ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "apexchoppingstationCNYC.png:default",
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "right" ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "apexchoppingstationCNYC.png:default",
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "recipeGroup" : "chopping",
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/chopstation.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

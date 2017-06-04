@@ -358,5 +358,45 @@
     "op": "add",
     "path": "/defaultBlueprints/tier1/-",
     "value": { "item" : "watermachine" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "apexblendingstationCNYC" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "apexboilingstationCNYC" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "apexchoppingstationCNYC" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "apexcoffeestationCNYC" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "apexfreezingstationCNYC" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "apexfryingstationCNYC" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "apexkettlestationCNYC" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "apexwaterstationCNYC" }
   }
 ]
