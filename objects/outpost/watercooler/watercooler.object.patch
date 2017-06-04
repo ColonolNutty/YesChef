@@ -9,11 +9,11 @@
   ],
   [
     { "op": "test", "path": "/openSounds", "inverse" : true },
-    { "op" : "add", "path" : "/openSounds", "value" : ["/sfx/objects/sinkMFMenter.ogg"] }
+    { "op" : "add", "path" : "/openSounds", "value" : [] }
   ],
   [
     { "op": "test", "path": "/closeSounds", "inverse" : true },
-    { "op" : "add", "path" : "/closeSounds", "value" : [ "/sfx/objects/sinkMFMexit.ogg" ] }
+    { "op" : "add", "path" : "/closeSounds", "value" : [] }
   ],
   [
     { "op": "test", "path": "/slotCount", "inverse" : true },
@@ -32,6 +32,23 @@
     { "op" : "add", "path" : "/autoCloseCooldown", "value" : 1 }
   ],
   [
+    { "op": "test", "path": "/outputConfig", "inverse" : true },
+    { "op" : "add", "path" : "/outputConfig", "value" : "/recipeCrafterMFM/sinkMFMRecipes.config" }
+  ],
+  [
+    { "op": "test", "path": "/scriptDelta", "inverse" : true },
+    { "op" : "add", "path" : "/scriptDelta", "value" : 1 }
+  ],
+  [
+    { "op": "test", "path": "/scripts", "inverse" : true },
+    { "op" : "add", "path" : "/scripts", "value" : [] }
+  ],
+  [
+    {
+      "op" : "add",
+      "path" : "/scripts/-",
+      "value" : "/recipeCrafterMFM/recipeCrafterMFM.lua"
+    },
     {
       "op" : "replace",
       "path" : "/category",
@@ -50,17 +67,22 @@
     {
       "op" : "replace",
       "path" : "/openSounds",
-      "value" : [ "/sfx/objects/campfire_use.ogg" ]
+      "value" : [ "/sfx/objects/sinkMFMenter.wav" ]
+    },
+    {
+      "op" : "replace",
+      "path" : "/closeSounds",
+      "value" : [ "/sfx/objects/sinkMFMexit.wav" ]
     },
     {
       "op" : "replace",
       "path" : "/slotCount",
-      "value" : 2
+      "value" : 16
     },
     {
       "op" : "replace",
       "path" : "/uiConfig",
-      "value" : "/interface/objectcrafting/sinkMFM.config"
+      "value" : "/interface/objectcrafting/recipeCrafterMFM.config"
     },
     {
       "op" : "replace",

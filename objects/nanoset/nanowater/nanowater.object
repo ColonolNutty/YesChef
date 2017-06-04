@@ -60,11 +60,14 @@
   "statusEffects" : [ ],
 
   "recipeGroup" : "sinkMFM",
-  "openSounds" : [ "/sfx/objects/sinkMFMenter.ogg" ],
-  "closeSounds" : [ "/sfx/objects/sinkMFMexit.ogg" ],
-  "slotCount" : 2,
-  "uiConfig" : "/interface/objectcrafting/sinkMFM.config",
-  "frameCooldown" : 5,
-  "autoCloseCooldown" : 3600
-
+  "openSounds" : [ "/sfx/objects/sinkMFMenter.wav" ],
+  "closeSounds" : [ "/sfx/objects/sinkMFMexit.wav" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600,
+  
+  "scripts": [ "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
+  "scriptDelta" : 1,
+  "outputConfig": "/recipeCrafterMFM/sinkMFMRecipes.config"
 }

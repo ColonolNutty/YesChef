@@ -85,12 +85,16 @@
 
   "recipeGroup" : "boiling",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
-  "slotCount" : 3,
-  "uiConfig" : "/interface/objectcrafting/boilstation.config",
-  "frameCooldown" : 5,
+  "slotCount" : 16,
+  "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",
+  "frameCooldown" : 67,
   "autoCloseCooldown" : 3600,
 
-  "scripts" : [ "/scripts/npcToyObject.lua"],
+  "scripts" : [ "/scripts/npcToyObject.lua", "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
+  
+  "scriptDelta" : 1,
+  "outputConfig": "/recipeCrafterMFM/bakingMFMRecipes.config",
+  
   "npcToy" : {
     "influence" : [
       "campfire",
