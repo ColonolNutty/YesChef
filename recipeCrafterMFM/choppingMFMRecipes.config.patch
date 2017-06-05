@@ -1,6 +1,7 @@
 [
   { "op": "add", "path": "/possibleOutput/-", "value": "breadcrumbs" },
   { "op": "add", "path": "/possibleOutput/-", "value": "breadslice" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "slicedavocadoMSM" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedalienfruit" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedalienmeat" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedartichoke" },
