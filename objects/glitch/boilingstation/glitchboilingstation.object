@@ -83,8 +83,12 @@
 
   "recipeGroup" : "boiling",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
-  "slotCount" : 3,
-  "uiConfig" : "/interface/objectcrafting/boilstation.config",
+  "slotCount" : 16,
+  "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",
   "frameCooldown" : 67,
-  "autoCloseCooldown" : 3600
+  "autoCloseCooldown" : 3600,
+  
+  "scripts": [ "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
+  "scriptDelta" : 1,
+  "outputConfig": "/recipeCrafterMFM/boilingMFMRecipes.config"
 }

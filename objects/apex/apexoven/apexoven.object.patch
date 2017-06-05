@@ -40,6 +40,23 @@
     { "op" : "add", "path" : "/autoCloseCooldown", "value" : 1 }
   ],
   [
+    { "op": "test", "path": "/outputConfig", "inverse" : true },
+    { "op" : "add", "path" : "/outputConfig", "value" : "/recipeCrafterMFM/bakingMFMRecipes.config" }
+  ],
+  [
+    { "op": "test", "path": "/scriptDelta", "inverse" : true },
+    { "op" : "add", "path" : "/scriptDelta", "value" : 1 }
+  ],
+  [
+    { "op": "test", "path": "/scripts", "inverse" : true },
+    { "op" : "add", "path" : "/scripts", "value" : [] }
+  ],
+  [
+    {
+      "op" : "add",
+      "path" : "/scripts/-",
+      "value" : "/recipeCrafterMFM/recipeCrafterMFM.lua"
+    },
     {
       "op" : "replace",
       "path" : "/shortdescription",
@@ -63,12 +80,12 @@
     {
       "op" : "replace",
       "path" : "/slotCount",
-      "value" : 2
+      "value" : 16
     },
     {
       "op" : "replace",
       "path" : "/uiConfig",
-      "value" : "/interface/objectcrafting/bakestation.config"
+      "value" : "/interface/objectcrafting/recipeCrafterMFM.config"
     },
     {
       "op" : "replace",

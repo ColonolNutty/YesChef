@@ -63,10 +63,12 @@
 
   "recipeGroup" : "freezingMFM",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
-  "slotCount" : 2,
-  "uiConfig" : "/interface/objectcrafting/freezerMFM.config",
+  "slotCount" : 16,
+  "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",
   "frameCooldown" : 67,
   "autoCloseCooldown" : 3600,
-  "learnBlueprintsOnPickup" : ["ice"]
-
+  
+  "scripts": [ "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
+  "scriptDelta" : 1,
+  "outputConfig": "/recipeCrafterMFM/freezerMFMRecipes.config"
 }

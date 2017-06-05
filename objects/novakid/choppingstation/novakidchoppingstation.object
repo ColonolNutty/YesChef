@@ -44,7 +44,7 @@
 
   ],
     
-  "scripts" : [ "/scripts/npcToyObject.lua" ],
+  "scripts" : [ "/scripts/npcToyObject.lua", "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
   "npcToy" : {
     "influence" : [
       "watercoolerCollect",
@@ -69,9 +69,11 @@
   },
   "recipeGroup" : "chopping",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
-  "slotCount" : 2,
-  "uiConfig" : "/interface/objectcrafting/chopstation.config",
-  "frameCooldown" : 5,
-  "autoCloseCooldown" : 3600
-
+  "slotCount" : 16,
+  "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600,
+  
+  "scriptDelta" : 1,
+  "outputConfig": "/recipeCrafterMFM/choppingMFMRecipes.config"
 }
