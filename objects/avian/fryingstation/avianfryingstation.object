@@ -12,13 +12,13 @@
   "objectType" : "container",
 
   "apexDescription" : "A frypot with a lid? Makes sense.",
-  "avianDescription" : "Well no-one likes oil on thier feathers",
+  "avianDescription" : "No-one likes oil on their feathers",
   "floranDescription" : "Floran likess oily hatss..",
-  "glitchDescription" : "Inspect. Kilnfired frypot.",
-  "humanDescription" : "Smells like toasted chilli.. and avesmingo?",
+  "glitchDescription" : "Inspect. Kiln-fired frypot.",
+  "humanDescription" : "Smells like toasted chili.. and avesmingo?",
   "hylotlDescription" : "How delightful, I dislike spitting hot oil",
 
-"lightColor" : [218, 83, 2, 5],
+  "lightColor" : [218, 83, 2, 5],
 
   "flickerPeriod" : 0.8,
   "flickerMinIntensity" : 0.1,
@@ -51,10 +51,7 @@
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
-
   ],
-
-
 
   "recipeGroup" : "frying",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
