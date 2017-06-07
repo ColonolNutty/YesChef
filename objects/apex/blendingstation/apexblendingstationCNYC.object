@@ -38,5 +38,5 @@
   
   "scripts": [ "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
   "scriptDelta" : 1,
-  "outputConfig": "/recipeCrafterMFM/blenderFMRecipes.config"
+  "outputConfig": "/recipeCrafterMFM/blenderMFMRecipes.config"
 }
