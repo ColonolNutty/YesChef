@@ -1,5 +1,6 @@
 {
   "objectName" : "novakidkettlestation",
+  "colonyTags" : ["novakid", "novakidvillage", "cooking"],
   "rarity" : "Common",
   "description" : "Purifies water, whistles with encouragement!",
   "objectType" : "container",

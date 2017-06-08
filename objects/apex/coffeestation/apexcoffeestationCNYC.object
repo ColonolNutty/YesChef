@@ -1,5 +1,6 @@
 {
   "objectName" : "apexcoffeestationCNYC",
+  "colonyTags" : ["apex", "apexvillage", "cooking"],
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",

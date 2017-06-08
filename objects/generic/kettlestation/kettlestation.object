@@ -1,5 +1,6 @@
 {
   "objectName" : "kettlestation",
+  "colonyTags" : ["human", "humanvillage", "cooking"],
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",
@@ -18,7 +19,7 @@
   "humanDescription" : "Excellent, I could use a cuppa.. wait.. no teabags. Typical.",
   "hylotlDescription" : "Efficent!",
 
-"particleEmitter" : {
+  "particleEmitter" : {
     "emissionRate" : 6.0,
     "emissionVariance" : 1.0,
 

@@ -1,5 +1,6 @@
 {
   "objectName" : "coffeestation",
+  "colonyTags" : ["human", "humanvillage", "cooking"],
   "rarity" : "Common",
   "description" : "Brews Coffee, sign your own cup.",
   "objectType" : "container",

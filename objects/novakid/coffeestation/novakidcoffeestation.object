@@ -1,5 +1,6 @@
 {
   "objectName" : "novakidcoffeestation",
+  "colonyTags" : ["novakid", "novakidvillage", "cooking"],
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",

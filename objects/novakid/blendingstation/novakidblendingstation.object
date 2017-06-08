@@ -1,5 +1,6 @@
 {
   "objectName" : "novakidblendingstation",
+  "colonyTags" : ["novakid", "novakidvillage", "cooking"],
   "rarity" : "Common",
   "description" : "Blends with pressured steam!",
   "objectType" : "container",

@@ -1,5 +1,6 @@
 {
   "objectName" : "freezestation",
+  "colonyTags" : ["human", "humanvillage", "cooking"],
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",

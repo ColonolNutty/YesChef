@@ -1,5 +1,6 @@
 {
   "objectName" : "glitchwaterstation",
+  "colonyTags" : ["glitch", "glitchvillage", "cooking"],
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",

@@ -1,5 +1,6 @@
 {
   "objectName" : "avianfreezingstation",
+  "colonyTags" : ["avian", "avianvillage", "cooking"],
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",

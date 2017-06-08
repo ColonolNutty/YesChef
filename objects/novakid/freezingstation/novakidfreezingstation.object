@@ -1,5 +1,6 @@
 {
   "objectName" : "novakidfreezingstation",
+  "colonyTags" : ["novakid", "novakidvillage", "cooking"],
   "rarity" : "Common",
   "description" : "Freezes food and outlaws!",
   "objectType" : "container",

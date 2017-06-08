@@ -1,5 +1,6 @@
 {
   "objectName" : "hylotlchoppingstation",
+  "colonyTags" : ["hylotl", "hylotlvillage", "cooking"],
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",

@@ -1,5 +1,6 @@
 {
   "objectName" : "waterstation",
+  "colonyTags" : ["human", "humanvillage", "cooking"],
   "rarity" : "Common",
   "description" : "A fresh water dispenser!",
   "objectType" : "container",

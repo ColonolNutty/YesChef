@@ -1,5 +1,6 @@
 {
   "objectName" : "florankettlestationCNYC",
+  "colonyTags" : ["floran", "floranvillage", "cooking"],
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",
