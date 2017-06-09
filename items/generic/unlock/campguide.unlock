@@ -1,18 +1,17 @@
 {
   "itemName" : "campguide",
-  "rarity" : "Legendary",
+  "rarity" : "common",
   "price" : 10,
   "category" : "Other",
   "inventoryIcon" : "codexinhand.png",
   "image" : "codex.png",
 
-  "shortdescription" : "^orange;Protectorate Camp Guide^white;",
-  "description" : "Standard issue. I haven't needed to refer to this in a long time..",
+  "shortdescription" : "^orange;Old Camp Guide^white;",
+  "description" : "This campguide seems outdated, perhaps I should check the Terramart for an updated copy?",
   "consume" : false,
 
   // Remember you can override this with parameters, no need for more than one
   // unlock item
   "tierRecipesUnlock" : "yescheftier1",
-  "unlockMessage" : "The guide is worn yet has some readable chapters outlining techniques to make cookware out in the wilderness, it also details some basic recipes. If i'm going to survive I should probably get started before darkness falls..",
-  "pickupQuestTemplates" : [ "wildernesscooking1.1.gearup" ]
+  "unlockMessage" : "A guide that details outdated techniques for surviving the wilderness. Its pages are fading and some are torn out."
 }

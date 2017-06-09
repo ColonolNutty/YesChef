@@ -2,6 +2,6 @@
 	{
 		"op" : "add",
 		"path" : "/interactData/items/-",
-		"value" : {"item" : "campguide"}
+		"value" : {"item" : "wildernesssurvivalguideCNYC-codex"}
 	}
 ]
