@@ -96,5 +96,6 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "soggysack" },
   { "op": "add", "path": "/possibleOutput/-", "value": "stewedapples" },
   { "op": "add", "path": "/possibleOutput/-", "value": "stockvegetable" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "toxictopjam" }
+  { "op": "add", "path": "/possibleOutput/-", "value": "toxictopjam" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "liquidwater" }
 ]

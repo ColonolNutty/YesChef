@@ -1,7 +1,8 @@
 {
   "itemName" : "campguide",
   "rarity" : "Legendary",
-"price" : 10,
+  "price" : 10,
+  "category" : "Other",
   "inventoryIcon" : "codexinhand.png",
   "image" : "codex.png",
 
@@ -12,7 +13,6 @@
   // Remember you can override this with parameters, no need for more than one
   // unlock item
   "tierRecipesUnlock" : "yescheftier1",
-  "unlockMessage" : "The guide is worn yet readable pages outline techniques to make cookware from the wilderness. If i'm going to survive I should probably get started before darkness falls..",
-"pickupQuestTemplates" : [ "wildernesscooking1.gearup" ]
-
+  "unlockMessage" : "The guide is worn yet has some readable chapters outlining techniques to make cookware out in the wilderness, it also details some basic recipes. If i'm going to survive I should probably get started before darkness falls..",
+  "pickupQuestTemplates" : [ "wildernesscooking1.1.gearup" ]
 }

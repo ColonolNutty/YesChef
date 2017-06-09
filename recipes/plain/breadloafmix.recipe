@@ -1,10 +1,7 @@
 {
   "input" : [
-    { "item" : "flourMFM", "count" : 5 },
-    { "item" : "saltMFM", "count" : 1 },
-    { "item" : "sugar", "count" : 2 },
-    { "item" : "yeastMFM", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
+    { "item" : "flourMFM", "count" : 1 },
+    { "item" : "liquidwater", "count" : 1 }
   ],
   "output" : { "item" : "breadloafmix", "count" : 1 },
   "groups" : [ "plain", "all", "other" ]

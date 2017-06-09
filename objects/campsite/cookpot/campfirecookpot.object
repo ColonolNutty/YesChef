@@ -93,7 +93,7 @@
   "scripts" : [ "/scripts/npcToyObject.lua", "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
   
   "scriptDelta" : 1,
-  "outputConfig": "/recipeCrafterMFM/bakingMFMRecipes.config",
+  "outputConfig": "/recipeCrafterMFM/boilingMFMRecipes.config",
   
   "npcToy" : {
     "influence" : [

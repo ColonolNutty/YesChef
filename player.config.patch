@@ -22,6 +22,11 @@
   {
     "op": "add",
     "path": "/defaultBlueprints/tier1/-",
+    "value": { "item" : "makeshiftbakingstationCNYC" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
     "value": { "item" : "boilstation" }
   },
   {

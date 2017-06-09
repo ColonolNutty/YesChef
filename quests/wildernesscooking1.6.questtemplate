@@ -1,8 +1,8 @@
 {
-  "id" : "wildernesscooking3.gearup",
-  "title" : "^green;Cooking for Survival - III",
-  "text" : "^orange;Camp Fire Cookpot^white;.",
-  "completionText" : "Done! Hopefully it holds. It says to boil with double the amount of liquid to produce. Makes sense.",
+  "id" : "wildernesscooking1.6.gearup",
+  "title" : "^green;Cooking for Survival - I Part 6^white;",
+  "text" : "I should be able to make something that resembles bread if I put together a ^orange;Camp Oven^white;",
+  "completionText" : "Now that I've got me an oven, I should be able to start cookin'",
   "speaker" : "player",
   "moneyRange" : [10, 10],
   
@@ -14,12 +14,13 @@
       "questStarted" : "player",
       "questComplete" : "player"
     },
+    "followUp" : "wildernesscooking1.7.gearup",
 	"requireTurnIn" : false,
 	"canBeAbandoned" : false,
 	"conditions" : [
 		{
 			"type" : "gatherItem",
-			"itemName" : "campfirecookpot",
+			"itemName" : "makeshiftbakingstationCNYC",
 			"count" : 1,
 			"consume" : false
 		}

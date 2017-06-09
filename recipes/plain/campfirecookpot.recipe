@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "campfire", "count" : 1 },
-    { "item" : "copperore", "count" : 10 }
+    { "item" : "copperore", "count" : 5 }
   ],
   "output" : { "item" : "campfirecookpot", "count" : 1 },
   "groups" : [ "plain", "all", "other" ]
