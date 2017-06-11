@@ -3,5 +3,5 @@
     { "item" : "rawbastedbacon", "count" : 1 }
   ],
   "output" : { "item" : "sweetmeat", "count" : 1 },
-  "groups" : [ "baking", "cooking", "frying", "consumables", "foodhealing", "foodmobility" ]
+  "groups" : [ "baking" ]
 }
