@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedmango", "count" : 1 },
+    { "item" : "slicedmangoMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledmangoCNYC", "count" : 1 },

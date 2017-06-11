@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedtoxictop", "count" : 1 },
+    { "item" : "slicedtoxictopMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledtoxictopCNYC", "count" : 1 },

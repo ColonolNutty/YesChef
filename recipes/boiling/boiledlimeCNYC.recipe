@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedlime", "count" : 1 },
+    { "item" : "slicedlimeMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledlimeCNYC", "count" : 1 },

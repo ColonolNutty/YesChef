@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "choppedtomato", "count" : 1 },
     { "item" : "choppedcorn", "count" : 1 },
-    { "item" : "choppedcucumber", "count" : 1 },
+    { "item" : "slicedcucumberMFM", "count" : 1 },
     { "item" : "choppedjalapenopepper", "count" : 1 }
   ],
   "output" : { "item" : "relishmix", "count" : 1 },

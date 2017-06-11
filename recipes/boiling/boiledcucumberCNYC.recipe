@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedcucumber", "count" : 1 },
+    { "item" : "slicedcucumberMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledcucumberCNYC", "count" : 1 },

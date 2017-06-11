@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedgrapefruit", "count" : 1 },
+    { "item" : "slicedgrapefruitMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledgrapefruitCNYC", "count" : 1 },

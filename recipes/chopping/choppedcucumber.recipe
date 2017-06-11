@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "cucumberMSM", "count" : 1 }
-  ],
-  "output" : { "item" : "choppedcucumber", "count" : 1 },
-  "groups" : [ "chopping", "consumables"]
-}
