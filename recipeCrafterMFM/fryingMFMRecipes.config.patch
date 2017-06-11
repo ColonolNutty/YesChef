@@ -9,10 +9,10 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "freshpopcorn" },
   { "op": "add", "path": "/possibleOutput/-", "value": "mushroomrice" },
   { "op": "add", "path": "/possibleOutput/-", "value": "omelette" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pancakes" }
+  { "op": "add", "path": "/possibleOutput/-", "value": "pancakes" },
   { "op": "add", "path": "/possibleOutput/-", "value": "pearlpeapancakes" },
   { "op": "add", "path": "/possibleOutput/-", "value": "plainchocolatedoughnut" },
   { "op": "add", "path": "/possibleOutput/-", "value": "plaindoughnut" },
   { "op": "add", "path": "/possibleOutput/-", "value": "plainspookydoughnut" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "potatogrids" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "potatogrids" }
 ]
