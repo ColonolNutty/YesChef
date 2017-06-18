@@ -10,6 +10,6 @@
   {
     "op": "replace",
     "path": "/groups",
-    "value": [ "boiling", "consumables" ]
+    "value": [ "boiling" ]
   }
 ]

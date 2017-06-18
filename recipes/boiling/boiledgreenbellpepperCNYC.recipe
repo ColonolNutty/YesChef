@@ -4,5 +4,5 @@
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledgreenbellpepperCNYC", "count" : 1 },
-  "groups" : [ "boiling", "consumables" ]
+  "groups" : [ "boiling" ]
 }
