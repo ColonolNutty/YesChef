@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "groundcoffee", "count" : 1 },
-    { "item" : "liquidwater", "count" : 3 }
-  ],
-  "output" : { "item" : "coffee", "count" : 1 },
-  "groups" : [ "coffee", "consumables", "all" ]
-}

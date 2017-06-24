@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawstuffeddirturchin", "count" : 1 }
+  ],
+  "output" : { "item" : "stuffeddirturchin", "count" : 1 },
+  "groups" : [ "bakingMFM" ]
+}

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "choppedsugarbeet", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
-  ],
-  "output" : { "item" : "boiledsugarbeetCNYC", "count" : 1 },
-  "groups" : [ "boiling", "consumables" ]
-}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "pearlpeajammix", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "pearlpeajam", "count" : 1 },
+  "groups" : [ "boilingMFM" ]
+}

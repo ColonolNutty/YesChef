@@ -37,7 +37,7 @@
   ],
   [
     { "op": "test", "path": "/outputConfig", "inverse" : true },
-    { "op" : "add", "path" : "/outputConfig", "value" : "/recipeCrafterMFM/bakingMFMRecipes.config" }
+    { "op" : "add", "path" : "/outputConfig", "value" : "" }
   ],
   [
     { "op": "test", "path": "/scriptDelta", "inverse" : true },
@@ -52,6 +52,11 @@
       "op" : "add",
       "path" : "/scripts/-",
       "value" : "/recipeCrafterMFM/recipeCrafterMFM.lua"
+    },
+    {
+      "op" : "replace",
+      "path" : "/outputConfig",
+      "value" : "/recipeCrafterMFM/bakingMFMRecipes.config"
     },
     {
       "op" : "replace",
@@ -71,7 +76,7 @@
     {
       "op" : "replace",
       "path" : "/recipeGroup",
-      "value" : "baking"
+      "value" : "bakingMFM"
     },
     {
       "op" : "replace",

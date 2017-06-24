@@ -57,7 +57,7 @@
     "maxNpcs" : 1
   },
 
-  "recipeGroup" : "blending",
+  "recipeGroup" : "blendingMFM",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 16,
   "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",
@@ -65,5 +65,5 @@
   "autoCloseCooldown" : 3600,
   
   "scriptDelta" : 1,
-  "outputConfig": "/recipeCrafterMFM/blenderMFMRecipes.config"
+  "outputConfig": "/recipeCrafterMFM/blendingMFMRecipes.config"
 }

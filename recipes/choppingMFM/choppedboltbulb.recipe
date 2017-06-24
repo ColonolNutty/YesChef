@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "boltbulb", "count" : 1 }
+  ],
+  "output" : { "item" : "choppedboltbulb", "count" : 1 },
+  "groups" : [ "choppingMFM" ]
+}

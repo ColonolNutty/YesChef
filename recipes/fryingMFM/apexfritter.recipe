@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rawapexfritter", "count" : 1 },
+    { "item" : "cookingoilMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "apexfritter", "count" : 1 },
+  "groups" : [ "fryingMFM" ]
+}

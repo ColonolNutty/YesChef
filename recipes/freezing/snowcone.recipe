@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "snowconemix", "count" : 1 }
-  ],
-  "output" : { "item" : "snowcone", "count" : 1 },
-  "groups" : [ "freezingMFM", "consumables", "foodhealing", "foodmobility" ]
-}

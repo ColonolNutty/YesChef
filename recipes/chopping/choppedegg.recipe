@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "boiledeggCNYC", "count" : 1 }
-  ],
-  "output" : { "item" : "choppedegg", "count" : 1 },
-  "groups" : [ "chopping", "consumables"]
-}

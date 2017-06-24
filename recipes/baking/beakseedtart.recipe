@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "rawbeakseedtart", "count" : 1 }
-  ],
-  "output" : { "item" : "beakseedtart", "count" : 1 },
-  "groups" : [ "baking", "consumables", "foodhealing" ]
-}

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "choppedgarlic", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
-  ],
-  "output" : { "item" : "boiledgarlicCNYC", "count" : 1 },
-  "groups" : [ "boiling", "consumables" ]
-}

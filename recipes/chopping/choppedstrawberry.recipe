@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "strawberriesPBJ", "count" : 1 }
-  ],
-  "output" : { "item" : "choppedstrawberry", "count" : 1 },
-  "groups" : [ "chopping", "consumables"]
-}

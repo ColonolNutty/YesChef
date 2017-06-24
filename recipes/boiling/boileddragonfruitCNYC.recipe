@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "sliceddragonfruitMFM", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
-  ],
-  "output" : { "item" : "boileddragonfruitCNYC", "count" : 1 },
-  "groups" : [ "boiling", "consumables" ]
-}

@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "rawpoultry", "count" : 1 }
-  ],
-  "output" : { "item" : "rawhalfpoultry", "count" : 2 },
-  "groups" : [ "chopping", "consumables"]
-}

@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "rawstuffedtomato", "count" : 1 }
-  ],
-  "output" : { "item" : "stuffedtomato", "count" : 1 },
-  "groups" : [ "baking", "consumables", "foodhealing" ]
-}

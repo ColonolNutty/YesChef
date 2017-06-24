@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "rawtoxictart", "count" : 1 }
-  ],
-  "output" : { "item" : "toxictart", "count" : 1 },
-  "groups" : [ "baking", "consumables", "foodenergyboost", "foodmobility", "foodother" ]
-}

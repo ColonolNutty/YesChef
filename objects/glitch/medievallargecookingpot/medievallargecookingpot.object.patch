@@ -37,7 +37,7 @@
   ],
   [
     { "op": "test", "path": "/outputConfig", "inverse" : true },
-    { "op" : "add", "path" : "/outputConfig", "value" : "/recipeCrafterMFM/boilingMFMRecipes.config" }
+    { "op" : "add", "path" : "/outputConfig", "value" : "" }
   ],
   [
     { "op": "test", "path": "/scriptDelta", "inverse" : true },
@@ -52,6 +52,11 @@
       "op" : "add",
       "path" : "/scripts/-",
       "value" : "/recipeCrafterMFM/recipeCrafterMFM.lua"
+    },
+    {
+      "op" : "replace",
+      "path" : "/outputConfig",
+      "value" : "/recipeCrafterMFM/boilingMFMRecipes.config"
     },
     {
       "op" : "replace",

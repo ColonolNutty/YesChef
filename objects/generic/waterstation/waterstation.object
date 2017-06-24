@@ -90,7 +90,7 @@
     "preciseStandPositionRight" : [1.0, 0.0],
     "maxNpcs" : 1
   },
-  "recipeGroup" : "sinkMFM",
+  "recipeGroup" : "waterMFM",
   "openSounds" : [ "/sfx/objects/sinkMFMenter.wav" ],
   "closeSounds" : [ "/sfx/objects/sinkMFMexit.wav" ],
   "slotCount" : 16,
@@ -99,6 +99,6 @@
   "autoCloseCooldown" : 3600,
   
   "scriptDelta" : 1,
-  "outputConfig": "/recipeCrafterMFM/sinkMFMRecipes.config"
+  "outputConfig": "/recipeCrafterMFM/waterMFMRecipes.config"
 
 }

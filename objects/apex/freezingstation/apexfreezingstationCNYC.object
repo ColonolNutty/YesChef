@@ -40,5 +40,5 @@
   
   "scripts": [ "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
   "scriptDelta" : 1,
-  "outputConfig": "/recipeCrafterMFM/freezerMFMRecipes.config"
+  "outputConfig": "/recipeCrafterMFM/freezingMFMRecipes.config"
 }

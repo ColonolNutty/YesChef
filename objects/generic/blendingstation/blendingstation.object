@@ -31,7 +31,7 @@
     }
   ],
 
-  "recipeGroup" : "blending",
+  "recipeGroup" : "blendingMFM",
   "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
   "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
   "slotCount" : 16,
@@ -41,6 +41,6 @@
   
   "scripts": [ "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
   "scriptDelta" : 1,
-  "outputConfig": "/recipeCrafterMFM/blenderMFMRecipes.config",
+  "outputConfig": "/recipeCrafterMFM/blendingMFMRecipes.config",
   "outputSlot": 1
 }

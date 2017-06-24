@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "2kbpotagemix", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
-  ],
-  "output" : { "item" : "2kbpotage", "count" : 1 },
-  "groups" : [ "boiling", "consumables", "foodhealing" ]
-}

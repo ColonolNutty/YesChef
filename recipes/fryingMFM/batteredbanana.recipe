@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rawbatteredbanana", "count" : 1 },
+    { "item" : "cookingoilMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "batteredbanana", "count" : 1 },
+  "groups" : [ "fryingMFM" ]
+}

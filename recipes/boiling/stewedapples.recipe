@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "stewedapplemix", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
-  ],
-  "output" : { "item" : "stewedapples", "count" : 1 },
-  "groups" : [ "boiling", "consumables", "foodhealing", "foodmobility" ]
-}

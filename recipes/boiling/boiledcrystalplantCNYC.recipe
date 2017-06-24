@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "choppedcrystalplant", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
-  ],
-  "output" : { "item" : "boiledcrystalplantCNYC", "count" : 1 },
-  "groups" : [ "boiling", "consumables" ]
-}

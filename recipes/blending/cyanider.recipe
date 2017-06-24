@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "cyanidermix", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
-  ],
-  "output" : { "item" : "cyanider", "count" : 1 },
-  "groups" : [ "blending", "consumables", "foodhealing", "foodhealthboost", "foodmobility" ]
-}

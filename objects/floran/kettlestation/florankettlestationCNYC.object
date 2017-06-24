@@ -22,7 +22,7 @@
     }
   ],
 
-  "recipeGroup" : "purifying",
+  "recipeGroup" : "purifyingMFM",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 16,
   "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",
@@ -31,5 +31,5 @@
   
   "scripts": [ "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
   "scriptDelta" : 1,
-  "outputConfig": "/recipeCrafterMFM/kettleMFMRecipes.config"
+  "outputConfig": "/recipeCrafterMFM/purifyingMFMRecipes.config"
 }

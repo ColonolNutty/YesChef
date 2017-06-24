@@ -82,7 +82,7 @@
   "soundEffect" : "/sfx/objects/spookycauldron.ogg",
   "soundEffectRadius" : 20,
 
-  "recipeGroup" : "boiling",
+  "recipeGroup" : "boilingMFM",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 16,
   "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",

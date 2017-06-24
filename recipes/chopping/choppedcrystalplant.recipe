@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "crystalplant", "count" : 1 }
-  ],
-  "output" : { "item" : "choppedcrystalplant", "count" : 1 },
-  "groups" : [ "chopping", "consumables"]
-}

@@ -3,5 +3,5 @@
       { "item": "simpledough", "count": 1 }
     ],
     "output": { "item": "campfirebread", "count": 1 },
-    "groups": [ "campfire", "consumables", "foodhealing", "all" ]
+    "groups": [ "campfire", "bakingMFM" ]
 }

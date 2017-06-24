@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "wartweed", "count" : 1 }
-  ],
-  "output" : { "item" : "choppedwartweed", "count" : 1 },
-  "groups" : [ "chopping", "consumables"]
-}

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "cacti", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
-  ],
-  "output" : { "item" : "cactusjuice", "count" : 1 },
-  "groups" : [ "blending", "consumables", "foodother" ]
-}

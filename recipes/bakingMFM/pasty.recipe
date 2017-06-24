@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawpasty", "count" : 1 }
+   ],
+  "output" : { "item" : "pasty", "count" : 1 },
+  "groups" : [ "bakingMFM" ]
+}

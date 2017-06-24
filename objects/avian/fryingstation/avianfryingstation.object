@@ -54,7 +54,7 @@
     }
   ],
 
-  "recipeGroup" : "frying",
+  "recipeGroup" : "fryingMFM",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 16,
   "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",

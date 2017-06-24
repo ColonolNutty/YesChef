@@ -17,11 +17,11 @@
   ],
   [
     { "op": "test", "path": "/openSounds", "inverse" : true },
-    { "op" : "add", "path" : "/openSounds", "value" : ["/sfx/objects/sinkMFMenter.ogg"] }
+    { "op" : "add", "path" : "/openSounds", "value" : [] }
   ],
   [
     { "op": "test", "path": "/closeSounds", "inverse" : true },
-    { "op" : "add", "path" : "/closeSounds", "value" : [ "/sfx/objects/sinkMFMexit.ogg" ] }
+    { "op" : "add", "path" : "/closeSounds", "value" : [] }
   ],
   [
     { "op": "test", "path": "/slotCount", "inverse" : true },
@@ -41,7 +41,7 @@
   ],
   [
     { "op": "test", "path": "/outputConfig", "inverse" : true },
-    { "op" : "add", "path" : "/outputConfig", "value" : "/recipeCrafterMFM/sinkMFMRecipes.config" }
+    { "op" : "add", "path" : "/outputConfig", "value" : "" }
   ],
   [
     { "op": "test", "path": "/scriptDelta", "inverse" : true },
@@ -59,6 +59,21 @@
     },
     {
       "op" : "replace",
+      "path" : "/outputConfig",
+      "value" : "/recipeCrafterMFM//recipeCrafterMFM/waterMFMRecipes.config"
+    },
+    {
+      "op" : "replace",
+      "path" : "/openSounds",
+      "value" : [ "/sfx/objects/sinkMFMenter.ogg" ]
+    },
+    {
+      "op" : "replace",
+      "path" : "/closeSounds",
+      "value" : [ "/sfx/objects/sinkMFMexit.ogg" ]
+    },
+    {
+      "op" : "replace",
       "path" : "/category",
       "value" : "crafting"
     },
@@ -70,7 +85,7 @@
     {
       "op" : "replace",
       "path" : "/recipeGroup",
-      "value" : "sinkMFM"
+      "value" : "waterMFM"
     },
     {
       "op" : "replace",

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "toxictopjammix", "count" : 1 },
-    { "item" : "liquidwater", "count" : 1 }
-  ],
-  "output" : { "item" : "toxictopjam", "count" : 1 },
-  "groups" : [ "boiling", "consumables", "foodenergyboost", "foodmobility" ]
-}

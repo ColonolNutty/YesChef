@@ -29,7 +29,7 @@
   ],
   [
     { "op": "test", "path": "/outputConfig", "inverse" : true },
-    { "op" : "add", "path" : "/outputConfig", "value" : "/recipeCrafterMFM/coffeeMFMRecipes.config" }
+    { "op" : "add", "path" : "/outputConfig", "value" : "" }
   ],
   [
     { "op": "test", "path": "/scriptDelta", "inverse" : true },
@@ -44,6 +44,11 @@
       "op" : "add",
       "path" : "/scripts/-",
       "value" : "/recipeCrafterMFM/recipeCrafterMFM.lua"
+    },
+    {
+      "op" : "replace",
+      "path" : "/outputConfig",
+      "value" : "/recipeCrafterMFM/coffeeMFMRecipes.config"
     },
     {
       "op" : "add",
@@ -63,7 +68,7 @@
     {
       "op" : "replace",
       "path" : "/recipeGroup",
-      "value" : "coffee"
+      "value" : "coffeeMFM"
     },
     {
       "op" : "replace",

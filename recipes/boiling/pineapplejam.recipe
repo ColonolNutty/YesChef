@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "pineapplejammix", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
-  ],
-  "output" : { "item" : "pineapplejam", "count" : 1 },
-  "groups" : [ "boiling", "consumables", "foodhealing", "foodmobility" ]
-}

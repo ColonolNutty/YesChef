@@ -82,18 +82,6 @@
   "soundEffect" : "/sfx/objects/campfire.ogg",
 
   "statusEffects" : [ ],
-
-  "recipeGroup" : "boiling",
-  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
-  "slotCount" : 16,
-  "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",
-  "frameCooldown" : 67,
-  "autoCloseCooldown" : 3600,
-
-  "scripts" : [ "/scripts/npcToyObject.lua", "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
-  
-  "scriptDelta" : 1,
-  "outputConfig": "/recipeCrafterMFM/boilingMFMRecipes.config",
   
   "npcToy" : {
     "influence" : [
@@ -109,5 +97,16 @@
     "preciseStandPositionLeft" : [-2.5, 0.0],
     "preciseStandPositionRight" : [2.5, 0.0],
     "maxNpcs" : 2
-  }
+  },
+
+  "recipeGroup" : "boilingMFM",
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600,
+
+  "scripts" : [ "/scripts/npcToyObject.lua", "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
+  "scriptDelta" : 1,
+  "outputConfig": "/recipeCrafterMFM/boilingMFMRecipes.config"
 }

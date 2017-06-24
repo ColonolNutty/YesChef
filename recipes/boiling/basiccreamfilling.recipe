@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "basiccreamfillingmix", "count" : 2 },
-    { "item" : "milk", "count" : 1 }
-  ],
-  "output" : { "item" : "basiccreamfilling", "count" : 1 },
-  "groups" : [ "boiling", "consumables"]
-}

@@ -41,7 +41,7 @@
   ],
   [
     { "op": "test", "path": "/outputConfig", "inverse" : true },
-    { "op" : "add", "path" : "/outputConfig", "value" : "/recipeCrafterMFM/bakingMFMRecipes.config" }
+    { "op" : "add", "path" : "/outputConfig", "value" : "" }
   ],
   [
     { "op": "test", "path": "/scriptDelta", "inverse" : true },
@@ -59,6 +59,11 @@
     },
     {
       "op" : "replace",
+      "path" : "/outputConfig",
+      "value" : "/recipeCrafterMFM/bakingMFMRecipes.config"
+    },
+    {
+      "op" : "replace",
       "path" : "/shortdescription",
       "value" : "Rustic Oven (Baking)"
     },
@@ -70,7 +75,7 @@
     {
       "op" : "replace",
       "path" : "/recipeGroup",
-      "value" : "baking"
+      "value" : "bakingMFM"
     },
     {
       "op" : "replace",

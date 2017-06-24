@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "choppedblueberries", "count" : 1 },
-    { "item" : "milk", "count" : 1 }
-  ],
-  "output" : { "item" : "blueberryshake", "count" : 1 },
-  "groups" : [ "blending", "consumables", "foodhealing","all" ]
-}

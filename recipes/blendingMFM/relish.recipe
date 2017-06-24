@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "relishmix", "count" : 1 },
+    { "item" : "vinegarMSM", "count" : 1 }
+  ],
+  "output" : { "item" : "relish", "count" : 1 },
+  "groups" : [ "blendingMFM" ]
+}

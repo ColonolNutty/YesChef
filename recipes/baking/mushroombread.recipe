@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "mushroombreadmix", "count" : 1 }
-  ],
-  "output" : { "item" : "mushroombread", "count" : 1 },
-  "groups" : [ "baking", "consumables", "foodhealing", "foodhealthboost" ]
-}

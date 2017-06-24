@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "choppedoculemon", "count" : 1 },
-    { "item" : "basiccreamfilling", "count" : 1 }
-  ],
-  "output" : { "item" : "creamfillingoculemon", "count" : 1 },
-  "groups" : [ "boiling", "consumables"]
-}

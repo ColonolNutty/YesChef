@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "kiwijammix", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "kiwijam", "count" : 1 },
+  "groups" : [ "boilingMFM" ]
+}

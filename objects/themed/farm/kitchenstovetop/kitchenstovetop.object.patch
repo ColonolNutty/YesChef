@@ -37,7 +37,7 @@
   ],
   [
     { "op": "test", "path": "/outputConfig", "inverse" : true },
-    { "op" : "add", "path" : "/outputConfig", "value" : "/recipeCrafterMFM/boilingMFMRecipes.config" }
+    { "op" : "add", "path" : "/outputConfig", "value" : "" }
   ],
   [
     { "op": "test", "path": "/scriptDelta", "inverse" : true },
@@ -55,13 +55,18 @@
     },
     {
       "op" : "replace",
+      "path" : "/outputConfig",
+      "value" : "/recipeCrafterMFM/boilingMFMRecipes.config"
+    },
+    {
+      "op" : "replace",
       "path" : "/objectType",
       "value" : "container"
     },
     {
       "op" : "replace",
       "path" : "/recipeGroup",
-      "value" : "boiling"
+      "value" : "boilingMFM"
     },
     {
       "op" : "replace",
@@ -91,7 +96,7 @@
     {
       "op" : "replace",
       "path" : "/shortdescription",
-      "value" : "Kitchen Stove Top (Boil)"
+      "value" : "Kitchen Stove Top (Boiling)"
     },
     {
       "op" : "remove",

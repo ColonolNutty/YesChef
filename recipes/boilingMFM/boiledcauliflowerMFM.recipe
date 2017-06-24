@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "choppedcauliflower", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "boiledcauliflower", "count" : 1 },
+  "groups" : [ "boilingMFM" ]
+}

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "choppedalienmeat", "count" : 1 },
-    { "item" : "cookingoilMFM", "count" : 1 }
-  ],
-  "output" : { "item" : "blendedalienmeat", "count" : 2 },
-  "groups" : [ "blending", "consumables"]
-}

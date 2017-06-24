@@ -77,5 +77,5 @@
   "autoCloseCooldown" : 3600,
   
   "scriptDelta" : 1,
-  "outputConfig": "/recipeCrafterMFM/freezerMFMRecipes.config"
+  "outputConfig": "/recipeCrafterMFM/freezingMFMRecipes.config"
 }

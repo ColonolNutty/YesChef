@@ -65,7 +65,7 @@
     "maxNpcs" : 1
   },
 
-  "recipeGroup" : "baking",
+  "recipeGroup" : "bakingMFM",
   "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
   "slotCount" : 16,
   "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",

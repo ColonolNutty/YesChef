@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "rawquichelorraine", "count" : 1 }
-  ],
-  "output" : { "item" : "quichelorraine", "count" : 1 },
-  "groups" : [ "baking", "consumables", "foodhealing" ]
-}

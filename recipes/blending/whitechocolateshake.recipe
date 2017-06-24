@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "whitechocolateMFM", "count" : 1 },
-    { "item" : "milk", "count" : 2 }
-  ],
-  "output" : { "item" : "whitechocolateshake", "count" : 1 },
-  "groups" : [ "blending", "consumables", "foodhealing","all" ]
-}

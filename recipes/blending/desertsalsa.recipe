@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "desertsalsamix", "count" : 1 },
-    { "item" : "vinegarMSM", "count" : 1 }
-  ],
-  "output" : { "item" : "desertsalsa", "count" : 1 },
-  "groups" : [ "blending", "consumables", "foodhealing", "foodhealthboost", "foodmobility", "foodother" ]
-}

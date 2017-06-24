@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "simmeredtomatosoupmix", "count" : 1 },
+    { "item" : "creamMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "tomatosoup", "count" : 1 },
+  "groups" : [ "blendingMFM" ]
+}
