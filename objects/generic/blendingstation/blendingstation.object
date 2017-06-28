@@ -41,6 +41,5 @@
   
   "scripts": [ "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
   "scriptDelta" : 1,
-  "outputConfig": "/recipeCrafterMFM/blendingMFMRecipes.config",
-  "outputSlot": 1
+  "outputConfig": "/recipeCrafterMFM/blendingMFMRecipes.config"
 }
