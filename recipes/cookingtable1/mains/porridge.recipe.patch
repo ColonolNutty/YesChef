@@ -1,0 +1,15 @@
+[
+	{
+		"op": "replace",
+		"path": "/input",
+		"value": [
+      { "item" : "porridgemix", "count" : 1 },
+      { "item" : "milk", "count" : 1 }
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/groups",
+		"value": [ "boilingMFM" ]
+	}
+]
