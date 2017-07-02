@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A steel chopping tool!",
-  "shortdescription" : "^orange;Apex Chopping Machine^white;",
+  "shortdescription" : "^orange;Apex Slicer (Chop)^white;",
   "subtitle" : "Chop things to bits!",
   "race" : "generic",
   "category" : "Cookware",

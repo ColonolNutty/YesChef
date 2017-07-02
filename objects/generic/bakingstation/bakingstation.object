@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "An Oven! I can bake, roast and dry with this!",
-  "shortdescription" : "^orange;Oven^white;",
+  "shortdescription" : "^orange;Oven (Bake)^white;",
   "subtitle" : "Bake, Roast and Dry!",
   "race" : "generic",
   "category" : "Cookware",

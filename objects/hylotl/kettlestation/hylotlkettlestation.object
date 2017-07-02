@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "Traditional teapot. One in every Hylotl kitchen.",
-  "shortdescription" : "^orange;Hylotl Teapot^white;",
+  "shortdescription" : "^orange;Hylotl Teapot (Purify)^white;",
   "subtitle" : "Purify Water!",
   "race" : "generic",
   "category" : "Cookware",

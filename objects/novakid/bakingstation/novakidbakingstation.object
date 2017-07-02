@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A castiron engine oven!",
-  "shortdescription" : "^orange;Novakid Engine Oven^white;",
+  "shortdescription" : "^orange;Novakid Engine Oven (Bake)^white;",
   "subtitle" : "Bake Food!",
   "race" : "generic",
   "category" : "Cookware",

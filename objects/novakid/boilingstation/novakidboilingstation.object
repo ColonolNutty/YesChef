@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A steampowered pressureboiler!",
-  "shortdescription" : "^orange;Novakid Pressure Boiler^white;",
+  "shortdescription" : "^orange;Novakid Boiler (Boil)^white;",
   "subtitle" : "Boil Food!",
   "race" : "generic",
   "category" : "Cookware",

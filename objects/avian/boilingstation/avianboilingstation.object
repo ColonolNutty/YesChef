@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A sturdy cast boilpot!",
-  "shortdescription" : "^orange;Avian Boilpot^white;",
+  "shortdescription" : "^orange;Avian Boilpot (Boil)^white;",
   "subtitle" : "Boil Food!",
   "race" : "generic",
   "category" : "Cookware",

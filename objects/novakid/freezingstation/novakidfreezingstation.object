@@ -4,7 +4,7 @@
   "rarity" : "Common",
   "description" : "Freezes food and outlaws!",
   "objectType" : "container",
-  "shortdescription" : "^orange;Novakid Carriage Freezer^white;",
+  "shortdescription" : "^orange;Novakid Freezer (Freeze)^white;",
   "race" : "generic",
   "subtitle" : "Freeze and Chill!",
   "category" : "Cookware",

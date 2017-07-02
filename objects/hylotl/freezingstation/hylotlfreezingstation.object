@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A waterfilled freezer.",
-  "shortdescription" : "^orange;Hylotl Freezer^white;",
+  "shortdescription" : "^orange;Hylotl Freezer (Freeze)^white;",
   "subtitle" : "Freeze and Chill",
   "race" : "generic",
   "category" : "Cookware",

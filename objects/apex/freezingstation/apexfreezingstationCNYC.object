@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "An apex freezer!",
-  "shortdescription" : "^orange;Apex Freezer^white;",
+  "shortdescription" : "^orange;Apex Freezer (Freeze)^white;",
   "subtitle" : "Make the Ice!",
   "race" : "generic",
   "category" : "Cookware",

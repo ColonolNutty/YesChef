@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A basic coffee jug.",
-  "shortdescription" : "^orange;Glitch Coffee Jug^white;",
+  "shortdescription" : "^orange;Glitch Coffee Jug (Coffee)^white;",
   "subtitle" : "Brew Coffee!",
   "race" : "generic",
   "category" : "Cookware",

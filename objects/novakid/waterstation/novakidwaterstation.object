@@ -4,7 +4,7 @@
   "rarity" : "Common",
   "description" : "Dispenses fresh water!",
   "objectType" : "container",
-  "shortdescription" : "^orange;Novakid Watertower^white;",
+  "shortdescription" : "^orange;Novakid Watertower (Water)^white;",
   "race" : "generic",
   "subtitle" : "Dispenses water!",
   "category" : "Cookware",

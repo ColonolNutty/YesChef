@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A deep fryer!",
-  "shortdescription" : "^orange;Apex Deep Fryer^white;",
+  "shortdescription" : "^orange;Apex Deep Fryer (Fry)^white;",
   "subtitle" : "Fry Food!",
   "race" : "generic",
   "category" : "Cookware",

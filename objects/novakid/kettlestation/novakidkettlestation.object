@@ -4,7 +4,7 @@
   "rarity" : "Common",
   "description" : "Purifies water, whistles with encouragement!",
   "objectType" : "container",
-  "shortdescription" : "^orange;Novakid Steam Kettle^white;",
+  "shortdescription" : "^orange;Novakid Kettle (Purify)^white;",
   "race" : "generic",
   "subtitle" : "Purify Water!",
   "category" : "Cookware",

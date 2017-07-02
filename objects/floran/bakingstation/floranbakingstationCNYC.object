@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A bone coal oven!",
-  "shortdescription" : "^orange;Floran Bone Oven^white;",
+  "shortdescription" : "^orange;Floran Bone Oven (Bake)^white;",
   "subtitle" : "Bake Food!",
   "race" : "generic",
   "category" : "Cookware",

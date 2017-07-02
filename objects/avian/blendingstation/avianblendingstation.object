@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A pestle and waterjug!",
-  "shortdescription" : "^orange;Avian Waterblender^white;",
+  "shortdescription" : "^orange;Avian Waterblender (Blend)^white;",
   "subtitle" : "Blend Food!",
   "race" : "generic",
   "category" : "Cookware",

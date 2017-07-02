@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "Fresh water barrel. Fill your bottle!",
-  "shortdescription" : "^orange;Glitch Water Barrel^white;",
+  "shortdescription" : "^orange;Glitch Water Barrel (Water)^white;",
   "subtitle" : "Drinking waterbarrel!",
   "race" : "generic",
   "category" : "Cookware",

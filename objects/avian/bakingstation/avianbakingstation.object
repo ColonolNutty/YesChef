@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A temperd clay fireoven!",
-  "shortdescription" : "^orange;Avian Clay Oven^white;",
+  "shortdescription" : "^orange;Avian Clay Oven (Bake)^white;",
   "subtitle" : "Bake Food!",
   "race" : "generic",
   "category" : "Cookware",

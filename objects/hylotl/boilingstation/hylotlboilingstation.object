@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "One pot cooking!",
-  "shortdescription" : "^orange;Hylotl Boilpot^white;",
+  "shortdescription" : "^orange;Hylotl Boilpot (Boil)^white;",
   "subtitle" : "Boil and simmer",
   "race" : "generic",
   "category" : "Cookware",

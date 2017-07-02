@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A fine cast coffeepot!",
-  "shortdescription" : "^orange;Avian Coffeepot^white;",
+  "shortdescription" : "^orange;Avian Coffeepot (Coffee)^white;",
   "subtitle" : "Brew Coffee!",
   "race" : "generic",
   "category" : "Cookware",

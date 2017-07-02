@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A tea machine!",
-  "shortdescription" : "^orange;Apex Tea Machine^white;",
+  "shortdescription" : "^orange;Apex Tea Machine (Purify)^white;",
   "subtitle" : "Purifies dirty water!",
   "race" : "generic",
   "category" : "Cookware",

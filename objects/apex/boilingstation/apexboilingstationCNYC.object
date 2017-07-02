@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "A giant pot for boiling!",
-  "shortdescription" : "^orange;Apex Boiling Pot^white;",
+  "shortdescription" : "^orange;Apex Boiling Pot (Boil)^white;",
   "subtitle" : "Blend Food!",
   "race" : "generic",
   "category" : "Cookware",

@@ -4,7 +4,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "I can bake things with this!",
-  "shortdescription" : "^orange;Camp Oven^white;",
+  "shortdescription" : "^orange;Camp Oven (Bake)^white;",
   "subtitle" : "Bake Food!",
   "race" : "generic",
   "category" : "Makeshift Cookware",

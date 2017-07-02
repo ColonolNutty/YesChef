@@ -4,7 +4,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "Two rocks and a bit of effort can grind up wheat and other things!",
-  "shortdescription" : "^orange;Camp Millstone^white;",
+  "shortdescription" : "^orange;Camp Millstone (Mill)^white;",
   "subtitle" : "Grind Ingredients!",
   "race" : "generic",
   "category" : "Makeshift Cookware",

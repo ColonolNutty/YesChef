@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "Regulated chest freezer!",
-  "shortdescription" : "^orange;Avian Freezer^white;",
+  "shortdescription" : "^orange;Avian Freezer (Freeze)^white;",
   "subtitle" : "Freeze and Chill!",
   "race" : "generic",
   "category" : "Cookware",

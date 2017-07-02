@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "description" : "One pot cooking!",
-  "shortdescription" : "^orange;Glitch Boilpot^white;",
+  "shortdescription" : "^orange;Glitch Boilpot (Boil)^white;",
   "subtitle" : "Boil and simmer",
   "race" : "generic",
   "category" : "Cookware",
