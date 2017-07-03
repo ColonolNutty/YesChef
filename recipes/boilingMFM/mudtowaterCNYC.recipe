@@ -3,5 +3,5 @@
     { "item" : "mud", "count" : 1 }
   ],
   "output" : { "item" : "liquidwater", "count" : 1 },
-  "groups" : [ "purifyingMFM" ]
+  "groups" : [ "boilingMFM" ]
 }

@@ -80,6 +80,7 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "fishstew" },
   { "op": "add", "path": "/possibleOutput/-", "value": "freshpopcorn" },
   { "op": "add", "path": "/possibleOutput/-", "value": "kiwijam" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "liquidwater" },
   { "op": "add", "path": "/possibleOutput/-", "value": "meatdumplings" },
   { "op": "add", "path": "/possibleOutput/-", "value": "meatstew" },
   { "op": "add", "path": "/possibleOutput/-", "value": "mountainmanstew" },
