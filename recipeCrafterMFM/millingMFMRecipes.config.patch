@@ -1,4 +1,3 @@
 [
-  { "op": "add", "path": "/possibleOutput/-", "value": "groundcoffee" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "riceflour" }
+  { "op": "add", "path": "/possibleOutput/-", "value": "groundcoffee" }
 ]

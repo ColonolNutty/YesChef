@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "ricedough", "count" : 1 },
+    { "item" : "doughMFM", "count" : 1 },
     { "item" : "choppedalienmeat", "count" : 1 }
   ],
   "output" : { "item" : "rawmeatdumplings", "count" : 1 },
-  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing" ]
+  "groups" : [ "craftingfood", "sides" ]
 }
