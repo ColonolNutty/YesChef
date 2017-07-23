@@ -4,7 +4,7 @@
   "price" : 40,
   "inventoryIcon" : "beakseedbreadmix.png",
   "description" : "Breadloaf dough mix packed with chopped beakseed. Proven and just needs baking.",
-  "shortdescription" : "Beadseed Bread Mix",
+  "shortdescription" : "Beakseed Bread Mix",
   "category" : "cookingIngredient",
   "maxStack" : 1000,
   "learnBlueprintsOnPickup": ["beakseedbread"]
