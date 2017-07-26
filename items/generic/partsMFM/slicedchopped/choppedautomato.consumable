@@ -16,6 +16,5 @@
     "wellfed"
   ],
   "learnBlueprintsOnPickup": ["automatoshake",
-                              "2kbpotage",
                               "automatostewmix"]
 }

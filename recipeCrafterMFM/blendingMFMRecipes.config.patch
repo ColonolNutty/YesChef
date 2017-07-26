@@ -17,6 +17,7 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "reefjuice" },
   { "op": "add", "path": "/possibleOutput/-", "value": "reefshake" },
   { "op": "add", "path": "/possibleOutput/-", "value": "relish" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "spookyicingCNYC" },
   { "op": "add", "path": "/possibleOutput/-", "value": "strawberryshake" },
   { "op": "add", "path": "/possibleOutput/-", "value": "sweetpunch" },
   { "op": "add", "path": "/possibleOutput/-", "value": "thornjuice" },

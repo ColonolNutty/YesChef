@@ -1,0 +1,24 @@
+{
+  "itemName" : "spookycakeCNYC",
+  "rarity" : "Uncommon",
+  "price" : 350,
+  "category" : "preparedFood",
+  "inventoryIcon" : "spookycakeCNYC.png",
+  "description" : "A spooky looking cake!",
+  "shortdescription" : "Spooky Cake",
+  "effects" : [ [
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 405
+    }
+  ] ],
+  "foodValue" : 60,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

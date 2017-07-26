@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "flourMFM", "count" : 1 },
+    { "item" : "choppedpussplum", "count" : 3 },
+    { "item" : "choppedoculemon", "count" : 3 },
+    { "item" : "choppedalienmeat", "count" : 2 }
+  ],
+  "output" : { "item" : "oculemonstewmix", "count" : 1 },
+  "groups" : [ "mixingMFM" ]
+}

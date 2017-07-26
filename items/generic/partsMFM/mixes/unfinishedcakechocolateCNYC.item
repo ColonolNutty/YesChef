@@ -1,0 +1,11 @@
+{
+  "itemName" : "unfinishedcakechocolateCNYC",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "unfinishedcakechocolateCNYC.png",
+  "description" : "The fluffy, risen, base of a chocolate cake. Needs decorating.",
+  "shortdescription" : "Unfinished Chocolate Cake",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": [ "chocolatecake" ]
+}

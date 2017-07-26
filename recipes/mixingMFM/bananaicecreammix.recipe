@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "choppedbanana", "count" : 2 },
+    { "item" : "creamMFM", "count" : 2 },
+    { "item" : "sugar", "count" : 4 }
+  ],
+  "output" : { "item" : "bananaicecreammix", "count" : 1 },
+  "groups" : [ "mixingMFM" ]
+}

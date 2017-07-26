@@ -1,0 +1,11 @@
+{
+  "itemName" : "cakemixchocolateCNYC",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "cakemixchocolateCNYC.png",
+  "description" : "Chocolate Cake mix. Bake it.",
+  "shortdescription" : "Chocolate Cake Mix",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": [ "unfinishedcakechocolateCNYC" ]
+}

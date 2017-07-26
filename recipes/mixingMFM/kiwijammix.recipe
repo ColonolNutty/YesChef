@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "pressedkiwi", "count" : 3 },
+    { "item" : "sugar", "count" : 4 }
+  ],
+  "output" : { "item" : "kiwijammix", "count" : 1 },
+  "groups" : [ "mixingMFM" ]
+}

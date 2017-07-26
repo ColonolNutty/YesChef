@@ -15,14 +15,13 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup": ["rawpasty",
+  "learnBlueprintsOnPickup": [ "rawpasty",
                               "carrotjuice",
                               "boiledcarrot",
                               "gardensalad",
-                              "carrotcakemix",
                               "carrotsoupmix",
                               "meatpiemix",
                               "meatstewmix",
                               "stockvegetablemix",
-                              "carrotbreadmix"]
+                              "carrotbreadmix" ]
 }

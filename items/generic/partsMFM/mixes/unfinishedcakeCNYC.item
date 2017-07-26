@@ -1,0 +1,11 @@
+{
+  "itemName" : "unfinishedcakeCNYC",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "unfinishedcakeCNYC.png",
+  "description" : "The fluffy, risen, base of a cake. Needs decorating.",
+  "shortdescription" : "Unfinished Cake",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": [ "cake", "coffeecake" ]
+}

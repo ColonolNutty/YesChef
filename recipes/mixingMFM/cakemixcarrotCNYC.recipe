@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "cakemixCNYC", "count" : 1 },
+    { "item" : "groundcinnamonMFM", "count" : 1 },
+    { "item" : "choppedcarrot", "count" : 4 }
+  ],
+  "output" : { "item" : "cakemixcarrotCNYC", "count" : 1 },
+  "groups" : [ "mixingMFM" ]
+}

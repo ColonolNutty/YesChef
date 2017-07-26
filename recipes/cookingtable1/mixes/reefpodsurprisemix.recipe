@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "choppedreefpod", "count" : 3 },
-    { "item" : "choppedoculemon", "count" : 3 }
-  ],
-  "output" : { "item" : "reefpodsurprisemix", "count" : 1 },
-  "groups" : [ "craftingfood", "snacks", "consumables", "foodhealthboost", "foodenergyboost" ]
-}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "cakemixCNYC", "count" : 1 }
+  ],
+  "output" : { "item" : "unfinishedcakeCNYC", "count" : 1 },
+  "groups" : [ "bakingMFM" ]
+}

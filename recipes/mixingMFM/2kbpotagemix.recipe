@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "choppedcurrentcorn", "count" : 1 },
+    { "item" : "choppedautomato", "count" : 1 }
+  ],
+  "output" : { "item" : "2kbpotagemix", "count" : 1 },
+  "groups" : [ "mixingMFM" ]
+}

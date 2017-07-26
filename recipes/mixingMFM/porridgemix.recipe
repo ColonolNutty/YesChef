@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "oatgrainsMFM", "count" : 4 },
+    { "item" : "sugar", "count" : 1 }
+  ],
+  "output" : { "item" : "porridgemix", "count" : 1 },
+  "groups" : [ "mixingMFM" ]
+}

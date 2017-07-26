@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "cnycakemix", "count" : 1 },
+    { "item" : "cookiedoughMFM", "count" : 1 },
     { "item" : "cactusjuice", "count" : 1 }
   ],
   "output" : { "item" : "rawspikycookies", "count" : 1 },

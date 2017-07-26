@@ -1,0 +1,11 @@
+{
+  "itemName" : "unfinishedcakespookyCNYC",
+  "rarity" : "Common",
+  "price" : 40,
+  "inventoryIcon" : "unfinishedcakespookyCNYC.png",
+  "description" : "The fluffy, risen, base of a spooky cake. Needs decorating.",
+  "shortdescription" : "Unfinished Spooky Cake",
+  "category" : "cookingIngredient",
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup": [ "spookycakeCNYC" ]
+}

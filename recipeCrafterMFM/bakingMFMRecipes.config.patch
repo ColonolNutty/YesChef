@@ -2,7 +2,6 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "applecrumble" },
   { "op": "add", "path": "/possibleOutput/-", "value": "campfirebread" },
   { "op": "add", "path": "/possibleOutput/-", "value": "bananacreampie" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "bakedcakemix" },
   { "op": "add", "path": "/possibleOutput/-", "value": "beakseedbread" },
   { "op": "add", "path": "/possibleOutput/-", "value": "beakseedtart" },
   { "op": "add", "path": "/possibleOutput/-", "value": "bread" },
@@ -32,5 +31,9 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "stuffeddirturchin" },
   { "op": "add", "path": "/possibleOutput/-", "value": "stuffedtomato" },
   { "op": "add", "path": "/possibleOutput/-", "value": "sweetmeat" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "toxictart" }
+  { "op": "add", "path": "/possibleOutput/-", "value": "toxictart" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakeCNYC" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakechocolateCNYC" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakespookyCNYC" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakecarrotCNYC" }
 ]

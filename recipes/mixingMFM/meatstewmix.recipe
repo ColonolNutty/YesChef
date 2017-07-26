@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "flourMFM", "count" : 1 },
+    { "item" : "choppedalienmeat", "count" : 2 },
+    { "item" : "choppedpotato", "count" : 1 },
+    { "item" : "choppedcarrot", "count" : 1 },
+    { "item" : "choppedtomato", "count" : 1 },
+    { "item" : "choppedonion", "count" : 1 }
+  ],
+  "output" : { "item" : "meatstewmix", "count" : 1 },
+  "groups" : [ "mixingMFM" ]
+}
