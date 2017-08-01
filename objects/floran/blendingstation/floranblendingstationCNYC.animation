@@ -5,17 +5,9 @@
         "default" : "on",
         "states" : {
           "on" : {
-            "frames" : 1
-          }
-        }
-      },
-      "spinnerState" : {
-        "default" : "on",
-        "states" : {
-          "on" : {
-            "frames" : 3,
-            "cycle" : 0.5,
-            "mode" : "loop"
+            "frames" : 4,
+            "cycle": 1,
+            "mode": "loop"
           }
         }
       }
@@ -32,24 +24,7 @@
           "baseState" : {
             "on" : {
               "properties" : {
-                "image" : "floranblendingstationCNYC.png:default"
-              }
-            }
-          }
-        }
-      },
-
-      "spinner" : {
-        "properties" : {
-          "zLevel" : 1,
-          "offset" : [0.8, 0.7],
-          "centered" : false
-        },
-        "partStates" : {
-          "spinnerState" : {
-            "on" : {
-              "properties" : {
-                "image" : "floranblendingstationCNYCbonespinner.png:default.<frame>"
+                "image" : "floranblendingstationCNYC.png:default.<frame>"
               }
             }
           }

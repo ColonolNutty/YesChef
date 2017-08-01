@@ -5,17 +5,9 @@
         "default" : "on",
         "states" : {
           "on" : {
-            "frames" : 1
-          }
-        }
-      },
-      "knifeState" : {
-        "default" : "on",
-        "states" : {
-          "on" : {
             "frames" : 4,
-            "cycle" : 0.5,
-            "mode" : "loop"
+            "cycle": 1,
+            "mode": "loop"
           }
         }
       }
@@ -32,25 +24,7 @@
           "baseState" : {
             "on" : {
               "properties" : {
-                "image" : "floranchoppingstationCNYC.png:default"
-              }
-            }
-          }
-        }
-      },
-
-      "knife" : {
-        "properties" : {
-          "zLevel" : 0,
-          "offset" : [0.5, 0.2],
-          "centered" : false,
-          "fullbright" : true
-        },
-        "partStates" : {
-          "knifeState" : {
-            "on" : {
-              "properties" : {
-                "image" : "floranchoppingstationboneknifeCNYC.png:default.<frame>"
+                "image" : "floranchoppingstationCNYC.png:default.<frame>"
               }
             }
           }

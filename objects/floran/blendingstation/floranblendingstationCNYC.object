@@ -23,7 +23,8 @@
   "inventoryIcon" : "floranblendingstationCNYCicon.png",
   "orientations" : [
     {
-      "dualImage" : "floranblendingstationCNYCplacementpreview.png:default",
+      "dualImage" : "floranblendingstationCNYC.png:default.<frame>",
+      "imagePosition" : [0, 0],
       
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

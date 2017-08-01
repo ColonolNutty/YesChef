@@ -31,7 +31,8 @@
   "inventoryIcon" : "floranfryingstationCNYCicon.png",
   "orientations" : [
     {
-      "dualImage" : "floranfryingstationCNYCplacementpreview.png:default",
+      "dualImage" : "floranfryingstationCNYC.png:default.<frame>",
+      "imagePosition" : [0, 0],
       
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

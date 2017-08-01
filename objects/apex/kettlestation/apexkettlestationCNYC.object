@@ -26,57 +26,7 @@
       "image" : "apexkettlestationCNYC.png:default",
       
       "spaceScan" : 0.1,
-      "bgAnchors" : [ [0, 0] ],
-      "collision" : "platform"
-    },
-    {
-      "image" : "apexkettlestationCNYC.png:default",
-      
-      "spaceScan" : 0.1,
-      "bgAnchors" : [ [0, 1] ],
-      "collision" : "platform"
-    },
-    {
-      "image" : "apexkettlestationCNYC.png:default",
-      
-      "spaceScan" : 0.1,
-      "bgAnchors" : [ [1, 0] ],
-      "collision" : "platform"
-    },
-    {
-      "image" : "apexkettlestationCNYC.png:default",
-      
-      "spaceScan" : 0.1,
-      "bgAnchors" : [ [1, 1] ],
-      "collision" : "platform"
-    },
-    {
-      "image" : "apexkettlestationCNYC.png:default",
-      
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ],
-      "collision" : "platform"
-    },
-    {
-      "image" : "apexkettlestationCNYC.png:default",
-      
-      "spaceScan" : 0.1,
-      "anchors" : [ "left" ],
-      "collision" : "platform"
-    },
-    {
-      "image" : "apexkettlestationCNYC.png:default",
-      
-      "spaceScan" : 0.1,
-      "anchors" : [ "right" ],
-      "collision" : "platform"
-    },
-    {
-      "image" : "apexkettlestationCNYC.png:default",
-      
-      "spaceScan" : 0.1,
-      "anchors" : [ "top" ],
-      "collision" : "platform"
+      "anchors" : [ "bottom" ]
     }
   ],
 
