@@ -1,5 +1,6 @@
 [
   { "op": "add", "path": "/possibleOutput/-", "value": "applecrumble" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "brineapple" },
   { "op": "add", "path": "/possibleOutput/-", "value": "campfirebread" },
   { "op": "add", "path": "/possibleOutput/-", "value": "bananacreampie" },
   { "op": "add", "path": "/possibleOutput/-", "value": "beakseedbread" },
