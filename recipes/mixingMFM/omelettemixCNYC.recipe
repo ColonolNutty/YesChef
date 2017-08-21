@@ -6,6 +6,6 @@
     { "item" : "cheese", "count" : 1 },
     { "item" : "saltMFM", "count" : 1 }
   ],
-  "output" : { "item" : "omlettemix", "count" : 1 },
+  "output" : { "item" : "omelettemixCNYC", "count" : 1 },
   "groups" : [ "mixingMFM" ]
 }

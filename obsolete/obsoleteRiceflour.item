@@ -2,7 +2,7 @@
   "itemName" : "riceflour",
   "rarity" : "Common",
   "price" : 40,
-  "inventoryIcon" : "riceflour.png",
+  "inventoryIcon" : "obsoleteRiceflour.png",
   "description" : "Finely milled riceflour.",
   "shortdescription" : "Rice Flour",
   "category" : "cookingIngredient",

@@ -1,11 +1,10 @@
 {
-  "itemName" : "pearlpearisottomix",
+  "itemName" : "pearlpearisottomixCNYC",
   "rarity" : "Common",
   "price" : 40,
-  "inventoryIcon" : "pearlpearisottomix.png",
+  "inventoryIcon" : "pearlpearisottomixCNYC.png",
   "description" : "Risotto mix. Needs boiling in 1-part Vegetable Stock.",
   "shortdescription" : "Pearlpea Risotto Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["pearlpearisotto"]
+  "maxStack" : 1000
 }

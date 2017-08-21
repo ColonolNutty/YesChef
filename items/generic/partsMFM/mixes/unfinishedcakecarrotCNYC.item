@@ -4,7 +4,7 @@
   "price" : 40,
   "inventoryIcon" : "unfinishedcakecarrotCNYC.png",
   "description" : "The fluffy, risen, base of a carrot cake. Needs decorating.",
-  "shortdescription" : "Baked Carrot Cake Mix",
+  "shortdescription" : "Unfinished Carrot Cake",
   "category" : "cookingIngredient",
   "maxStack" : 1000,
   "learnBlueprintsOnPickup": [ "carrotcake" ]

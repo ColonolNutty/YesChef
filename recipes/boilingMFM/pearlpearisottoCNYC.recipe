@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "pearlpearisottomixCNYC", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "pearlpearisotto", "count" : 1 },
+  "groups" : [ "boilingMFM" ],
+  "collectables" : { "cooking" : "pearlpearisotto" }
+}

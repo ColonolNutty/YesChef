@@ -27,11 +27,6 @@
     {
       "op" : "add",
       "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "omlettemix"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
       "value" : "pancakemix"
     },
     {
