@@ -2,7 +2,7 @@
   "itemName" : "choppedorange",
   "rarity" : "Common",
   "price" : 21,
-  "inventoryIcon" : "choppedorange.png",
+  "inventoryIcon" : "obsoletechoppedorange.png",
   "description" : "Washed, peeled and sliced!",
   "shortdescription" : "Prepared Orange!",
   "category" : "food",

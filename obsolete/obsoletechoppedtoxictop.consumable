@@ -1,12 +1,12 @@
 {
-  "itemName" : "choppedcucumber",
+  "itemName" : "choppedtoxictop",
   "rarity" : "Common",
-  "price" : 42,
-  "inventoryIcon" : "choppedcucumber.png",
+  "price" : 210,
+  "inventoryIcon" : "obsoletechoppedtoxictop.png",
   "description" : "Washed, chopped, peeled and sliced!",
-  "shortdescription" : "Prepared Cucumber!",
+  "shortdescription" : "Prepared Toxictop!",
   "category" : "food",
-  "foodValue" : 5.25,
+  "foodValue" : 10.5,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -15,7 +15,5 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup": ["gardensalad",
-                              "relishmix",
-                              "boiledcucumberCNYC"]
+  "learnBlueprintsOnPickup": ["boiledtoxictopCNYC"]
 }

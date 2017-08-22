@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedcoconut", "count" : 1 },
+    { "item" : "coconutchunksMFM", "count" : 1 },
     { "item" : "basiccreamfilling", "count" : 1 }
   ],
   "output" : { "item" : "creamfillingcoconut", "count" : 1 },

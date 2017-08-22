@@ -1,12 +1,12 @@
 {
-  "itemName" : "choppedgrapefruit",
+  "itemName" : "choppedcoconut",
   "rarity" : "Common",
-  "price" : 42,
-  "inventoryIcon" : "choppedgrapefruit.png",
-  "description" : "Washed, peeled and sliced!",
-  "shortdescription" : "Prepared Grapefruit!",
+  "price" : 10.5,
+  "inventoryIcon" : "obsoletechoppedcoconut.png",
+  "description" : "Chopped and dehusked!",
+  "shortdescription" : "Prepared Coconut",
   "category" : "food",
-  "foodValue" : 8.4,
+  "foodValue" : 2.1,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -14,6 +14,5 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ],
-  "learnBlueprintsOnPickup": ["boiledgrapefruitCNYC"]
+  ]
 }

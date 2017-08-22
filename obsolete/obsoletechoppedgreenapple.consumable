@@ -1,12 +1,12 @@
 {
-  "itemName" : "choppedcoconut",
+  "itemName" : "choppedgreenapple",
   "rarity" : "Common",
-  "price" : 10.5,
-  "inventoryIcon" : "choppedcoconut.png",
-  "description" : "Chopped and dehusked!",
-  "shortdescription" : "Prepared Coconut",
+  "price" : 21,
+  "inventoryIcon" : "obsoletechoppedgreenapple.png",
+  "description" : "Washed, peeled and sliced!",
+  "shortdescription" : "Prepared Green Apple!",
   "category" : "food",
-  "foodValue" : 2.1,
+  "foodValue" : 5.25,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -15,5 +15,5 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup": ["creamfillingcoconut"]
+  "learnBlueprintsOnPickup": ["boiledgreenappleCNYC"]
 }

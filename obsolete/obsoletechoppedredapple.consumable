@@ -2,7 +2,7 @@
   "itemName" : "choppedredapple",
   "rarity" : "Common",
   "price" : 4.2,
-  "inventoryIcon" : "choppedredapple.png",
+  "inventoryIcon" : "obsoletechoppedredapple.png",
   "description" : "Washed, chopped, peeled and sliced!",
   "shortdescription" : "Prepared Red Apple!",
   "category" : "food",

@@ -18,7 +18,6 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedcarrot" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedcauliflower" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedchili" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "choppedcoconut" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedcoralcreep" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedcorn" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedcrystalplant" },

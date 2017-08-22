@@ -6,6 +6,5 @@
   "description" : "Finely milled riceflour.",
   "shortdescription" : "Rice Flour",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup" : ["ricedough"]
+  "maxStack" : 1000
 }
