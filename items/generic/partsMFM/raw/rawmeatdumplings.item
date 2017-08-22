@@ -1,6 +1,7 @@
 {
   "itemName" : "rawmeatdumplings",
   "rarity" : "Common",
+  "price" : 189.63,
   "inventoryIcon" : "rawmeatdumplings.png",
   "description" : "A meat dumpling. Needs boiling before I can eat it..",
   "shortdescription" : "Raw Meat Dumplings",

@@ -1,6 +1,7 @@
 {
   "itemName" : "rawmushroomquiche",
   "rarity" : "Common",
+  "price" : 404.73,
   "inventoryIcon" : "rawmushroomquiche.png",
   "description" : "Needs baking!",
   "shortdescription" : "Raw Mushroom Quiche",

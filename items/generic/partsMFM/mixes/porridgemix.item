@@ -1,10 +1,11 @@
 {
   "itemName" : "porridgemix",
   "rarity" : "Common",
+  "price" : 407.08,
+  "category" : "cookingIngredient",
   "inventoryIcon" : "porridgemix.png",
   "description" : "Needs boiling in 1-part Milk!",
   "shortdescription" : "Porridge Mix",
-  "category" : "cookingIngredient",
   "maxStack" : 1000,
   "learnBlueprintsOnPickup": ["porridge"]
 }

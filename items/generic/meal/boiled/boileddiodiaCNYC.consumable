@@ -1,12 +1,12 @@
 {
   "itemName" : "boileddiodiaCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 198.45,
   "inventoryIcon" : "boileddiodiaCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Diodia",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue": 8.27,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,7 +17,6 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["roastdinner",
                               "luckydip"]
 }

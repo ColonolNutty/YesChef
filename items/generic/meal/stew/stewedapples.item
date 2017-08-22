@@ -1,6 +1,7 @@
 {
   "itemName" : "stewedapples",
   "rarity" : "Common",
+  "price" : 31.43,
   "inventoryIcon" : "stewedapples.png",
   "description" : "Sweet stewed apple reduction. Smells amazing!.",
   "shortdescription" : "Stewed Apples",

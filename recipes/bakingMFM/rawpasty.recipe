@@ -4,7 +4,7 @@
     { "item" : "choppedalienmeat", "count" : 3 },
     { "item" : "choppedcarrot", "count" : 1 },
     { "item" : "choppedpotato", "count" : 1 },
-    { "item" : "choppedonion", "count" : 1 },
+    { "item" : "choppedonionCNYC", "count" : 1 },
     { "item" : "peaMFM", "count" : 3 }
    ],
   "output" : { "item" : "rawpasty", "count" : 1 },

@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledfeathercrownCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 132.3,
   "inventoryIcon" : "boiledfeathercrownCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Feather Crown",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue": 11.03,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,7 +17,6 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["roastdinner",
                               "luckydip"]
 }

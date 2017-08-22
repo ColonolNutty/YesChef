@@ -1,15 +1,13 @@
 {
   "itemName" : "freshpopcorn",
   "rarity" : "Common",
-  "price" : 75,
+  "price" : 77.73,
   "inventoryIcon" : "freshpopcorn.png",
   "description" : "Popcorn, so glad we saved this stuff",
   "shortdescription" : "Popcorn",
-  "effects" : [ [ "regeneration3"
- 
-  ] ],
+  "effects" : [ [ "regeneration3" ] ],
   "category" : "food",
-  "foodValue" : 15,
+  "foodValue" : 4.9,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,

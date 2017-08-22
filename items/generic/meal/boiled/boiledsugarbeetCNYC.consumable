@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledsugarbeetCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 88.2,
   "inventoryIcon" : "boiledsugarbeetCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Sugar Beet",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue": 2.21,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,7 +17,6 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["roastdinner",
                               "luckydip"]
 }

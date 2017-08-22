@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledkelpCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 5.51,
   "inventoryIcon" : "boiledkelpCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Kelp",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue": 2.21,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,7 +17,6 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["roastdinner",
                               "luckydip"]
 }

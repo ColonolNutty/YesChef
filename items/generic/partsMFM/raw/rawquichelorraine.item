@@ -1,6 +1,7 @@
 {
   "itemName" : "rawquichelorraine",
   "rarity" : "Common",
+  "price" : 361.08,
   "inventoryIcon" : "rawquichelorraine.png",
   "description" : "Needs baking!",
   "shortdescription" : "Raw Quiche Lorraine",

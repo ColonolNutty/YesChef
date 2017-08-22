@@ -8,7 +8,7 @@
   "subtitle" : "Grind Ingredients!",
   "race" : "generic",
   "category" : "Makeshift Cookware",
-  "price" : 75,
+  "price" : 20.1,
   "objectType" : "container",
 
   "apexDescription" : "Those rocks were heavy.",

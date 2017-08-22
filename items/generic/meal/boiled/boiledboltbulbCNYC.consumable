@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledboltbulbCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 55.13,
   "inventoryIcon" : "boiledboltbulbCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Boltbulb",
   "category" : "preparedFood",
-  "foodValue" : 10,
+  "foodValue" : 4.14,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -15,6 +15,5 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "emote" : "Happy",
-  "emitters" : [ "Eating" ]
+  "emote" : "Happy"
 }

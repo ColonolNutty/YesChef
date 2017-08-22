@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledwartweedCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 154.35,
   "inventoryIcon" : "boiledwartweedCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Wart Weed",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue": 5.51,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,7 +17,6 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["roastdinner",
                               "luckydip"]
 }

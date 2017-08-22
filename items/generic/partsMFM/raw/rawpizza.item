@@ -1,6 +1,7 @@
 {
   "itemName" : "rawpizza",
   "rarity" : "Common",
+  "price" : 406.19,
   "inventoryIcon" : "rawpizza.png",
   "description" : "Needs baking!",
   "shortdescription" : "Raw Pizza",

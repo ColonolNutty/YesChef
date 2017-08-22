@@ -1,11 +1,11 @@
 {
   "itemName" : "meatstewmix",
   "rarity" : "Common",
-  "price" : 40,
+  "price" : 324.71,
+  "category" : "cookingIngredient",
   "inventoryIcon" : "meatstewmix.png",
   "description" : "Stew mix. Needs boiling with 2-parts water.",
   "shortdescription" : "Meat Stew Mix",
-  "category" : "cookingIngredient",
   "maxStack" : 1000,
   "learnBlueprintsOnPickup": ["meatstew"]
 }

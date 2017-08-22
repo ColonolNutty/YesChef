@@ -1,7 +1,7 @@
 {
   "itemName" : "spookycakeCNYC",
   "rarity" : "Uncommon",
-  "price" : 350,
+  "price" : 978.63,
   "category" : "preparedFood",
   "inventoryIcon" : "spookycakeCNYC.png",
   "description" : "A spooky looking cake!",
@@ -12,7 +12,7 @@
         "duration" : 405
     }
   ] ],
-  "foodValue" : 60,
+  "foodValue" : 79.96,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1,

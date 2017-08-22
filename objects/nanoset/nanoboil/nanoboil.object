@@ -8,7 +8,7 @@
   "subtitle" : "Zero-G Liquid Boiler.",
   "race" : "generic",
   "category" : "crafting",
-  "price" : 90,
+  "price" : 607.5,
   "objectType" : "container",
 
   "maximumLiquidLevel" : 0.2,

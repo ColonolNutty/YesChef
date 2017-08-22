@@ -1,6 +1,7 @@
 {
   "itemName" : "rawsoggysack",
   "rarity" : "Common",
+  "price" : 215.25,
   "inventoryIcon" : "rawsoggysack.png",
   "description" : "Boil in 1-part vinegar.",
   "shortdescription" : "Raw Soggysack",

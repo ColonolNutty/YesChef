@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledbonebooCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 176.4,
   "inventoryIcon" : "boiledbonebooCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Bone Boo",
   "category" : "preparedFood",
-  "foodValue" : 10,
+  "foodValue" : 5.51,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -15,6 +15,5 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "emote" : "Happy",
-  "emitters" : [ "Eating" ]
+  "emote" : "Happy"
 }

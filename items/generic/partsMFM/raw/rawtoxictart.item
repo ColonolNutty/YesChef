@@ -1,6 +1,7 @@
 {
   "itemName" : "rawtoxictart",
   "rarity" : "Common",
+  "price" : 531.21,
   "inventoryIcon" : "rawtoxictart.png",
   "description" : "Needs baking.",
   "shortdescription" : "Raw Toxic Tart",

@@ -1,7 +1,7 @@
 {
   "itemName" : "choppedalienmeat",
   "rarity" : "Common",
-  "price" : 40,
+  "price" : 10.5,
   "inventoryIcon" : "choppedalienmeat.png",
   "description" : "Diced meat. I can't eat it yet..",
   "shortdescription" : "Raw Diced Alienmeat",

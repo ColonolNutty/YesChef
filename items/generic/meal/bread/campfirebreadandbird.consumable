@@ -1,7 +1,7 @@
 {
   "itemName" : "campfirebreadandbird",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 60.21,
   "inventoryIcon" : "campfirebreadandbird.png",
   "description" : "Simple Bread and Half Roast Bird. Mountainman cuisine keeps you going!",
   "shortdescription" : "Bread and Bird",
@@ -9,7 +9,7 @@
 		    {"effect" : "regeneration1"}
 		   ]],
   "category" : "food",
-  "foodValue" : 10,
+  "foodValue" : 8.22,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,

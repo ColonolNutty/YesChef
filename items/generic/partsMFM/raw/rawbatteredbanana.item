@@ -1,6 +1,7 @@
 {
   "itemName" : "rawbatteredbanana",
   "rarity" : "Common",
+  "price" : 304.61,
   "inventoryIcon" : "rawbatteredbanana.png",
   "description" : "A raw banana dipped in cakemix. Needs frying in some oil before I can eat it.",
   "shortdescription" : "Raw Battered Banana",

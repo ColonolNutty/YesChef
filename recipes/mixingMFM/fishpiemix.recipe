@@ -4,7 +4,7 @@
     { "item" : "butterMFM", "count" : 2 },
     { "item" : "choppedrawfish", "count" : 2 },
     { "item" : "flourMFM", "count" : 2 },
-    { "item" : "choppedonion", "count" : 1 }
+    { "item" : "choppedonionCNYC", "count" : 1 }
   ],
   "output" : { "item" : "fishpiemix", "count" : 1 },
   "groups" : [ "mixingMFM" ]

@@ -1,10 +1,11 @@
 {
   "itemName" : "pearlpeapancakemix",
   "rarity" : "Common",
+  "price" : 292.86,
+  "category" : "cookingIngredient",
   "inventoryIcon" : "pearlpeapancakemix.png",
   "description" : "A sweet thick batter mix for pancakes with added pearlpeas.",
   "shortdescription" : "Pearlpea Pancake Mix",
-  "category" : "cookingIngredient",
   "maxStack" : 1000,
   "learnBlueprintsOnPickup": ["pearlpeapancakes"]
 }

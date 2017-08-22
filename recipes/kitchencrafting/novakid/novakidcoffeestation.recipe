@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "ironbar", "count" : 5 },
     { "item" : "copperbar", "count" : 3 },
-    { "item" : "glassmaterial", "count" : 1 }
+    { "item" : "glass", "count" : 1 }
   ],
   "output" : { "item" : "novakidcoffeestation", "count" : 1 },
   "groups" : [ "cn_kitchencrafting", "craftingstations", "novakidMFM", "coffeemachineMFM", "all" ]

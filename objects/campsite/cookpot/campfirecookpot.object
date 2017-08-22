@@ -8,7 +8,7 @@
   "subtitle" : "Campsite pot cooking.",
   "race" : "generic",
   "category" : "Makeshift Cookware",
-  "price" : 30,
+  "price" : 132,
   "objectType" : "container",
 
   "maximumLiquidLevel" : 0.2,

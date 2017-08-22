@@ -1,0 +1,19 @@
+{
+  "itemName" : "simpledough",
+  "rarity" : "Common",
+  "price" : 44.1,
+  "category" : "cookingIngredient",
+  "inventoryIcon" : "simpledough.png",
+  "description" : "Flour and water, as basic as it gets.",
+  "shortdescription" : "Simple Dough",
+  "foodValue" : 2.21,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup": ["campfirebread"]
+}

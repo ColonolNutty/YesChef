@@ -1,6 +1,7 @@
 {
   "itemName" : "rawmeatpatty",
   "rarity" : "Common",
+  "price" : 42.32,
   "inventoryIcon" : "rawmeatpatty.png",
   "description" : "A meat patty. Needs frying in oil before I can eat it..",
   "shortdescription" : "Raw Meat Patty",

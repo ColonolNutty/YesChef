@@ -1,6 +1,7 @@
 {
   "itemName" : "rawbatteredfish",
   "rarity" : "Common",
+  "price" : 90.46,
   "inventoryIcon" : "rawbatteredfish.png",
   "description" : "A raw fish fillet dipped in batter. Needs frying in some oil before I can eat it.",
   "shortdescription" : "Raw Battered Fish",

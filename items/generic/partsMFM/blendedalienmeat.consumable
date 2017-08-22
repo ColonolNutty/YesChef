@@ -1,0 +1,19 @@
+{
+  "itemName" : "blendedalienmeat",
+  "rarity" : "Common",
+  "price" : 19.3,
+  "category" : "cookingIngredient",
+  "inventoryIcon" : "blendedalienmeat.png",
+  "description" : "Blended meat. I can't eat it yet..",
+  "shortdescription" : "Blended Alienmeat",
+  "foodValue" : 6.07,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup": ["rawmeatpatty"]
+}

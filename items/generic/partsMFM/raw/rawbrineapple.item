@@ -1,6 +1,7 @@
 {
   "itemName" : "rawbrineapple",
   "rarity" : "Common",
+  "price" : 305.17,
   "inventoryIcon" : "rawbrineapple.png",
   "description" : "Coralcreep filled pineapple, covered in syrup. Needs baking.",
   "shortdescription" : "Raw Brineapple",

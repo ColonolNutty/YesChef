@@ -8,7 +8,7 @@
   "subtitle" : "Hi-tech baking",
   "race" : "generic",
   "category" : "crafting",
-  "price" : 90,
+  "price" : 360.65,
   "objectType" : "container",
 
   "maximumLiquidLevel" : 0.2,

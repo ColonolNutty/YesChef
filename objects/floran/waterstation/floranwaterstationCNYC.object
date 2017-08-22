@@ -9,7 +9,7 @@
   "subtitle" : "Water tub!",
   "race" : "generic",
   "category" : "Cookware",
-  "price" : 75,
+  "price" : 5.05,
   "objectType" : "container",
 
   "inventoryIcon" : "floranwaterstationCNYCicon.png",

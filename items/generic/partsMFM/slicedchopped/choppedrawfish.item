@@ -1,7 +1,7 @@
 {
   "itemName" : "choppedrawfish",
   "rarity" : "Common",
-  "price" : 40,
+  "price" : 10.5,
   "inventoryIcon" : "choppedrawfish.png",
   "description" : "Diced fish. I can't eat it yet..",
   "shortdescription" : "Raw Diced Fish",

@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledgarlicCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 33.08,
   "inventoryIcon" : "boiledgarlicCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Garlic",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue": 2.21,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,7 +17,6 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["roastdinner",
                               "luckydip"]
 }

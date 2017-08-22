@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledgrapesCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 132.3,
   "inventoryIcon" : "boiledgrapesCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Grapes",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue": 4.14,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,7 +17,6 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["roastdinner",
                               "luckydip"]
 }

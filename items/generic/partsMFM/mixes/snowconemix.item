@@ -1,6 +1,7 @@
 {
   "itemName" : "snowconemix",
   "rarity" : "Common",
+  "price" : 495.28,
   "inventoryIcon" : "snowconemix.png",
   "description" : "Snowcone mix. Needs freezing.",
   "shortdescription" : "Snowcone Mix",

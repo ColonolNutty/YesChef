@@ -1,10 +1,11 @@
 {
   "itemName" : "desertsalsamix",
   "rarity" : "Common",
+  "price" : 530.25,
+  "category" : "cookingIngredient",
   "inventoryIcon" : "desertsalsamix.png",
   "description" : "Needs blending with 1-part vinegar.",
   "shortdescription" : "Desert Salsa Mix",
-  "category" : "cookingIngredient",
   "maxStack" : 1000,
   "learnBlueprintsOnPickup": ["desertsalsa"]
 }

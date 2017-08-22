@@ -9,7 +9,7 @@
   "subtitle" : "Blend Food!",
   "race" : "generic",
   "category" : "Cookware",
-  "price" : 75,
+  "price" : 30.15,
   "objectType" : "container",
 
   "lightColor" : [218, 83, 2, 5],

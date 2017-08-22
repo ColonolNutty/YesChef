@@ -1,14 +1,14 @@
 {
   "itemName" : "pancakes",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 229.68,
   "inventoryIcon" : "pancakes.png",
   "description" : "Light, fluffy and moreish!",
   "shortdescription" : "Pancakes",
   "effects": [[{"effect" : "regeneration2"}
 		   ]],
   "category" : "food",
-  "foodValue" : 25,
+  "foodValue" : 29.57,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,

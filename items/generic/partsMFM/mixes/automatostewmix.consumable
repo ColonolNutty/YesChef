@@ -1,0 +1,19 @@
+{
+  "itemName" : "automatostewmix",
+  "rarity" : "Common",
+  "price" : 418.95,
+  "category" : "cookingIngredient",
+  "inventoryIcon" : "automatostewmix.png",
+  "description" : "Needs boiling in 1-part vegetable stock.",
+  "shortdescription" : "Automato Stew Mix",
+  "foodValue" : 18.75,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup": ["automatostew"]
+}

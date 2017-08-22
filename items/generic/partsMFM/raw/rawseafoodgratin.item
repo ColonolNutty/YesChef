@@ -1,6 +1,7 @@
 {
   "itemName" : "rawseafoodgratin",
   "rarity" : "Common",
+  "price" : 309.38,
   "inventoryIcon" : "rawseafoodgratin.png",
   "description" : "Needs Baking!",
   "shortdescription" : "Raw Seafood Gratin",

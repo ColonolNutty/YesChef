@@ -1,11 +1,20 @@
 {
   "itemName" : "boiledfondantmix",
   "rarity" : "Common",
+  "price" : 118.67,
+  "category" : "cookingIngredient",
   "inventoryIcon" : "boiledfondantmix.png",
   "description" : "A hot melted mixture of sugar and syrup. Needs blending with butter.",
   "shortdescription" : "Boiled Fondant Mix",
-  "category" : "cookingIngredient",
+  "foodValue" : 2.66,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
   "learnBlueprintsOnPickup": ["fondant",
                               "candyapple",
                               "candyautomato"]

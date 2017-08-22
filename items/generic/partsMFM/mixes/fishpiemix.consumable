@@ -1,10 +1,11 @@
 {
   "itemName" : "fishpiemix",
   "rarity" : "Common",
+  "price" : 216.79,
+  "category" : "cookingIngredient",
   "inventoryIcon" : "fishpiemix.png",
   "description" : "Needs boiling in 2-Parts milk.",
   "shortdescription" : "Fishpie Mix",
-  "category" : "food",
   "foodValue" : 10,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",

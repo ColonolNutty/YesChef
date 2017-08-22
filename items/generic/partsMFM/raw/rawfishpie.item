@@ -1,6 +1,7 @@
 {
   "itemName" : "rawfishpie",
   "rarity" : "Common",
+  "price" : 430.11,
   "inventoryIcon" : "rawfishpie.png",
   "description" : "Needs baking!",
   "shortdescription" : "Raw Fishpie",

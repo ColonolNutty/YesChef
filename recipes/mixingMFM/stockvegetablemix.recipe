@@ -3,7 +3,7 @@
     { "item" : "choppedtomato", "count" : 1 },
     { "item" : "choppedcarrot", "count" : 1 },
     { "item" : "choppedgarlic", "count" : 1 },
-    { "item" : "choppedonion", "count" : 1 }
+    { "item" : "choppedonionCNYC", "count" : 1 }
   ],
   "output" : { "item" : "stockvegetablemix", "count" : 1 },
   "groups" : [ "mixingMFM" ]

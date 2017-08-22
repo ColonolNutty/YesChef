@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "clay", "count" : 10 },
     { "item" : "copperbar", "count" : 2 },
-    { "item" : "glassmaterial", "count" : 1 }
+    { "item" : "glass", "count" : 1 }
   ],
   "output" : { "item" : "avianblendingstation", "count" : 1 },
   "groups" : [ "cn_kitchencrafting", "craftingstations", "avianMFM", "blendingmachineMFM", "all" ]

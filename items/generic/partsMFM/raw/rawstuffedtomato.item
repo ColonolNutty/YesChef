@@ -1,6 +1,7 @@
 {
   "itemName" : "rawstuffedtomato",
   "rarity" : "Common",
+  "price" : 187.73,
   "inventoryIcon" : "rawstuffedtomato.png",
   "description" : "Needs baking!",
   "shortdescription" : "Raw Stuffed Tomato",

@@ -40,7 +40,7 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedmushroom" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedneonmelon" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedoculemon" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "choppedonion" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "choppedonionCNYC" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedorangebellpepper" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedparsnip" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedpineapple" },

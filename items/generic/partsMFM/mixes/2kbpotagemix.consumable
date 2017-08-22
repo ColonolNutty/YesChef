@@ -1,0 +1,19 @@
+{
+  "itemName" : "2kbpotagemix",
+  "rarity" : "Common",
+  "price" : 176.4,
+  "category" : "cookingIngredient",
+  "inventoryIcon" : "2kbpotagemix.png",
+  "description" : "Needs boiling in 2-parts water.",
+  "shortdescription" : "2kb Potage Mix",
+  "foodValue" : 8.27,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup": ["2kbpotage"]
+}

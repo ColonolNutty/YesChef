@@ -1,10 +1,19 @@
 {
   "itemName" : "coconuticecreammix",
   "rarity" : "Common",
+  "price" : 381.72,
+  "category" : "cookingIngredient",
   "inventoryIcon" : "coconuticecreammix.png",
   "description" : "Icecream mix. Needs freezing.",
   "shortdescription" : "Coconut Icecream Mix",
-  "category" : "cookingIngredient",
+  "foodValue" : 12.41,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
   "learnBlueprintsOnPickup": ["coconuticecream"]
 }

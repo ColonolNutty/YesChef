@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "choppedcarrot", "count" : 4 },
-    { "item" : "choppedonion", "count" : 1 },
+    { "item" : "choppedonionCNYC", "count" : 1 },
     { "item" : "choppedgarlic", "count" : 1 },
     { "item" : "saltMFM", "count" : 1 }
   ],

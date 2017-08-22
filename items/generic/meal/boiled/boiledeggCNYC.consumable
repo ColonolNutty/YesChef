@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledeggCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 21,
   "inventoryIcon" : "boiledeggCNYC.png",
   "description" : "Hardboiled!",
   "shortdescription" : "Boiled Egg",
   "category" : "food",
-  "foodValue": 15,
+  "foodValue": 10.5,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,6 +17,5 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["choppedegg"]
 }

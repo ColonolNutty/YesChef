@@ -9,7 +9,7 @@
   "subtitle" : "Brew Coffee!",
   "race" : "generic",
   "category" : "Cookware",
-  "price" : 75,
+  "price" : 15.15,
   "objectType" : "container",
 
   "inventoryIcon" : "florancoffeestationCNYCicon.png",

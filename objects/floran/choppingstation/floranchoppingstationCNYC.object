@@ -9,7 +9,7 @@
   "subtitle" : "Chop Food!",
   "race" : "generic",
   "category" : "Cookware",
-  "price" : 75,
+  "price" : 15.15,
   "objectType" : "container",
 
   "inventoryIcon" : "floranchoppingstationCNYCicon.png",

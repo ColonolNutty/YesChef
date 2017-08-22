@@ -1,7 +1,7 @@
 {
   "itemName" : "choppedpoultry",
   "rarity" : "Common",
-  "price" : 40,
+  "price" : 5.51,
   "inventoryIcon" : "choppedpoultry.png",
   "description" : "Diced raw bird. Still needs cooking...",
   "shortdescription" : "Raw Diced Poultry",

@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledgreenappleCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 22.05,
   "inventoryIcon" : "boiledgreenappleCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Green Apple",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue": 2.76,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,7 +17,6 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["roastdinner",
                               "luckydip"]
 }

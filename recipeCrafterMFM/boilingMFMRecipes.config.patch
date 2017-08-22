@@ -49,6 +49,7 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "boiledmushroomCNYC" },
   { "op": "add", "path": "/possibleOutput/-", "value": "boiledneonmelonCNYC" },
   { "op": "add", "path": "/possibleOutput/-", "value": "boiledoculemonCNYC" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "boiledonionCNYC" },
   { "op": "add", "path": "/possibleOutput/-", "value": "boiledorangeCNYC" },
   { "op": "add", "path": "/possibleOutput/-", "value": "boiledorangebellpepperCNYC" },
   { "op": "add", "path": "/possibleOutput/-", "value": "boiledparsnipCNYC" },

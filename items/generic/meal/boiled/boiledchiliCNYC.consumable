@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledchiliCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 231.53,
   "inventoryIcon" : "boiledchiliCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Chili",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue": 4.14,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,7 +17,6 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["roastdinner",
                               "luckydip"]
 }

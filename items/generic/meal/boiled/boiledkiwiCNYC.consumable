@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledkiwiCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 132.3,
   "inventoryIcon" : "boiledkiwiCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Kiwi",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue": 11.03,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,7 +17,6 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["roastdinner",
                               "luckydip"]
 }

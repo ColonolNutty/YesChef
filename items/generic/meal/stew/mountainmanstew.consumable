@@ -1,7 +1,7 @@
 {
   "itemName" : "mountainmanstew",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 290.91,
   "inventoryIcon" : "mountainmanstew.png",
   "description" : "A hearty mountainman meal that fills the boots!",
   "shortdescription" : "Mountainman Stew",
@@ -13,7 +13,7 @@
     }
   ]],
   "category" : "food",
-  "foodValue" : 50,
+  "foodValue" : 47.99,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -22,5 +22,4 @@
   "blockingEffects" : [
     "wellfed"
   ]
-
 }

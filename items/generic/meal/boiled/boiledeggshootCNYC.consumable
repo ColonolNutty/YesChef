@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledeggshootCNYC",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 132.3,
   "inventoryIcon" : "boiledeggshootCNYC.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Egg Shoot",
   "category" : "preparedFood",
-  "foodValue": 15,
+  "foodValue": 5.51,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -17,7 +17,6 @@
   ],
 
   "emote" : "Happy",
-  "emitters" : [ "Eating" ],
   "learnBlueprintsOnPickup": ["roastdinner",
                               "luckydip"]
 }

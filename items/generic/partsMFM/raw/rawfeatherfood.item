@@ -1,6 +1,7 @@
 {
   "itemName" : "rawfeatherfood",
   "rarity" : "Common",
+  "price" : 526.48,
   "inventoryIcon" : "rawfeatherfood.png",
   "description" : "Needs baking!",
   "shortdescription" : "Raw Featherfood",

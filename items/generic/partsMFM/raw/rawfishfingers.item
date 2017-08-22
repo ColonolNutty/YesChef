@@ -1,6 +1,7 @@
 {
   "itemName" : "rawfishfingers",
   "rarity" : "Common",
+  "price" : 17.1,
   "inventoryIcon" : "rawfishfingers.png",
   "description" : "Raw fish fingers in breadcrumbs. Need frying in some oil before I can eat them.",
   "shortdescription" : "Raw Fish Fingers",

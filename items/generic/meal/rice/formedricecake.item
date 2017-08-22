@@ -1,8 +1,9 @@
 {
   "itemName" : "formedricecake",
   "rarity" : "Common",
+  "price" : 66.15,
   "inventoryIcon" : "formedricecake.png",
-  "description" : "Rice and Seaweed. Needs drying.",
+  "description" : "Rice and Kelp. Needs drying.",
   "shortdescription" : "Formed Ricecake",
   "category" : "cookingIngredient",
   "maxStack" : 1000,

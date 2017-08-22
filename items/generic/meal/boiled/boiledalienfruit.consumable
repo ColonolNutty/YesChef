@@ -1,12 +1,12 @@
 {
   "itemName" : "boiledalienfruit",
   "rarity" : "Common",
-  "price" : 20,
+  "price" : 44.1,
   "inventoryIcon" : "boiledalienfruit.png",
   "description" : "Boiled and reduced!",
   "shortdescription" : "Boiled Alien Fruit",
   "category" : "preparedFood",
-  "foodValue" : 10,
+  "foodValue" : 11.03,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
@@ -16,6 +16,5 @@
     "wellfed"
   ],
 
-  "emote" : "Happy",
-  "emitters" : [ "Eating" ]
+  "emote" : "Happy"
 }

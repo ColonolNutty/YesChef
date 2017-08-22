@@ -1,7 +1,7 @@
 {
   "itemName" : "plainchocolatedoughnut",
   "rarity" : "Common",
-  "price" : 75,
+  "price" : 229.6,
   "inventoryIcon" : "plainchocolatedoughnut.png",
   "description" : "Fried chocolate cakemix. So bad but so good!",
   "shortdescription" : "Plain Chocolate Doughnut",
@@ -9,7 +9,7 @@
  
   ] ],
   "category" : "food",
-  "foodValue" : 25,
+  "foodValue" : 10.44,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,

@@ -1,6 +1,7 @@
 {
   "itemName" : "rawfishdumplings",
   "rarity" : "Common",
+  "price" : 189.63,
   "inventoryIcon" : "rawfishdumplings.png",
   "description" : "A fish dumpling. Needs boiling before I can eat it..",
   "shortdescription" : "Raw Fish Dumplings",

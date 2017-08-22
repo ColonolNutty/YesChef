@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "shortcrustpastry", "count" : 1 },
     { "item" : "choppedmushroom", "count" : 5 },
-    { "item" : "choppedonion", "count" : 2 },
+    { "item" : "choppedonionCNYC", "count" : 2 },
     { "item" : "egg", "count" : 2 },
     { "item" : "cheese", "count" : 1 },
     { "item" : "milk", "count" : 1 }
