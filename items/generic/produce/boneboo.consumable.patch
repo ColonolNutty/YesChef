@@ -7,11 +7,6 @@
     {
       "op" : "add",
       "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "choppedboneboo"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
       "value" : "rawfishinabone"
     }
   ]

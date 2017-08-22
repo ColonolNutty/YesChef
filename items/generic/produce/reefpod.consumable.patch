@@ -13,11 +13,6 @@
       "op" : "add",
       "path" : "/learnBlueprintsOnPickup/-",
       "value" : "reefshake"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "choppedreefpod"
     }
   ]
 ]

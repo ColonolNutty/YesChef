@@ -17,26 +17,6 @@
     {
       "op" : "add",
       "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "basiccreamfillingmix"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "mushroomricemix"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "pancakemix"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "pearlpeapancakemix"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
       "value" : "rawmushroomquiche"
     },
     {
@@ -48,11 +28,6 @@
       "op" : "add",
       "path" : "/learnBlueprintsOnPickup/-",
       "value" : "coffeeicing"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "carrotbreadmix"
     }
   ]
 ]

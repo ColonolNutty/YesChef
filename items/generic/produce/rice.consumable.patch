@@ -13,16 +13,6 @@
       "op" : "add",
       "path" : "/learnBlueprintsOnPickup/-",
       "value" : "pearlpearisotto"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "oceanrisottomix"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "ricepuddingmix"
     }
   ]
 ]
