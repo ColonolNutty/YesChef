@@ -1,7 +1,6 @@
 [
   { "op": "add", "path": "/possibleOutput/-", "value": "automatoshake" },
   { "op": "add", "path": "/possibleOutput/-", "value": "bananashake" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "blendedalienmeat" },
   { "op": "add", "path": "/possibleOutput/-", "value": "bloodypuss" },
   { "op": "add", "path": "/possibleOutput/-", "value": "blueberryshake" },
   { "op": "add", "path": "/possibleOutput/-", "value": "cactusjuice" },

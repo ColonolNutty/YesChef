@@ -1,0 +1,15 @@
+[
+	{
+		"op": "replace",
+		"path": "/input",
+		"value": [
+			{ "item" : "rawbatteredbanana", "count" : 1 },
+			{ "item" : "cookingoilMFM", "count" : 1 }
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/groups",
+		"value": [ "fryingMFM" ]
+	}
+]

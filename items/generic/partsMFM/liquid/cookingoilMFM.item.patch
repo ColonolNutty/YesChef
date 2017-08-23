@@ -7,11 +7,6 @@
     {
       "op" : "add",
       "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "blendedalienmeat"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
       "value" : "freshpopcorn"
     },
     {
@@ -38,6 +33,11 @@
       "op" : "add",
       "path" : "/learnBlueprintsOnPickup/-",
       "value" : "chips"
+    },
+    {
+      "op" : "add",
+      "path" : "/learnBlueprintsOnPickup/-",
+      "value" : "rawmeatpatty"
     },
     {
       "op" : "add",
