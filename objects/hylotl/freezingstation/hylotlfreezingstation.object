@@ -4,13 +4,14 @@
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",
-  "description" : "A waterfilled freezer.",
+  "description" : "A waterfilled freezer, used for storage or making cold treats.",
   "shortdescription" : "^orange;Hylotl Freezer (Freeze)^white;",
   "subtitle" : "Freeze and Chill",
   "race" : "generic",
-  "category" : "Cookware",
-  "price" : 249.15,
   "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "Refridgerated Cookware",
+  "price" : 249.15,
 
   "apexDescription" : "It's full of water.. how does it freeze?!",
   "avianDescription" : "Is it a freezer or a waterbucket?",
@@ -62,6 +63,8 @@
   "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",
   "frameCooldown" : 67,
   "autoCloseCooldown" : 3600,
+
+  "itemAgeMultiplier" : 0.0,
   
   "scripts": [ "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
   "scriptDelta" : 1,

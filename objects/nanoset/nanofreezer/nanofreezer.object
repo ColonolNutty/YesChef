@@ -3,13 +3,14 @@
   "tags" : ["cooking"],
   "printable" : false,
   "rarity" : "Common",
-  "description" : "Freezes anything in less then two seconds!",
+  "description" : "Freezes anything in less then two seconds, used for storage or making cold treats!",
   "shortdescription" : "Nanofreeze (Freeze)",
   "subtitle" : "Nanite Flash Freezing.",
   "race" : "generic",
-  "category" : "Cookware",
-  "price" : 613.65,
   "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "Refridgerated Cookware",
+  "price" : 613.65,
 
   "maximumLiquidLevel" : 0.2,
 
@@ -57,18 +58,21 @@
     }
   ],
 
-  "soundEffect" : "/sfx/objects/campfire.ogg",
-
   "statusEffects" : [ ],
 
   "recipeGroup" : "freezingMFM",
-  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
+  "openSounds" : [ "/sfx/objects/fridge_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/fridge_close.ogg" ],
   "slotCount" : 16,
   "uiConfig" : "/interface/objectcrafting/recipeCrafterMFM.config",
   "frameCooldown" : 67,
   "autoCloseCooldown" : 3600,
+
+  "itemAgeMultiplier" : 0.0,
   
   "scripts": [ "/recipeCrafterMFM/recipeCrafterMFM.lua" ],
   "scriptDelta" : 1,
-  "outputConfig": "/recipeCrafterMFM/freezingMFMRecipes.config"
+  "outputConfig": "/recipeCrafterMFM/freezingMFMRecipes.config",
+
+  "soundEffect" : "/sfx/objects/fridge_hum.ogg"
 }
