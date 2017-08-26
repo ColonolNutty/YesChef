@@ -2,10 +2,9 @@
   "itemName" : "breadloafmix",
   "rarity" : "Common",
   "price" : 44.1,
-  "inventoryIcon" : "breadloafmix.png",
+  "inventoryIcon" : "obsoletebreadloafmix.png",
   "description" : "Breadloaf dough mix. Proven and just needs baking.",
   "shortdescription" : "Breadloaf Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["bread"]
+  "maxStack" : 1000
 }

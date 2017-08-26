@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-			{ "item" : "choppedtomato", "count" : 1 },
+			{ "item" : "slicedtomatoCNYC", "count" : 1 },
 			{ "item" : "choppedlettuce", "count" : 1 },
 			{ "item" : "choppedonionCNYC", "count" : 1 },
 			{ "item" : "relish", "count" : 1 },

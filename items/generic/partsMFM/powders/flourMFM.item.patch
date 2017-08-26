@@ -18,11 +18,6 @@
       "op" : "add",
       "path" : "/learnBlueprintsOnPickup/-",
       "value" : "sweetcrumbtopping"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "simpledough"
     }
   ]
 ]

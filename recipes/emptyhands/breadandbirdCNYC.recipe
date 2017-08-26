@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "roastedstripofpoultryCNYC", "count" : 1 },
+    { "item" : "bread", "count" : 1 }
+  ],
+  "output" : { "item" : "breadandbirdCNYC", "count" : 1 },
+  "groups" : [ "plain" ]
+}

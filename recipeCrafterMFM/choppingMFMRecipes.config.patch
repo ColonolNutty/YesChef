@@ -2,7 +2,6 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "breadcrumbs" },
   { "op": "add", "path": "/possibleOutput/-", "value": "breadslice" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedalienfruit" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "choppedalienmeat" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedartichoke" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedasparagus" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedautomato" },
@@ -43,8 +42,6 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedorangebellpepper" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedparsnip" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedpineapple" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "choppedpotato" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "choppedpoultry" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedpussplum" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedradish" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedrawfish" },
@@ -55,11 +52,13 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedsugarbeet" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedsweetpotato" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedthornfruit" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "choppedtomato" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedturnip" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedwartweed" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedyellowbellpepper" },
   { "op": "add", "path": "/possibleOutput/-", "value": "pizzaslice" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "rawhalfpoultry" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "slicedavocadoMSM" }
+  { "op": "add", "path": "/possibleOutput/-", "value": "slicedavocadoMSM" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "slicedpotatoCNYC" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "slicedtomatoCNYC" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "rawstripofalienmeatCNYC" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "rawstripofpoultryCNYC" }
 ]

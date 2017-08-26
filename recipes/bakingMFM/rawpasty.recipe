@@ -1,9 +1,9 @@
 {
   "input" : [
     { "item" : "shortcrustpastry", "count" : 1 },
-    { "item" : "choppedalienmeat", "count" : 3 },
+    { "item" : "rawstripofalienmeatCNYC", "count" : 3 },
     { "item" : "choppedcarrot", "count" : 1 },
-    { "item" : "choppedpotato", "count" : 1 },
+    { "item" : "slicedpotatoCNYC", "count" : 1 },
     { "item" : "choppedonionCNYC", "count" : 1 },
     { "item" : "peaMFM", "count" : 3 }
    ],

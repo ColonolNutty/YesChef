@@ -2,10 +2,9 @@
   "itemName" : "mountainmanstewmix",
   "rarity" : "Common",
   "price" : 277.06,
-  "inventoryIcon" : "mountainmanstewmix.png",
+  "inventoryIcon" : "obsoletemountainmanstewmix.png",
   "description" : "Stew mix. Needs boiling with 2-parts water.",
   "shortdescription" : "Mountainman Stew Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["mountainmanstew"]
+  "maxStack" : 1000
 }

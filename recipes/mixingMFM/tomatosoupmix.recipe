@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedtomato", "count" : 4 },
+    { "item" : "slicedtomatoCNYC", "count" : 4 },
     { "item" : "choppedonionCNYC", "count" : 1 },
     { "item" : "choppedgarlic", "count" : 1 },
     { "item" : "saltMFM", "count" : 1 }

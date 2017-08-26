@@ -1,0 +1,21 @@
+{
+  "itemName" : "roastedstripofpoultryCNYC",
+  "rarity" : "Common",
+  "price" : 11.03,
+  "inventoryIcon" : "roastedstripofpoultryCNYC.png",
+  "description" : "A strip of bird meat, roasted!",
+  "shortdescription" : "Strip of Roasted Poultry",
+  "effects": [[ "regeneration1" ]],
+  "category" : "food",
+  "foodValue" : 5.51,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup": [ "roastdinner",
+                               "breadandbirdCNYC" ]
+}

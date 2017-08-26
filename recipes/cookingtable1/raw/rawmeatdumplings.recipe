@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "doughMFM", "count" : 1 },
-    { "item" : "choppedalienmeat", "count" : 1 }
+    { "item" : "rawstripofalienmeatCNYC", "count" : 1 }
   ],
   "output" : { "item" : "rawmeatdumplings", "count" : 1 },
   "groups" : [ "craftingfood", "sides" ]

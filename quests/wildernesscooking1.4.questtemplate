@@ -1,7 +1,7 @@
 {
   "id" : "wildernesscooking1.4.gearup",
   "title" : "^green;Cooking for Survival - I Part 4^white;",
-  "text" : "Now to look for ^green;Mud^white; so I can get some ^green;Water^white; by boiling it. This planet is likely to have some somewhere. Once I find some, I should throw it into the ^orange;Camp Fire Cookpot^white;, then I'll have the ingredients I need to begin making bread",
+  "text" : "I should look for ^blue;Mud^white;. This planet is likely to have some somewhere. Once I find some, I should throw it into the ^orange;Camp Fire Cookpot^white; to get some water, then I'll have the ingredients I need to begin making bread",
   "completionText" : "I finally got some water, now I can begin the bread making process!",
   "speaker" : "player",
   "moneyRange" : [10, 10],

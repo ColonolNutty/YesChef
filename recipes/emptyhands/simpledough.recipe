@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "flourMFM", "count" : 1 },
-    { "item" : "liquidwater", "count" : 1 }
-  ],
-  "output" : { "item" : "simpledough", "count" : 1 },
-  "groups" : [ "plain", "all", "other" ]
-}

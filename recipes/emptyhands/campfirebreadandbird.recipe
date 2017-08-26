@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "cookedhalfpoultry", "count" : 1 },
-    { "item" : "campfirebread", "count" : 1 }
-  ],
-  "output" : { "item" : "campfirebreadandbird", "count" : 1 },
-  "groups" : [ "plain", "all", "other" ]
-}

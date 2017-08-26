@@ -1,10 +1,10 @@
 {
-  "itemName" : "choppedtomato",
+  "itemName" : "slicedtomatoCNYC",
   "rarity" : "Common",
   "price" : 63,
-  "inventoryIcon" : "choppedtomato.png",
-  "description" : "Wahsed, chopped and sliced!",
-  "shortdescription" : "Prepared Tomato!",
+  "inventoryIcon" : "slicedtomatoCNYC.png",
+  "description" : "Washed, chopped and sliced!",
+  "shortdescription" : "Sliced Tomato",
   "category" : "food",
   "foodValue" : 2.63,
   "tooltipKind" : "food",
@@ -25,7 +25,5 @@
                               "stockvegetablemix",
                               "tomatosoupmix",
                               "rawpizza",
-                              "saltsalad",
-                              "mountainmanstewmix",
-                              "boiledtomatoCNYC"]
+                              "saltsalad"]
 }

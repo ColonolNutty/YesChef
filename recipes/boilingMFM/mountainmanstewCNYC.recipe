@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "bread", "count" : 1 },
+    { "item" : "plantfibre", "count" : 5 },
+    { "item" : "rawstripofpoultryCNYC", "count" : 4 },
+    { "item" : "rawstripofalienmeatCNYC", "count" : 4 },
+    { "item" : "slicedtomatoCNYC", "count" : 1 },
+    { "item" : "slicedpotatoCNYC", "count" : 1 },
+    { "item" : "liquidwater", "count" : 2 }
+  ],
+  "output" : { "item" : "mountainmanstewCNYC", "count" : 1 },
+  "groups" : [ "boilingMFM" ]
+}

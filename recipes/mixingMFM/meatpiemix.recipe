@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "choppedcarrot", "count" : 2 },
     { "item" : "peaMFM", "count" : 2 },
-    { "item" : "choppedalienmeat", "count" : 2 },
+    { "item" : "rawstripofalienmeatCNYC", "count" : 2 },
     { "item" : "flourMFM", "count" : 1 },
     { "item" : "choppedonionCNYC", "count" : 1 }
   ],

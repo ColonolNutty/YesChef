@@ -2,10 +2,9 @@
   "itemName" : "rawhalfpoultry",
   "rarity" : "Common",
   "price" : 10.5,
-  "inventoryIcon" : "rawhalfpoultry.png",
+  "inventoryIcon" : "obsoleterawhalfpoultry.png",
   "description" : "Half a bird. Might wanna cook it first...",
   "shortdescription" : "Raw Half Poultry",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["cookedhalfpoultry", "choppedpoultry"]
+  "maxStack" : 1000
 }

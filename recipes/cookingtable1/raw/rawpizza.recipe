@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "doughMFM", "count" : 1 },
-    { "item" : "choppedtomato", "count" : 1 },
+    { "item" : "slicedtomatoCNYC", "count" : 1 },
     { "item" : "cheese", "count" : 1 },
     { "item" : "rawbacon", "count" : 1 },
     { "item" : "choppedredbellpepper", "count" : 1 },

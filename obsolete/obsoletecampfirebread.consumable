@@ -2,7 +2,7 @@
   "itemName" : "campfirebread",
   "rarity" : "Common",
   "price" : 46.31,
-  "inventoryIcon" : "campfirebread.png",
+  "inventoryIcon" : "obsoletecampfirebread.png",
   "description" : "Flame cooked Bread and water, will do in a pinch!",
   "shortdescription" : "Campfire Bread",
   "category" : "food",
@@ -14,8 +14,5 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ],
-  "learnBlueprintsOnPickup" : ["campfirebreadandbird",
-                               "mountainmanstewmix"]
-
+  ]
 }

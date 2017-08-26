@@ -1,8 +1,8 @@
 {
   "id" : "wildernesscooking1.5.gearup",
   "title" : "^green;Cooking for Survival - I Part 5^white;",
-  "text" : "Continuing on, to make bread I first need to mix some ingredients, it states the ingredients to make it are 1 part ^green;Flour^white; and 1 part ^green;Water^white;. I should then be able to mix those by hand to make ^orange;Breadloaf Mix^white;.",
-  "completionText" : "I've got the mix, next I need some way to bake it",
+  "text" : "Continuing on, to make bread I first need to mix some ingredients, it states the ingredients to make it are ^green;Flour^white; and ^green;Water^white;. I should then be able to mix those by hand to make ^orange;Dough^white;.",
+  "completionText" : "I've got the dough, now I need some way to bake it",
   "speaker" : "player",
   "moneyRange" : [10, 10],
   
@@ -20,7 +20,7 @@
 	"conditions" : [
 		{
 			"type" : "gatherItem",
-			"itemName" : "breadloafmix",
+			"itemName" : "doughMFM",
 			"count" : 1,
 			"consume" : false
 		}
