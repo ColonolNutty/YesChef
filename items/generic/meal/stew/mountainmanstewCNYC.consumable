@@ -1,7 +1,7 @@
 {
   "itemName" : "mountainmanstewCNYC",
   "rarity" : "Common",
-  "price" : 287.75,
+  "price" : 266.75,
   "inventoryIcon" : "mountainmanstewCNYC.png",
   "description" : "A hearty mountainman meal that fills the boots!",
   "shortdescription" : "Mountainman Stew",
@@ -13,7 +13,7 @@
     }
   ]],
   "category" : "food",
-  "foodValue" : 53.07,
+  "foodValue" : 42.57,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,

@@ -3,5 +3,10 @@
 		"op" : "add",
 		"path" : "/interactData/items/-",
 		"value" : {"item" : "wildernesssurvivalguideCNYC-codex"}
+	},
+	{
+		"op" : "add",
+		"path" : "/interactData/items/-",
+		"value" : {"item" : "wildernesssurvivalguidechapter2CNYC-codex"}
 	}
 ]

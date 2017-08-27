@@ -6,9 +6,9 @@
   "contentPages" : [
 
 "^blue;Introduction:^white;
-So, you fancy yourself a wilderness survivalist? A culinary specialist? An iron chef? Whatever the case, you've a long road ahead of you. This guide will introduce you to the basics of cooking in ^orange;Yes Chef^white;. Some basic wilderness survival techniques are also listed here
+So, you fancy yourself a wilderness survivalist? A culinary specialist? An iron chef? Whatever the case, you've a long road ahead of you. This guide will introduce you to the basics of cooking. Some basic wilderness survival techniques are also listed here
 
-Detailed within this chapter are is the process of making ^green;Bread^white; from scratch.",
+Detailed within this chapter is the process of making ^green;Bread^white; from scratch.",
  
 "^blue;Grinding for Flour:^white; 
 To start, you will need to craft a ^orange;Camp Millstone^white;
@@ -18,9 +18,9 @@ Once crafted, you will need to obtain one of the following:
 ^green;Whole Oats^white;
 ^green;Rice^white;
 
-Once found, place the item(s) within the ^orange;Camp Millstone^white; to produce ^green;Flour^white;.
- 
-^red;WARNING: Place only one type of item at a time, any more and you won't get what you expect, this warning applies to all cooking methods
+Once found, place the item(s) within the ^orange;Camp Millstone^white; to produce ^green;Flour^white;.",
+
+"^red;WARNING: Place only one type of item at a time, any more and you won't get what you expect, this warning applies to all cooking methods
 A visual example:
 Any Number of Potatoes = Flour
 Any Number of Wheat = Flour
@@ -53,7 +53,7 @@ Once materials are acquired, put them together using your hands.",
 Now place the ^green;Dough^white; within the ^orange;Camp Oven^white; and wait for your delicious ^green;Bread^white;.",
 
 "^blue;More to come:^white;
-Now that you know how to make ^green;Bread^white;, seek out other chapters for information on more advanced techniques, they will likely be available from your local Terramart."
+Now that you know how to make ^green;Bread^white;, seek out other chapters for information on more advanced techniques, they will likely become available over time from your local ^orange;Terramart^white;."
 
   ],
   "itemConfig" : {
