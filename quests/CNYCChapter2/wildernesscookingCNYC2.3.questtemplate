@@ -21,13 +21,13 @@
 		{
 			"type" : "gatherItem",
 			"itemName" : "rawpoultry",
-			"count" : 2,
+			"count" : 1,
 			"consume" : false
 		},
 		{
 			"type" : "gatherItem",
 			"itemName" : "alienmeat",
-			"count" : 2,
+			"count" : 1,
 			"consume" : false
 		}
 	]
