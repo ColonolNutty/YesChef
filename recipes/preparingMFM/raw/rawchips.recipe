@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "slicedpotatoCNYC", "count" : 2 },
+    { "item" : "saltMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "rawchips", "count" : 1 },
+  "groups" : [ "preparingMFM" ]
+}

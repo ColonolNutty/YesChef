@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "choppedbanana", "count" : 3 },
-    { "item" : "doughMFM", "count" : 1 }
-  ],
-  "output" : { "item" : "rawapexfritter", "count" : 1 },
-  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing", "foodenergyboost" ]
-}

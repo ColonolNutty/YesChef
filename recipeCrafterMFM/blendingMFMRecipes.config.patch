@@ -6,6 +6,7 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "cactusjuice" },
   { "op": "add", "path": "/possibleOutput/-", "value": "carrotjuice" },
   { "op": "add", "path": "/possibleOutput/-", "value": "chocolateshake" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "coffeeicing" },
   { "op": "add", "path": "/possibleOutput/-", "value": "cyanider" },
   { "op": "add", "path": "/possibleOutput/-", "value": "desertsalsa" },
   { "op": "add", "path": "/possibleOutput/-", "value": "fondant" },
@@ -16,6 +17,7 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "reefjuice" },
   { "op": "add", "path": "/possibleOutput/-", "value": "reefshake" },
   { "op": "add", "path": "/possibleOutput/-", "value": "relish" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "simplebatter" },
   { "op": "add", "path": "/possibleOutput/-", "value": "spookyicingCNYC" },
   { "op": "add", "path": "/possibleOutput/-", "value": "strawberryshake" },
   { "op": "add", "path": "/possibleOutput/-", "value": "sweetpunch" },
@@ -23,6 +25,7 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "tomatojuice" },
   { "op": "add", "path": "/possibleOutput/-", "value": "tomatosoup" },
   { "op": "add", "path": "/possibleOutput/-", "value": "toxicjuice" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "tropicalpunch" },
   { "op": "add", "path": "/possibleOutput/-", "value": "vanillashake" },
   { "op": "add", "path": "/possibleOutput/-", "value": "whippedcream" },
   { "op": "add", "path": "/possibleOutput/-", "value": "whitechocolateshake" }

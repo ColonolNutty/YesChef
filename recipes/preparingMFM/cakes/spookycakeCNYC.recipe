@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "unfinishedcakespookyCNYC", "count" : 1 },
+    { "item" : "spookyicingCNYC", "count" : 1 },
+    { "item" : "fondant", "count" : 1 }
+  ],
+  "output" : { "item" : "spookycakeCNYC", "count" : 1 },
+  "groups" : [ "preparingMFM" ]
+}

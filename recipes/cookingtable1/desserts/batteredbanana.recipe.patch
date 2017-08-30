@@ -8,8 +8,8 @@
 		]
 	},
 	{
-		"op": "replace",
-		"path": "/groups",
-		"value": [ "fryingMFM" ]
+		"op": "add",
+		"path": "/groups/-",
+		"value": "fryingMFM"
 	}
 ]

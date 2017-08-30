@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rawstripofalienmeatCNYC", "count" : 1 },
+    { "item" : "saltMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "rawmeatpatty", "count" : 1 },
+  "groups" : [ "preparingMFM"]
+}

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "simmeredmeatpiemix", "count" : 1 },
-    { "item" : "mashedpotato", "count" : 1 }
-  ],
-  "output" : { "item" : "rawmeatpie", "count" : 1 },
-  "groups" : [ "craftingfood", "sides", "consumables", "foodhealing" ]
-}

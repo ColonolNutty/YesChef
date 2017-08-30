@@ -3,13 +3,8 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "rawspikycookies", "count" : 1 }
+    { "item" : "rawbananacreampie", "count" : 1 }
 		]
-	},
-	{
-		"op": "replace",
-		"path": "/output/count",
-		"value": 8
 	},
 	{
 		"op": "add",

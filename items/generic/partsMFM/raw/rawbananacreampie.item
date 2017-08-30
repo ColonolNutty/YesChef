@@ -1,11 +1,10 @@
 {
   "itemName" : "rawbananacreampie",
   "rarity" : "Common",
-  "price" : 1186.27,
+  "price" : 1594.44,
   "inventoryIcon" : "rawbananacreampie.png",
   "description" : "Raw banana creampie. Needs Baking.",
   "shortdescription" : "Raw Banana Creampie",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["bananacreampie"]
+  "maxStack" : 1000
 }

@@ -1,5 +1,4 @@
 [
-  { "op" : "add", "path" : "/defaultBlueprints/yescheftier1", "value": [{ "item" : "yeschefitem1" }] },
   { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "campchopblock" } },
   { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "campgrinder" } },
   { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "campfirecookpot" } },

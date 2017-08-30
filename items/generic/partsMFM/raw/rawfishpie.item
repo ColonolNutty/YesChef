@@ -1,11 +1,10 @@
 {
   "itemName" : "rawfishpie",
   "rarity" : "Common",
-  "price" : 430.11,
+  "price" : 838.28,
   "inventoryIcon" : "rawfishpie.png",
   "description" : "Needs baking!",
   "shortdescription" : "Raw Fishpie",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["fishpie"]
+  "maxStack" : 1000
 }

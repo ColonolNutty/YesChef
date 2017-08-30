@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "bread", "count" : 1 },
+    { "item" : "sugar", "count" : 1 }
+  ],
+  "output" : { "item" : "sweetcrumbtopping", "count" : 1 },
+  "groups" : [ "millingMFM" ]
+}

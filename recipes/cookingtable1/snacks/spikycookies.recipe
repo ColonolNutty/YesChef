@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "rawspikycookies", "count" : 1 }
-  ],
-  "output" : { "item" : "spikycookies", "count" : 8 },
-  "groups" : [ "bakingMFM" ]
-}
