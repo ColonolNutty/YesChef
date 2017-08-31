@@ -7,5 +7,10 @@
 			{ "item" : "chocolateicingMFM", "count" : 1 },
 			{ "item" : "fondant", "count" : 1 }
 		]
+	},
+	{
+		"op": "add",
+		"path": "/groups/-",
+		"value": "preparingMFM"
 	}
 ]

@@ -12,6 +12,7 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "fondant" },
   { "op": "add", "path": "/possibleOutput/-", "value": "grapejuice" },
   { "op": "add", "path": "/possibleOutput/-", "value": "kiwijuice" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "luckydip" },
   { "op": "add", "path": "/possibleOutput/-", "value": "oceansalsa" },
   { "op": "add", "path": "/possibleOutput/-", "value": "pineapplejuice" },
   { "op": "add", "path": "/possibleOutput/-", "value": "reefjuice" },

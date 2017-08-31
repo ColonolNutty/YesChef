@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "plainspookydoughnut", "count" : 1 },
-    { "item" : "creamfillingspooky", "count" : 1 }
- ],
-  "output" : { "item" : "spookydonut", "count" : 1 },
-  "groups" : [ "preparingMFM" ]
-}

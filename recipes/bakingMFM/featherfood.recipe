@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "rawfeatherfood", "count" : 1 }
-  ],
-  "output" : { "item" : "featherfood", "count" : 1 },
-  "groups" : [ "bakingMFM" ]
-}

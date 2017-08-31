@@ -1,5 +1,6 @@
 [
   { "op": "add", "path": "/possibleOutput/-", "value": "bananaicecream" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "bonbons" },
   { "op": "add", "path": "/possibleOutput/-", "value": "cactiicecream" },
   { "op": "add", "path": "/possibleOutput/-", "value": "coconuticecream" },
   { "op": "add", "path": "/possibleOutput/-", "value": "snowcone" }

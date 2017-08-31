@@ -6,5 +6,10 @@
 			{ "item" : "simmeredricepuddingmix", "count" : 1 },
 			{ "item" : "choppedpussplum", "count" : 4 }
 		]
+	},
+	{
+		"op": "add",
+		"path": "/groups/-",
+		"value": "blendingMFM"
 	}
 ]

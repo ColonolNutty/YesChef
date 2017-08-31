@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "mushroomricemix", "count" : 1 },
-    { "item" : "cookingoilMFM", "count" : 1 }
-  ],
-  "output" : { "item" : "mushroomrice", "count" : 1 },
-  "groups" : [ "fryingMFM" ]
-}

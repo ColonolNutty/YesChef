@@ -1,28 +1,12 @@
 [
-  [
-    { "op": "test", "path": "/learnBlueprintsOnPickup", "inverse" : true },
-    { "op": "add", "path": "/learnBlueprintsOnPickup", "value": [] }
-  ],
-  [
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "roastdinner"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "rawstuffeddirturchin"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "saltsalad"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "specialrice"
-    }
-  ]
+  {
+    "op" : "replace",
+    "path" : "/price",
+    "value" : 42
+  },
+  {
+    "op" : "replace",
+    "path" : "/foodValue",
+    "value" : 2.63
+  }
 ]

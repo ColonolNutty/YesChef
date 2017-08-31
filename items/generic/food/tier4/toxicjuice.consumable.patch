@@ -1,0 +1,12 @@
+[
+  {
+    "op" : "replace",
+    "path" : "/price",
+    "value" : 252
+  },
+  {
+    "op" : "replace",
+    "path" : "/foodValue",
+    "value" : 21
+  }
+]

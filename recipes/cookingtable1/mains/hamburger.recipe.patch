@@ -10,5 +10,10 @@
 			{ "item" : "cookedmeatpatty", "count" : 1 },
 			{ "item" : "breadslice", "count" : 2 }
 		]
+	},
+	{
+		"op": "add",
+		"path": "/groups/-",
+		"value": "preparingMFM"
 	}
 ]

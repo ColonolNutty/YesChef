@@ -3,8 +3,13 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-			{ "item" : "pancakes", "count" : 2 },
-			{ "item" : "cookedbacon", "count" : 3 }
+			{ "item" : "pancakemix", "count" : 1 },
+			{ "item" : "cookedbacon", "count" : 2 }
 		]
+	},
+	{
+		"op": "add",
+		"path": "/groups/-",
+		"value": "bakingMFM"
 	}
 ]

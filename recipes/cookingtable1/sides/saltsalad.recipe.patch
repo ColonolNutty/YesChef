@@ -9,5 +9,10 @@
 			{ "item" : "choppedlettuce", "count" : 1 },
 			{ "item" : "slicedtomatoCNYC", "count" : 1 }
 		]
+	},
+	{
+		"op": "add",
+		"path": "/groups/-",
+		"value": "preparingMFM"
 	}
 ]

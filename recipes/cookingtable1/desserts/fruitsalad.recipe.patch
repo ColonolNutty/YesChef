@@ -8,5 +8,10 @@
 			{ "item" : "choppedgrapes", "count" : 1 },
 			{ "item" : "choppedbanana", "count" : 1 }
 		]
+	},
+	{
+		"op": "add",
+		"path": "/groups/-",
+		"value": "preparingMFM"
 	}
 ]

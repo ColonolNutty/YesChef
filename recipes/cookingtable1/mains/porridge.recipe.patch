@@ -8,8 +8,8 @@
 		]
 	},
 	{
-		"op": "replace",
-		"path": "/groups",
-		"value": [ "boilingMFM" ]
+		"op": "add",
+		"path": "/groups/-",
+		"value": "boilingMFM"
 	}
 ]

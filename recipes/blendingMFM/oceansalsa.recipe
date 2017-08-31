@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "oceansalsamix", "count" : 1 },
-    { "item" : "vinegarMSM", "count" : 1 }
-  ],
-  "output" : { "item" : "oceansalsa", "count" : 1 },
-  "groups" : [ "blendingMFM" ]
-}

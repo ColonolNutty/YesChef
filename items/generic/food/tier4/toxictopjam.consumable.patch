@@ -1,18 +1,12 @@
 [
-  [
-    { "op": "test", "path": "/learnBlueprintsOnPickup", "inverse" : true },
-    { "op": "add", "path": "/learnBlueprintsOnPickup", "value": [] }
-  ],
-  [
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "toxicjamdonut"
-    },
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "rawtoxictart"
-    }
-  ]
+  {
+    "op" : "replace",
+    "path" : "/price",
+    "value" : 1055.25
+  },
+  {
+    "op" : "replace",
+    "path" : "/foodValue",
+    "value" : 42.14
+  }
 ]

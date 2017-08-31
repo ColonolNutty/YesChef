@@ -8,5 +8,10 @@
       { "item" : "butterMFM", "count" : 1 },
       { "item" : "saltMFM", "count" : 1 }
 		]
+	},
+	{
+		"op": "add",
+		"path": "/groups/-",
+		"value": "boilingMFM"
 	}
 ]

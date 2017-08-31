@@ -1,13 +1,12 @@
 [
-  [
-    { "op": "test", "path": "/learnBlueprintsOnPickup", "inverse" : true },
-    { "op": "add", "path": "/learnBlueprintsOnPickup", "value": [] }
-  ],
-  [
-    {
-      "op" : "add",
-      "path" : "/learnBlueprintsOnPickup/-",
-      "value" : "pineapplepizzaslice"
-    }
-  ]
+  {
+    "op" : "replace",
+    "path" : "/price",
+    "value" : 116.82
+  },
+  {
+    "op" : "replace",
+    "path" : "/foodValue",
+    "value" : 11.55
+  }
 ]

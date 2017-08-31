@@ -6,5 +6,10 @@
 			{ "item" : "boiledfondantmix", "count" : 1 },
 			{ "item" : "automato", "count" : 1 }
 		]
+	},
+	{
+		"op": "add",
+		"path": "/groups/-",
+		"value": "bakingMFM"
 	}
 ]

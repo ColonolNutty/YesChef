@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "fishstewmix", "count" : 1 },
-    { "item" : "milk", "count" : 2 }
-  ],
-  "output" : { "item" : "fishstew", "count" : 1 },
-  "groups" : [ "boilingMFM" ]
-}
