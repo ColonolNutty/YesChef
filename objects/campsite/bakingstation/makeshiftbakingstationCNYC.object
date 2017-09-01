@@ -1,5 +1,6 @@
 {
   "objectName" : "makeshiftbakingstationCNYC",
+  "colonyTags" : [ "cooking" ],
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",

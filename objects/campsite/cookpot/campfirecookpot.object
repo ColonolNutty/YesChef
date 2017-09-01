@@ -1,6 +1,6 @@
 {
   "objectName" : "campfirecookpot",
-  "tags" : ["cooking","light"],
+  "colonyTags" : [ "cooking", "light" ],
   "printable" : false,
   "rarity" : "Uncommon",
   "description" : "A campfire with a cookpot. I can make more filling meals with foraged produce.",

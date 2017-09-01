@@ -1,5 +1,6 @@
 {
   "objectName" : "campgrinder",
+  "colonyTags" : [ "cooking" ],
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",

@@ -1,5 +1,6 @@
 {
   "objectName" : "campchopblock",
+  "colonyTags" : [ "cooking" ],
   "retainObjectParametersInItem" : true,
   "printable" : false,
   "rarity" : "Common",
