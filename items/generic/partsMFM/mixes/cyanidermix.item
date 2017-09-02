@@ -6,6 +6,5 @@
   "description" : "Chopped fruit and sugar. Blend with 2-parts water.",
   "shortdescription" : "Cyanider Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["cyanider"]
+  "maxStack" : 1000
 }

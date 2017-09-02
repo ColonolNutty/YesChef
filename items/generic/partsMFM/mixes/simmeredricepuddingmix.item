@@ -6,6 +6,5 @@
   "inventoryIcon" : "simmeredricepuddingmix.png",
   "description" : "Simmered ricepudding mix. Needs baking.",
   "shortdescription" : "Simmered Rice Pudding Mix",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["ricepudding", "pussplumpudding"]
+  "maxStack" : 1000
 }

@@ -6,6 +6,5 @@
   "inventoryIcon" : "simmeredmeatpiemix.png",
   "description" : "Simmered meat pie mix ready for use.",
   "shortdescription" : "Simmered Meatpie Mix",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup" : ["rawmeatpie"]
+  "maxStack" : 1000
 }

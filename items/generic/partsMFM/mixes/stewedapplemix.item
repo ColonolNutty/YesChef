@@ -6,6 +6,5 @@
   "description" : "Sweet Stew mix. Needs boiling with 2-parts water.",
   "shortdescription" : "Stewed Apple Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["stewedapples"]
+  "maxStack" : 1000
 }

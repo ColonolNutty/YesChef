@@ -6,6 +6,5 @@
   "inventoryIcon" : "porridgemix.png",
   "description" : "Needs boiling in 1-part Milk!",
   "shortdescription" : "Porridge Mix",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["porridge"]
+  "maxStack" : 1000
 }

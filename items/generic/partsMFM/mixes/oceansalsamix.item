@@ -6,6 +6,5 @@
   "description" : "Salsa mix. Needs blending with vinegar.",
   "shortdescription" : "Ocean Salsa Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["oceansalsa"]
+  "maxStack" : 1000
 }

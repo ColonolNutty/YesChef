@@ -6,6 +6,5 @@
   "description" : "Needs baking!",
   "shortdescription" : "Raw Pasty",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["pasty"]
+  "maxStack" : 1000
 }

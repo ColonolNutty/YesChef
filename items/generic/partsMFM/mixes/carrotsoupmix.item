@@ -6,6 +6,5 @@
   "description" : "Carrot Soup mix. Boil in 1-part Vegetable Stock.",
   "shortdescription" : "Carrot Soup Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["simmeredcarrotsoupmix"]
+  "maxStack" : 1000
 }

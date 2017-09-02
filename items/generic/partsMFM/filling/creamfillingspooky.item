@@ -6,7 +6,5 @@
   "inventoryIcon" : "creamfillingspooky.png",
   "description" : "Spooky Cream Filling. Ready for use.",
   "shortdescription" : "Spooky Cream Filling",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["spookydonut",
-                              "rawspookypie"]
+  "maxStack" : 1000
 }

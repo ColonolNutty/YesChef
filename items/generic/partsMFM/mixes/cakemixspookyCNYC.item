@@ -6,6 +6,5 @@
   "description" : "Spooky Cake mix. Bake this.",
   "shortdescription" : "Spooky Cake Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["plainspookydoughnut"]
+  "maxStack" : 1000
 }

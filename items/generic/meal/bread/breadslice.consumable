@@ -14,10 +14,5 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ],
-  "learnBlueprintsOnPickup": ["breadcrumbs",
-                              "eggybread",
-                              "cheeseburger",
-                              "hamburger",
-                              "toast"]
+  ]
 }

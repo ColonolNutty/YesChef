@@ -6,6 +6,5 @@
   "description" : "Needs baking!",
   "shortdescription" : "Raw Apple Crumble",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["applecrumble"]
+  "maxStack" : 1000
 }

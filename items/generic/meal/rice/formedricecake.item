@@ -6,6 +6,5 @@
   "description" : "Rice and Kelp. Needs drying.",
   "shortdescription" : "Formed Ricecake",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["ricecake"]
+  "maxStack" : 1000
 }

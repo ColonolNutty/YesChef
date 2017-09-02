@@ -6,6 +6,5 @@
   "description" : "Tomato Soup mix. Boil in 1-part Vegetable Stock.",
   "shortdescription" : "Tomato Soup Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["simmeredtomatosoupmix"]
+  "maxStack" : 1000
 }

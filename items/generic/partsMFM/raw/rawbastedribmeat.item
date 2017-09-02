@@ -6,6 +6,5 @@
   "description" : "Raw Ribs drenched in syrup.",
   "shortdescription" : "Raw Basted Ribs",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["stickyribs"]
+  "maxStack" : 1000
 }

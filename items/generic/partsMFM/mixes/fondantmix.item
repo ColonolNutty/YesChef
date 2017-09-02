@@ -6,6 +6,5 @@
   "inventoryIcon" : "fondantmix.png",
   "description" : "A sickly mixture of sugar, syrup and water. Needs boiling in 2-parts water",
   "shortdescription" : "Fondant Mix",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["boiledfondantmix"]
+  "maxStack" : 1000
 }

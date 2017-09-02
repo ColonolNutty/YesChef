@@ -6,6 +6,5 @@
   "inventoryIcon" : "creamfillingcoconut.png",
   "description" : "Coconut cream filling. Ready for use",
   "shortdescription" : "Coconut Cream Filling",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["choconut"]
+  "maxStack" : 1000
 }

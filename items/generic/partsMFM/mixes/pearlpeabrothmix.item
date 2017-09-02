@@ -6,6 +6,5 @@
   "description" : "Broth mix. Needs boiling with 2-parts water.",
   "shortdescription" : "Pearlpea Broth Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["pearlpeabroth"]
+  "maxStack" : 1000
 }

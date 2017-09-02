@@ -6,6 +6,5 @@
   "description" : "Needs Baking.",
   "shortdescription" : "Raw Oculemon Meringue",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["oculemonmeringue"]
+  "maxStack" : 1000
 }

@@ -6,6 +6,5 @@
   "description" : "Needs baking!",
   "shortdescription" : "Raw Pizza",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["pizza"]
+  "maxStack" : 1000
 }

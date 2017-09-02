@@ -6,6 +6,5 @@
   "inventoryIcon" : "creamfillingoculemon.png",
   "description" : "Oculemon cream filling. Ready for use",
   "shortdescription" : "Oculemon Cream Filling",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["rawoculemonmeringue"]
+  "maxStack" : 1000
 }

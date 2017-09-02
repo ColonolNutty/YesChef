@@ -14,12 +14,5 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ],
-  "learnBlueprintsOnPickup" : [ "rawmeatdumplings",
-                                "meatpiemix",
-                                "meatstewmix",
-                                "rawpasty",
-                                "meatpiemix",
-                                "meatstewmix",
-                                "oculemonstewmix" ]
+  ]
 }

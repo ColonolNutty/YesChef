@@ -6,6 +6,5 @@
   "description" : "Breadslice soaked in raw egg. Needs frying in oil before I can eat it.",
   "shortdescription" : "Eggy Bread",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["fluffyruffs"]
+  "maxStack" : 1000
 }

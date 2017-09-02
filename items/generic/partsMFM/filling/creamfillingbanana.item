@@ -6,6 +6,5 @@
   "inventoryIcon" : "creamfillingbanana.png",
   "description" : "Banana cream filling. Ready for use",
   "shortdescription" : "Banana Cream Filling",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["bananacreamdonut", "rawbananacreampie"]
+  "maxStack" : 1000
 }

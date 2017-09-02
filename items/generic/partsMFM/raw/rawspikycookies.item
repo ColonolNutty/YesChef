@@ -6,6 +6,5 @@
   "description" : "Need baking!",
   "shortdescription" : "Raw Spiky Cookies",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["spikycookies"]
+  "maxStack" : 1000
 }

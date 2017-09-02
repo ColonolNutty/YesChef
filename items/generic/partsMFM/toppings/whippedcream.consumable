@@ -17,8 +17,5 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "emitters" : [ "drinking" ],
-  "learnBlueprintsOnPickup": ["rawbananacreampie",
-                              "rawoculemonmeringue",
-                              "rawspookypie"]
+  "emitters" : [ "drinking" ]
 }

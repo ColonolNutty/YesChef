@@ -16,7 +16,5 @@
     "wellfed"
   ],
 
-  "emote" : "Happy",
-  "learnBlueprintsOnPickup": ["roastdinner",
-                              "luckydip"]
+  "emote" : "Happy"
 }

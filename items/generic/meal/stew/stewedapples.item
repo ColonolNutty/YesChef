@@ -6,6 +6,5 @@
   "description" : "Sweet stewed apple reduction. Smells amazing!.",
   "shortdescription" : "Stewed Apples",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["rawapplecrumble"]
+  "maxStack" : 1000
 }

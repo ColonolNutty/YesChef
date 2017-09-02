@@ -6,6 +6,5 @@
   "description" : "Simmered Tomato soup mix. Blend with 1-part cream.",
   "shortdescription" : "Simmered Tomato Soup Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["tomatosoup"]
+  "maxStack" : 1000
 }

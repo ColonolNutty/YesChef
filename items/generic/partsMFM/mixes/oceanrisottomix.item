@@ -6,6 +6,5 @@
   "description" : "Risotto mix. Needs boiling in vegetable stock.",
   "shortdescription" : "Ocean Risotto Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["oceanrisotto"]
+  "maxStack" : 1000
 }

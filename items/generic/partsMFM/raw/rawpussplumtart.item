@@ -6,6 +6,5 @@
   "description" : "Needs baking",
   "shortdescription" : "Raw Pussplum Tart",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["pussplumtart"]
+  "maxStack" : 1000
 }

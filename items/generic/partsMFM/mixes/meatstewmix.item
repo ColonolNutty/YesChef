@@ -6,6 +6,5 @@
   "inventoryIcon" : "meatstewmix.png",
   "description" : "Stew mix. Needs boiling with 2-parts water.",
   "shortdescription" : "Meat Stew Mix",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["meatstew"]
+  "maxStack" : 1000
 }

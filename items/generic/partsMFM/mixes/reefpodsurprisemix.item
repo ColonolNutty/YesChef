@@ -6,6 +6,5 @@
   "inventoryIcon" : "reefpodsurprisemix.png",
   "description" : "Boil in 2-parts water.",
   "shortdescription" : "Reefpod Suprise Mix",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["reefpodsurprise"]
+  "maxStack" : 1000
 }

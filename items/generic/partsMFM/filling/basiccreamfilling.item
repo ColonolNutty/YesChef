@@ -6,9 +6,5 @@
   "inventoryIcon" : "basiccreamfilling.png",
   "description" : "Cream Filling. Add another ingredient to the boil to give it flavour.",
   "shortdescription" : "Basic Cream Filling",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["creamfillingbanana",
-                              "creamfillingcoconut",
-                              "creamfillingoculemon",
-                              "creamfillingspooky"]
+  "maxStack" : 1000
 }

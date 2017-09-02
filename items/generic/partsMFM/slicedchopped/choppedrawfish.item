@@ -6,14 +6,5 @@
   "description" : "Diced fish. I can't eat it yet..",
   "shortdescription" : "Raw Diced Fish",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["oceansurprise",
-                              "fishpiemix",
-                              "fishstewmix",
-                              "oceanrisottomix",
-                              "rawfishdumplings",
-                              "rawfishfingers",
-                              "rawfishinabone",
-                              "rawseafoodgratin",
-                              "sushi"]
+  "maxStack" : 1000
 }

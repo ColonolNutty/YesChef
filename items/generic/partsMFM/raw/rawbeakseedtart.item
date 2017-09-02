@@ -6,6 +6,5 @@
   "description" : "Needs baking!",
   "shortdescription" : "Raw Beakseed Tart",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["beakseedtart"]
+  "maxStack" : 1000
 }

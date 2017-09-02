@@ -6,6 +6,5 @@
   "description" : "Snowcone mix. Needs freezing.",
   "shortdescription" : "Snowcone Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["snowcone"]
+  "maxStack" : 1000
 }

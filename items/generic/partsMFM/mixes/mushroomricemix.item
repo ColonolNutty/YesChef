@@ -6,6 +6,5 @@
   "description" : "Mushroom rice mix. Needs frying in oil.",
   "shortdescription" : "Mushroom Rice Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["mushroomrice"]
+  "maxStack" : 1000
 }

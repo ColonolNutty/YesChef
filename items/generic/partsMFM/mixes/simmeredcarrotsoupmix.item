@@ -6,6 +6,5 @@
   "inventoryIcon" : "simmeredcarrotsoupmix.png",
   "description" : "Simmered carrot soup mix. Blend with 1-part cream.",
   "shortdescription" : "Simmered Carrot Soup Mix",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["carrotsoup"]
+  "maxStack" : 1000
 }

@@ -6,6 +6,5 @@
   "description" : "Needs frying before it's edible",
   "shortdescription" : "Raw Apex Fritter",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["apexfritter"]
+  "maxStack" : 1000
 }

@@ -6,6 +6,5 @@
   "description" : "The fluffy, risen, base of a carrot cake. Needs decorating.",
   "shortdescription" : "Unfinished Carrot Cake",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": [ "carrotcake" ]
+  "maxStack" : 1000
 }

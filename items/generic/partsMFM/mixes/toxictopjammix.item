@@ -6,6 +6,5 @@
   "description" : "Needs boiling in 2-parts water.",
   "shortdescription" : "Toxictop Jam Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["toxictopjam"]
+  "maxStack" : 1000
 }

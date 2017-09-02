@@ -6,6 +6,5 @@
   "description" : "Omelette mix. Needs frying in oil.",
   "shortdescription" : "Omelette Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["omelette"]
+  "maxStack" : 1000
 }

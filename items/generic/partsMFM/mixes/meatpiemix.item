@@ -6,6 +6,5 @@
   "inventoryIcon" : "meatpiemix.png",
   "description" : "Needs boiling in 2-Parts water.",
   "shortdescription" : "Meatpie Mix",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["simmeredmeatpiemix"]
+  "maxStack" : 1000
 }

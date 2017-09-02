@@ -6,6 +6,5 @@
   "description" : "A meat dumpling. Needs boiling before I can eat it..",
   "shortdescription" : "Raw Meat Dumplings",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["meatdumplings"]
+  "maxStack" : 1000
 }

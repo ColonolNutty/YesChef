@@ -6,6 +6,5 @@
   "description" : "Dried corn, ready for popping in oil.",
   "shortdescription" : "Popcorn Kernels",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["freshpopcorn"]
+  "maxStack" : 1000
 }

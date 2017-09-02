@@ -6,6 +6,5 @@
   "description" : "Stew mix. Needs boiling with 2-parts water.",
   "shortdescription" : "Oculemon Stew Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["oculemonstew"]
+  "maxStack" : 1000
 }

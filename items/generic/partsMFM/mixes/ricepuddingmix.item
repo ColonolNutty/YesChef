@@ -6,6 +6,5 @@
   "inventoryIcon" : "ricepuddingmix.png",
   "description" : "Needs boiling in 1-part Milk!",
   "shortdescription" : "Rice Pudding Mix",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["simmeredricepuddingmix"]
+  "maxStack" : 1000
 }

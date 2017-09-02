@@ -16,6 +16,5 @@
     "wellfed"
   ],
 
-  "emote" : "Happy",
-  "learnBlueprintsOnPickup": ["choppedegg"]
+  "emote" : "Happy"
 }

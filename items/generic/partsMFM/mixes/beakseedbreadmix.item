@@ -6,6 +6,5 @@
   "description" : "Breadloaf dough mix packed with chopped beakseed. Proven and just needs baking.",
   "shortdescription" : "Beakseed Bread Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["beakseedbread"]
+  "maxStack" : 1000
 }

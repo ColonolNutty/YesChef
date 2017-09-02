@@ -6,6 +6,5 @@
   "description" : "The fluffy, risen, base of a cake. Needs decorating.",
   "shortdescription" : "Unfinished Cake",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": [ "cake", "coffeecake" ]
+  "maxStack" : 1000
 }

@@ -1,8 +1,9 @@
 [
+  { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "bottledwater" } },
+  { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "breadandbirdCNYC" } },
   { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "campchopblock" } },
-  { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "campgrinder" } },
   { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "campfirecookpot" } },
-  { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "makeshiftbakingstationCNYC" } },
+  { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "campgrinder" } },
   { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ice" } },
-  { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "bottledwater" } }
+  { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "makeshiftbakingstationCNYC" } }
 ]

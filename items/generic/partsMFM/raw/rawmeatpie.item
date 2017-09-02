@@ -6,6 +6,5 @@
   "description" : "Needs baking!",
   "shortdescription" : "Raw Meatpie",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["meatpie"]
+  "maxStack" : 1000
 }

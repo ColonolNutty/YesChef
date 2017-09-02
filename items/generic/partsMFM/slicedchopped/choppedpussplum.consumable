@@ -14,10 +14,5 @@
   "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
-  ],
-  "learnBlueprintsOnPickup": ["pussplumpudding",
-                              "cyanidermix",
-                              "oculemonstewmix",
-                              "rawpussplumtart",
-                              "boiledpussplumCNYC"]
+  ]
 }

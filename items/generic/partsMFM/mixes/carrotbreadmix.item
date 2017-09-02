@@ -6,6 +6,5 @@
   "description" : "Breadloaf dough mix packed with chopped carrot. Proven and just needs baking.",
   "shortdescription" : "Carrot Bread Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["carrotbread"]
+  "maxStack" : 1000
 }

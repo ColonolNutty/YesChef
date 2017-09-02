@@ -6,6 +6,5 @@
   "description" : "Ground Coffeebeans. Ready for brewing.",
   "shortdescription" : "Ground Coffee",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["coffee"]
+  "maxStack" : 1000
 }

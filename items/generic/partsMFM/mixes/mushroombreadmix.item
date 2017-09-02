@@ -6,6 +6,5 @@
   "description" : "Breadloaf dough mix packed with chopped mushroom. Proven and just needs baking.",
   "shortdescription" : "Mushroom Bread Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["mushroombread"]
+  "maxStack" : 1000
 }

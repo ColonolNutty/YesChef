@@ -6,6 +6,5 @@
   "description" : "The fluffy, risen, base of a chocolate cake. Needs decorating.",
   "shortdescription" : "Unfinished Chocolate Cake",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": [ "chocolatecake" ]
+  "maxStack" : 1000
 }

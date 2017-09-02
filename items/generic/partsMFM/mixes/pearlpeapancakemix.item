@@ -6,6 +6,5 @@
   "inventoryIcon" : "pearlpeapancakemix.png",
   "description" : "A sweet thick batter mix for pancakes with added pearlpeas.",
   "shortdescription" : "Pearlpea Pancake Mix",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["pearlpeapancakes"]
+  "maxStack" : 1000
 }

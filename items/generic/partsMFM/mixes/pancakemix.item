@@ -6,6 +6,5 @@
   "inventoryIcon" : "pancakemix.png",
   "description" : "A sweet thick batter mix for pancakes.",
   "shortdescription" : "Pancake Mix",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["pancakes"]
+  "maxStack" : 1000
 }

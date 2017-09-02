@@ -6,6 +6,5 @@
   "description" : "Raw Bacon Strips drenched in syrup.",
   "shortdescription" : "Raw Basted Bacon",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["sweetmeat"]
+  "maxStack" : 1000
 }

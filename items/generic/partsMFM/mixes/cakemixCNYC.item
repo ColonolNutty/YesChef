@@ -6,10 +6,5 @@
   "description" : "Cake mix. Bake this or add more ingredients to it.",
   "shortdescription" : "Cake Mix",
   "category" : "cookingIngredient",
-  "maxStack" : 1000,
-  "learnBlueprintsOnPickup": ["unfinishedcakeCNYC",
-                              "rawapexfritter",
-                              "rawbatteredbanana",
-                              "rawspikycookies",
-                              "plaindoughnut" ]
+  "maxStack" : 1000
 }
