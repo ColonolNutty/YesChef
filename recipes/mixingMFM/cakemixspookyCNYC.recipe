@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "cakemixCNYC", "count" : 1 },
-    { "item" : "choppedboneboo", "count" : 1 }
+    { "item" : "choppedbonebooMFM", "count" : 1 }
   ],
   "output" : { "item" : "cakemixspookyCNYC", "count" : 1 },
   "groups" : [ "mixingMFM" ]

@@ -1,7 +1,7 @@
 {
   "id" : "wildernesscookingCNYC2.6.gearup",
   "title" : "^green;The Start of Something Delicious - II Part 6^white;",
-  "text" : "The guide recommends that I place the ^green;Meat^white; and the ^green;Produce^white; into the ^cyan;Chopping Appliance^white; I made ^red;one at a time^white;. According to the guide I should end up with ^blue;2^white; ^green;portions Raw Strip of Poultry^white;, ^blue;2^white; ^green;portions of Raw Strip of Alien Meat^white;, ^blue;1^white; ^green;portion of Sliced Tomato^white;, and ^blue;1^white; ^green;portion of Sliced Potato^white; after I'm done.",
+  "text" : "The guide recommends that I place the ^green;Meat^white; and the ^green;Produce^white; into the ^cyan;Chopping Appliance^white; I made ^red;one at a time^white;. According to the guide I should end up with ^blue;2^white; ^green;portions Raw Strip of Poultry^white;, ^blue;2^white; ^green;portions of Raw Strip of Alien Meat^white;, ^blue;1^white; ^green;portion of Chopped Tomato^white;, and ^blue;1^white; ^green;portion of Chopped Potato^white; after I'm done.",
   "completionText" : "Now that I've chopped up the ingredients, I wonder what comes next.",
   "speaker" : "player",
   "moneyRange" : [10, 10],
@@ -20,26 +20,26 @@
 	"conditions" : [
 		{
 			"type" : "gatherItem",
-			"itemName" : "slicedtomatoCNYC",
+			"itemName" : "choppedtomatoMFM",
 			"count" : 1,
 			"consume" : false
 		},
 		{
 			"type" : "gatherItem",
-			"itemName" : "slicedpotatoCNYC",
+			"itemName" : "choppedpotatoMFM",
 			"count" : 1,
 			"consume" : false
 		},
 		{
 			"type" : "gatherItem",
-			"itemName" : "rawstripofpoultryCNYC",
-			"count" : 4,
+			"itemName" : "rawstripofpoultryMFM",
+			"count" : 2,
 			"consume" : false
 		},
 		{
 			"type" : "gatherItem",
-			"itemName" : "rawstripofalienmeatCNYC",
-			"count" : 4,
+			"itemName" : "rawstripofalienmeatMFM",
+			"count" : 2,
 			"consume" : false
 		}
 	]

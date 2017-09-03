@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "flourMFM", "count" : 5 },
-    { "item" : "choppedbeakseed", "count" : 5 },
+    { "item" : "choppedbeakseedMFM", "count" : 5 },
     { "item" : "saltMFM", "count" : 1 },
     { "item" : "sugar", "count" : 2 },
     { "item" : "yeastMFM", "count" : 1 },

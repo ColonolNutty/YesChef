@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "eggshoot", "count" : 1 }
-  ],
-  "output" : { "item" : "choppedeggshoot", "count" : 1 },
-  "groups" : [ "choppingMFM" ]
-}

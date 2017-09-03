@@ -3,8 +3,8 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "plainspookydoughnut", "count" : 1 },
-      { "item" : "creamfillingspooky", "count" : 1 }
+      { "item" : "donutplainspookyCNYC", "count" : 1 },
+      { "item" : "creamfillingspookyMFM", "count" : 1 }
 		]
 	},
 	{

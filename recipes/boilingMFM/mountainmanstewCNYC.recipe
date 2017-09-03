@@ -2,10 +2,10 @@
   "input" : [
     { "item" : "bread", "count" : 1 },
     { "item" : "plantfibre", "count" : 5 },
-    { "item" : "rawstripofpoultryCNYC", "count" : 2 },
-    { "item" : "rawstripofalienmeatCNYC", "count" : 2 },
-    { "item" : "slicedtomatoCNYC", "count" : 1 },
-    { "item" : "slicedpotatoCNYC", "count" : 1 },
+    { "item" : "rawstripofpoultryMFM", "count" : 2 },
+    { "item" : "rawstripofalienmeatMFM", "count" : 2 },
+    { "item" : "choppedtomatoMFM", "count" : 1 },
+    { "item" : "choppedpotatoMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "mountainmanstewCNYC", "count" : 1 },

@@ -3,8 +3,8 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-			{ "item" : "plainchocolatedoughnut", "count" : 1 },
-			{ "item" : "creamfillingcoconut", "count" : 1 }
+			{ "item" : "donutplainchocolateCNYC", "count" : 1 },
+			{ "item" : "creamfillingcoconutMFM", "count" : 1 }
 		]
 	},
 	{

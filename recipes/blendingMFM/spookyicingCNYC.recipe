@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "choppedboneboo", "count" : 1 },
-    { "item" : "vanillaextractMFM", "count" : 1 }
-  ],
-  "output" : { "item" : "spookyicingCNYC", "count" : 1 },
-  "groups" : [ "blendingMFM" ]
-}

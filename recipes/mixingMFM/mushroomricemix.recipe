@@ -2,9 +2,9 @@
   "input" : [
     { "item" : "boiledrice", "count" : 1 },
     { "item" : "egg", "count" : 1 },
-    { "item" : "choppedmushroom", "count" : 2 },
-    { "item" : "choppedgreenbellpepper", "count" : 1 },
-    { "item" : "choppedredbellpepper", "count" : 1 },
+    { "item" : "choppedmushroomMFM", "count" : 2 },
+    { "item" : "choppedbellpeppergreenMFM", "count" : 1 },
+    { "item" : "choppedbellpepperredMFM", "count" : 1 },
     { "item" : "saltMFM", "count" : 1 }
   ],
   "output" : { "item" : "mushroomricemix", "count" : 1 },

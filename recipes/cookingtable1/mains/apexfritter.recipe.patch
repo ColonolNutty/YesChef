@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "rawapexfritter", "count" : 1 },
+      { "item" : "rawapexfritterMFM", "count" : 1 },
       { "item" : "cookingoilMFM", "count" : 1 }
 		]
 	},

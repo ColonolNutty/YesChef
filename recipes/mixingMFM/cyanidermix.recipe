@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "choppedoculemon", "count" : 3 },
-    { "item" : "choppedpussplum", "count" : 3 },
+    { "item" : "choppedoculemonMFM", "count" : 3 },
+    { "item" : "choppedpussplumMFM", "count" : 3 },
     { "item" : "sugar", "count" : 4 }
   ],
   "output" : { "item" : "cyanidermix", "count" : 1 },

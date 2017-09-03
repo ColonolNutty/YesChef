@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "pressedalienfruit", "count" : 3 },
+    { "item" : "pressedalienfruitMFM", "count" : 3 },
     { "item" : "sugar", "count" : 4 }
   ],
   "output" : { "item" : "alienfruitjammix", "count" : 1 },

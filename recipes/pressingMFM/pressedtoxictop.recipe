@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "toxictop", "count" : 1 }
-  ],
-  "output" : { "item" : "pressedtoxictop", "count" : 1 },
-  "groups" : [ "pressingMFM" ]
-}

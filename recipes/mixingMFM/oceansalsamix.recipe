@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "choppedreefpod", "count" : 1 },
-    { "item" : "choppedpineapple", "count" : 1 },
-    { "item" : "choppedcoralcreep", "count" : 1 },
-    { "item" : "choppedbanana", "count" : 1 },
-    { "item" : "choppedchili", "count" : 1 }
+    { "item" : "choppedreefpodMFM", "count" : 1 },
+    { "item" : "choppedpineappleMFM", "count" : 1 },
+    { "item" : "choppedcoralcreepMFM", "count" : 1 },
+    { "item" : "choppedbananaMFM", "count" : 1 },
+    { "item" : "choppedchiliMFM", "count" : 1 }
   ],
   "output" : { "item" : "oceansalsamix", "count" : 1 },
   "groups" : [ "mixingMFM" ]

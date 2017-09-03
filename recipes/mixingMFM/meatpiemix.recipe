@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "choppedcarrot", "count" : 2 },
+    { "item" : "choppedcarrotMFM", "count" : 2 },
     { "item" : "peaMFM", "count" : 2 },
-    { "item" : "rawstripofalienmeatCNYC", "count" : 2 },
+    { "item" : "rawstripofalienmeatMFM", "count" : 2 },
     { "item" : "flourMFM", "count" : 1 },
-    { "item" : "choppedonionCNYC", "count" : 1 }
+    { "item" : "choppedonionMFM", "count" : 1 }
   ],
   "output" : { "item" : "meatpiemix", "count" : 1 },
   "groups" : [ "mixingMFM" ]

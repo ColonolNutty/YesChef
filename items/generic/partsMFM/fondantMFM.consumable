@@ -1,0 +1,18 @@
+{
+  "itemName" : "fondantMFM",
+  "rarity" : "Common",
+  "price" : 133.86,
+  "category" : "cookingIngredient",
+  "inventoryIcon" : "fondantMFM.png",
+  "description" : "A blended mixture used in making confectionaries",
+  "shortdescription" : "Part - Fondant",
+  "foodValue" : 5.11,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

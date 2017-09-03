@@ -3,9 +3,9 @@
     "op": "replace",
     "path": "/input",
     "value": [
-      { "item" : "choppedpineapple", "count" : 1 },
-      { "item" : "choppedkiwi", "count" : 1 },
-      { "item" : "choppedgrapes", "count" : 1 },
+      { "item" : "choppedpineappleMFM", "count" : 1 },
+      { "item" : "choppedkiwiMFM", "count" : 1 },
+      { "item" : "choppedgrapesMFM", "count" : 1 },
       { "item" : "liquidwater", "count" : 2 }
     ]
   },

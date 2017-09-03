@@ -1,9 +1,9 @@
 {
   "input" : [
     { "item" : "flourMFM", "count" : 1 },
-    { "item" : "choppedrawfish", "count" : 2 },
+    { "item" : "rawstripoffishMFM", "count" : 2 },
     { "item" : "pearlpea", "count" : 4 },
-    { "item" : "choppedcorn", "count" : 1 }
+    { "item" : "choppedcornMFM", "count" : 1 }
   ],
   "output" : { "item" : "fishstewmix", "count" : 1 },
   "groups" : [ "mixingMFM" ]

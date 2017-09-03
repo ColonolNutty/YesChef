@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedbanana", "count" : 1 },
+    { "item" : "choppedbananaMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledbananaCNYC", "count" : 1 },

@@ -2,9 +2,9 @@
   "input" : [
     { "item" : "flourMFM", "count" : 1 },
     { "item" : "pearlpea", "count" : 4 },
-    { "item" : "choppedbeakseed", "count" : 1 },
-    { "item" : "breadcrumbs", "count" : 1 },
-    { "item" : "slicedtomatoCNYC", "count" : 1 }
+    { "item" : "choppedbeakseedMFM", "count" : 1 },
+    { "item" : "breadcrumbsMFM", "count" : 1 },
+    { "item" : "choppedtomatoMFM", "count" : 1 }
   ],
   "output" : { "item" : "pearlpeabrothmix", "count" : 1 },
   "groups" : [ "mixingMFM" ]

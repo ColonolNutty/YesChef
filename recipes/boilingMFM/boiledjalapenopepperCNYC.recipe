@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedjalapenopepper", "count" : 1 },
+    { "item" : "choppedjalapenopepperMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledjalapenopepperCNYC", "count" : 1 },

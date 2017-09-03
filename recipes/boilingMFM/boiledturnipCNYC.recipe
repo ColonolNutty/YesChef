@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedturnip", "count" : 1 },
+    { "item" : "choppedturnipMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledturnipCNYC", "count" : 1 },

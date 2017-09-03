@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "choppedreefpod", "count" : 3 },
-    { "item" : "choppedoculemon", "count" : 3 }
+    { "item" : "choppedreefpodMFM", "count" : 3 },
+    { "item" : "choppedoculemonMFM", "count" : 3 }
   ],
   "output" : { "item" : "reefpodsurprisemix", "count" : 1 },
   "groups" : [ "mixingMFM" ]

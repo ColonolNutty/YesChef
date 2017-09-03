@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedcurrentcorn", "count" : 1 },
+    { "item" : "choppedcurrentcornMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledcurrentcornCNYC", "count" : 1 },

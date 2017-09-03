@@ -4,6 +4,9 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "batteredfish" },
   { "op": "add", "path": "/possibleOutput/-", "value": "chips" },
   { "op": "add", "path": "/possibleOutput/-", "value": "cookedmeatpatty" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "donutplainCNYC" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "donutplainchocolateCNYC" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "donutplainspookyCNYC" },
   { "op": "add", "path": "/possibleOutput/-", "value": "fishfingers" },
   { "op": "add", "path": "/possibleOutput/-", "value": "fluffyruffs" },
   { "op": "add", "path": "/possibleOutput/-", "value": "freshpopcorn" },
@@ -11,8 +14,5 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "omelette" },
   { "op": "add", "path": "/possibleOutput/-", "value": "pancakes" },
   { "op": "add", "path": "/possibleOutput/-", "value": "pearlpeapancakes" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "plainchocolatedoughnut" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "plaindoughnut" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "plainspookydoughnut" },
   { "op": "add", "path": "/possibleOutput/-", "value": "potatogrids" }
 ]

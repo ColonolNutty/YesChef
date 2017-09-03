@@ -1,4 +1,4 @@
 [
-  { "op": "add", "path": "/possibleOutput/-", "value": "groundcoffee" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "sweetcrumbtopping" }
+  { "op": "add", "path": "/possibleOutput/-", "value": "groundcoffeeMFM" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "toppingsweetcrumbMFM" }
 ]

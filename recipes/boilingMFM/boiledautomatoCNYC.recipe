@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedautomato", "count" : 1 },
+    { "item" : "choppedautomatoMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledautomatoCNYC", "count" : 1 },

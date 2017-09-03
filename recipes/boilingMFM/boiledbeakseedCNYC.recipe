@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedbeakseed", "count" : 1 },
+    { "item" : "choppedbeakseedMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledbeakseedCNYC", "count" : 1 },

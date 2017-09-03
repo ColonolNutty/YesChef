@@ -1,11 +1,11 @@
 {
   "input" : [
     { "item" : "flourMFM", "count" : 1 },
-    { "item" : "rawstripofalienmeatCNYC", "count" : 2 },
-    { "item" : "slicedpotatoCNYC", "count" : 1 },
-    { "item" : "choppedcarrot", "count" : 1 },
-    { "item" : "slicedtomatoCNYC", "count" : 1 },
-    { "item" : "choppedonionCNYC", "count" : 1 }
+    { "item" : "rawstripofalienmeatMFM", "count" : 2 },
+    { "item" : "choppedpotatoMFM", "count" : 1 },
+    { "item" : "choppedcarrotMFM", "count" : 1 },
+    { "item" : "choppedtomatoMFM", "count" : 1 },
+    { "item" : "choppedonionMFM", "count" : 1 }
   ],
   "output" : { "item" : "meatstewmix", "count" : 1 },
   "groups" : [ "mixingMFM" ]

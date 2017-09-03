@@ -3,11 +3,11 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "slicedtomatoCNYC", "count" : 1 },
+      { "item" : "choppedtomatoMFM", "count" : 1 },
       { "item" : "slicedcucumberMFM", "count" : 1 },
-      { "item" : "choppedcarrot", "count" : 1 },
-      { "item" : "choppedlettuce", "count" : 1 },
-      { "item" : "choppedonionCNYC", "count" : 1 },
+      { "item" : "choppedcarrotMFM", "count" : 1 },
+      { "item" : "choppedlettuceMFM", "count" : 1 },
+      { "item" : "choppedonionMFM", "count" : 1 },
       { "item" : "vinegarMSM", "count" : 1 },
       { "item" : "cookingoilMFM", "count" : 1 }
 		]

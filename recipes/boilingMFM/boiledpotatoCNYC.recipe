@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "slicedpotatoCNYC", "count" : 1 },
+    { "item" : "choppedpotatoMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledpotatoCNYC", "count" : 1 },

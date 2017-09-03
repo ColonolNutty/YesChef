@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedparsnip", "count" : 1 },
+    { "item" : "choppedparsnipMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledparsnipCNYC", "count" : 1 },

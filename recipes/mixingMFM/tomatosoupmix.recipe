@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "slicedtomatoCNYC", "count" : 4 },
-    { "item" : "choppedonionCNYC", "count" : 1 },
-    { "item" : "choppedgarlic", "count" : 1 },
+    { "item" : "choppedtomatoMFM", "count" : 4 },
+    { "item" : "choppedonionMFM", "count" : 1 },
+    { "item" : "choppedgarlicMFM", "count" : 1 },
     { "item" : "saltMFM", "count" : 1 }
   ],
   "output" : { "item" : "tomatosoupmix", "count" : 1 },

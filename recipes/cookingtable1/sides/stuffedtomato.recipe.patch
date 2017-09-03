@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "rawstuffedtomato", "count" : 1 }
+      { "item" : "rawstuffedtomatoMFM", "count" : 1 }
 		]
 	},
 	{

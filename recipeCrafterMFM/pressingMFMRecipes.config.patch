@@ -1,9 +1,9 @@
 [
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedalienfruit" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedbeakseed" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedfeathercrown" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedkiwi" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedpearlpea" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedpineapple" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedtoxictop" }
+  { "op": "add", "path": "/possibleOutput/-", "value": "pressedalienfruitMFM" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "pressedbeakseedMFM" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "pressedfeathercrownMFM" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "pressedkiwiMFM" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "pressedpearlpeaMFM" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "pressedpineappleMFM" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "pressedtoxictopMFM" }
 ]

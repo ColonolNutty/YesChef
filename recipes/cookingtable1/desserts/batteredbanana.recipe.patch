@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-			{ "item" : "rawbatteredbanana", "count" : 1 },
+			{ "item" : "unfinishedbatteredbananaMFM", "count" : 1 },
 			{ "item" : "cookingoilMFM", "count" : 1 }
 		]
 	},

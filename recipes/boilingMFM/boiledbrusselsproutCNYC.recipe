@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedbrusselsprout", "count" : 1 },
+    { "item" : "choppedbrusselsproutMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledbrusselsproutCNYC", "count" : 1 },

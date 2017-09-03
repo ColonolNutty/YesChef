@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedyellowbellpepper", "count" : 1 },
+    { "item" : "choppedbellpepperyellowMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledyellowbellpepperCNYC", "count" : 1 },

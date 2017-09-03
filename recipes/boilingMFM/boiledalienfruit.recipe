@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedalienfruit", "count" : 1 },
+    { "item" : "choppedalienfruitMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledalienfruit", "count" : 1 },

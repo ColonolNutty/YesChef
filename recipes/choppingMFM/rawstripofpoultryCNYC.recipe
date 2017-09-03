@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "rawpoultry", "count" : 1 }
-  ],
-  "output" : { "item" : "rawstripofpoultryCNYC", "count" : 2 },
-  "groups" : [ "choppingMFM" ]
-}

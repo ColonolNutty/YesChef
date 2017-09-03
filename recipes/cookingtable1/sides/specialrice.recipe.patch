@@ -5,9 +5,9 @@
 		"value": [
 			{ "item" : "boiledrice", "count" : 1 },
 			{ "item" : "boiledpearlpeas", "count" : 1 },
-			{ "item" : "choppedegg", "count" : 1 },
-			{ "item" : "choppedcorn", "count" : 1 },
-			{ "item" : "choppedchili", "count" : 1 }
+			{ "item" : "choppedeggMFM", "count" : 1 },
+			{ "item" : "choppedcornMFM", "count" : 1 },
+			{ "item" : "choppedchiliMFM", "count" : 1 }
 		]
 	},
 	{

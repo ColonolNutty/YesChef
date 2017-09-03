@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "cookiedoughMFM", "count" : 1 },
-    { "item" : "cactusjuice", "count" : 1 }
-  ],
-  "output" : { "item" : "rawspikycookies", "count" : 1 },
-  "groups" : [ "preparingMFM" ]
-}

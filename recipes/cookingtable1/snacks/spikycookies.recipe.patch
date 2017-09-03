@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "rawspikycookies", "count" : 1 }
+      { "item" : "unfinishedcookiesspikyMFM", "count" : 1 }
 		]
 	},
 	{

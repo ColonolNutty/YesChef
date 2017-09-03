@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "pressedpineapple", "count" : 3 },
+    { "item" : "pressedpineappleMFM", "count" : 3 },
     { "item" : "sugar", "count" : 4 }
   ],
   "output" : { "item" : "pineapplejammix", "count" : 1 },

@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "alienmeat", "count" : 1 }
-  ],
-  "output" : { "item" : "rawstripofalienmeatCNYC", "count" : 2 },
-  "groups" : [ "choppingMFM" ]
-}

@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "rawseafoodgratin", "count" : 1 }
+      { "item" : "unfinishedgratinseafoodMFM", "count" : 1 }
 		]
 	},
   {

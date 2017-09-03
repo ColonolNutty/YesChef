@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "shortcrustpastry", "count" : 1 },
-    { "item" : "toxictopjam", "count" : 1 },
-    { "item" : "choppedalienfruit", "count" : 1 }
-  ],
-  "output" : { "item" : "rawtoxictart", "count" : 1 },
-  "groups" : [ "preparingMFM" ]
-}

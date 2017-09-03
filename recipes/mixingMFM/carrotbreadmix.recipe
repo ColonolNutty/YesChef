@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "flourMFM", "count" : 5 },
-    { "item" : "choppedcarrot", "count" : 5 },
+    { "item" : "choppedcarrotMFM", "count" : 5 },
     { "item" : "egg", "count" : 1 },
     { "item" : "groundcinnamonMFM", "count" : 1 },
     { "item" : "saltMFM", "count" : 1 },

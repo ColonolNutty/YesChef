@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "rawmeatpatty", "count" : 1 },
+    { "item" : "rawmeatpattyMFM", "count" : 1 },
     { "item" : "cookingoilMFM", "count" : 1 }
   ],
   "output" : { "item" : "cookedmeatpatty", "count" : 1 },

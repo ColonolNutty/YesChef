@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "simplebatter", "count" : 1 },
-    { "item" : "banana", "count" : 1 }
-  ],
-  "output" : { "item" : "rawbatteredbanana", "count" : 1 },
-  "groups" : [ "preparingMFM" ]
-}

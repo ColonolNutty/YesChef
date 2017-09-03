@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedpineapple", "count" : 1 },
+    { "item" : "choppedpineappleMFM", "count" : 1 },
     { "item" : "liquidwater", "count" : 2 }
   ],
   "output" : { "item" : "boiledpineappleCNYC", "count" : 1 },

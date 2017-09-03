@@ -2,9 +2,9 @@
   "input" : [
     { "item" : "cheese", "count" : 1 },
     { "item" : "butterMFM", "count" : 2 },
-    { "item" : "choppedrawfish", "count" : 2 },
+    { "item" : "rawstripoffishMFM", "count" : 2 },
     { "item" : "flourMFM", "count" : 2 },
-    { "item" : "choppedonionCNYC", "count" : 1 }
+    { "item" : "choppedonionMFM", "count" : 1 }
   ],
   "output" : { "item" : "fishpiemix", "count" : 1 },
   "groups" : [ "mixingMFM" ]

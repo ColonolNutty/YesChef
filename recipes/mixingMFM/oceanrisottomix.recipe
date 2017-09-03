@@ -1,10 +1,10 @@
 {
   "input" : [
     { "item" : "rice", "count" : 4 },
-    { "item" : "choppedreefpod", "count" : 2 },
-    { "item" : "choppedrawfish", "count" : 2 },
-    { "item" : "choppedcoralcreep", "count" : 1 },
-    { "item" : "choppedonionCNYC", "count" : 2 },
+    { "item" : "choppedreefpodMFM", "count" : 2 },
+    { "item" : "rawstripoffishMFM", "count" : 2 },
+    { "item" : "choppedcoralcreepMFM", "count" : 1 },
+    { "item" : "choppedonionMFM", "count" : 2 },
     { "item" : "butterMFM", "count" : 1 }
   ],
   "output" : { "item" : "oceanrisottomix", "count" : 1 },

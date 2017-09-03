@@ -4,8 +4,8 @@
 		"path": "/input",
 		"value": [
 			{ "item" : "kelp", "count" : 1 },
-			{ "item" : "choppedreefpod", "count" : 1 },
-			{ "item" : "choppedrawfish", "count" : 1 },
+			{ "item" : "choppedreefpodMFM", "count" : 1 },
+			{ "item" : "rawstripoffishMFM", "count" : 1 },
 			{ "item" : "endomorphicjelly", "count" : 1 }
 		]
 	},

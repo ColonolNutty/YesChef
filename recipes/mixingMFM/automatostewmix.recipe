@@ -1,9 +1,9 @@
 {
   "input" : [
     { "item" : "flourMFM", "count" : 1 },
-    { "item" : "choppedcurrentcorn", "count" : 1 },
-    { "item" : "choppedautomato", "count" : 1 },
-    { "item" : "choppeddiodia", "count" : 1 }
+    { "item" : "choppedcurrentcornMFM", "count" : 1 },
+    { "item" : "choppedautomatoMFM", "count" : 1 },
+    { "item" : "choppeddiodiaMFM", "count" : 1 }
   ],
   "output" : { "item" : "automatostewmix", "count" : 1 },
   "groups" : [ "mixingMFM" ]

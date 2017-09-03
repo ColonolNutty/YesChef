@@ -2,6 +2,7 @@
   "input" : [
     { "item" : "rice", "count" : 4 },
     { "item" : "pearlpea", "count" : 1 },
+    { "item" : "choppedonionMFM", "count" : 1 },
     { "item" : "butterMFM", "count" : 1 }
   ],
   "output" : { "item" : "pearlpearisottomixCNYC", "count" : 1 },

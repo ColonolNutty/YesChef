@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-			{ "item" : "fondant", "count" : 1 }
+			{ "item" : "fondantMFM", "count" : 1 }
 		]
 	},
 	{

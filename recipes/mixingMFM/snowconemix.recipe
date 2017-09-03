@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "choppedstrawberry", "count" : 2 },
+    { "item" : "choppedstrawberryMFM", "count" : 2 },
     { "item" : "limejuiceMFM", "count" : 1 },
     { "item" : "lemonjuiceMFM", "count" : 1 },
     { "item" : "sugar", "count" : 4 }
