@@ -3,7 +3,9 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "cactiicecreammix", "count" : 1 }
+      { "item" : "cactusjuice", "count" : 1 },
+      { "item" : "creamMFM", "count" : 2 },
+      { "item" : "sugar", "count" : 4 }
 		]
 	},
 	{

@@ -3,7 +3,12 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "oceanrisottomix", "count" : 1 },
+      { "item" : "rice", "count" : 4 },
+      { "item" : "choppedreefpodMFM", "count" : 2 },
+      { "item" : "rawstripoffishMFM", "count" : 2 },
+      { "item" : "choppedcoralcreepMFM", "count" : 1 },
+      { "item" : "choppedonionMFM", "count" : 2 },
+      { "item" : "butterMFM", "count" : 1 },
       { "item" : "stockvegetableMFM", "count" : 1 }
 		]
 	},

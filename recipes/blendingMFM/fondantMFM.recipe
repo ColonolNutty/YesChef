@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "boiledfondantmix", "count" : 1 },
-    { "item" : "butterMFM", "count" : 1 }
+    { "item" : "mixfondantMFM", "count" : 1 },
+    { "item" : "sugar", "count" : 4 }
   ],
   "output" : { "item" : "fondantMFM", "count" : 1 },
   "groups" : [ "blendingMFM" ]

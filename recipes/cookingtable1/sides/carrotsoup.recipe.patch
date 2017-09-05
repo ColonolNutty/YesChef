@@ -3,7 +3,11 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "simmeredcarrotsoupmix", "count" : 1 },
+      { "item" : "choppedcarrotMFM", "count" : 4 },
+      { "item" : "choppedonionMFM", "count" : 1 },
+      { "item" : "choppedgarlicMFM", "count" : 1 },
+      { "item" : "stockvegetableMFM", "count" : 1 },
+      { "item" : "saltMFM", "count" : 1 },
       { "item" : "creamMFM", "count" : 1 }
 		]
 	},

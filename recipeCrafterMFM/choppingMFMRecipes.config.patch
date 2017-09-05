@@ -1,6 +1,6 @@
 [
   { "op": "add", "path": "/possibleOutput/-", "value": "breadcrumbsMFM" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "breadslice" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "breadsliceMFM" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedalienfruitMFM" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedartichokeMFM" },
   { "op": "add", "path": "/possibleOutput/-", "value": "choppedasparagusMFM" },

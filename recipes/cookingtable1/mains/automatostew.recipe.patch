@@ -3,7 +3,10 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "automatostewmix", "count" : 1 },
+      { "item" : "flourMFM", "count" : 1 },
+      { "item" : "choppedcurrentcornMFM", "count" : 1 },
+      { "item" : "choppedautomatoMFM", "count" : 1 },
+      { "item" : "choppeddiodiaMFM", "count" : 1 },
       { "item" : "stockvegetableMFM", "count" : 1 }
 		]
 	},

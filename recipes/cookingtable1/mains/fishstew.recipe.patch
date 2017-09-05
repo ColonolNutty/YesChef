@@ -3,7 +3,10 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "fishstewmix", "count" : 1 },
+      { "item" : "flourMFM", "count" : 1 },
+      { "item" : "rawstripoffishMFM", "count" : 2 },
+      { "item" : "pearlpea", "count" : 4 },
+      { "item" : "choppedcornMFM", "count" : 1 },
       { "item" : "milk", "count" : 2 }
 		]
 	},

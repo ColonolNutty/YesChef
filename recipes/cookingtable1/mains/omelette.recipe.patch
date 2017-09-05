@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "omelettemixCNYC", "count" : 1 },
+      { "item" : "mixomelettebachmuMFM", "count" : 1 },
       { "item" : "cookingoilMFM", "count" : 1 }
 		]
 	},

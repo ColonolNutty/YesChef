@@ -3,7 +3,9 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "coconuticecreammix", "count" : 1 }
+      { "item" : "creamMFM", "count" : 2 },
+      { "item" : "sugar", "count" : 4 },
+      { "item" : "liquidmilk", "count" : 2 }
 		]
 	},
 	{

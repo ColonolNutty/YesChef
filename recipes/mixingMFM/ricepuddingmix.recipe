@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "rice", "count" : 6 },
-    { "item" : "sugar", "count" : 2 }
-  ],
-  "output" : { "item" : "ricepuddingmix", "count" : 1 },
-  "groups" : [ "mixingMFM" ]
-}

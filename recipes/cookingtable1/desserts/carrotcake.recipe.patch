@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-			{ "item" : "unfinishedcakecarrotCNYC", "count" : 1 },
+			{ "item" : "unfinishedcakecarrotMFM", "count" : 1 },
 			{ "item" : "vanillaicingMFM", "count" : 1 },
 			{ "item" : "fondantMFM", "count" : 1 }
 		]

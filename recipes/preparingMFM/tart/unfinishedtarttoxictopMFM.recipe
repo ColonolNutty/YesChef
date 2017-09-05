@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "shortcrustpastry", "count" : 1 },
+    { "item" : "shortcrustpastryMFM", "count" : 1 },
     { "item" : "toxictopjam", "count" : 1 },
     { "item" : "choppedalienfruitMFM", "count" : 1 }
   ],

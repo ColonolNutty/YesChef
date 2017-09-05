@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "shortcrustpastry", "count" : 1 },
+    { "item" : "shortcrustpastryMFM", "count" : 1 },
     { "item" : "creamfillingoculemonMFM", "count" : 1 },
     { "item" : "toppingwhippedcreamMFM", "count" : 1 }
   ],

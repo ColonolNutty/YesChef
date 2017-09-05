@@ -3,7 +3,10 @@
     "op": "replace",
     "path": "/input",
     "value": [
-      { "item" : "relishmix", "count" : 1 },
+      { "item" : "choppedtomatoMFM", "count" : 1 },
+      { "item" : "choppedcornMFM", "count" : 1 },
+      { "item" : "slicedcucumberMFM", "count" : 1 },
+      { "item" : "choppedjalapenopepperMFM", "count" : 1 },
       { "item" : "vinegarMSM", "count" : 1 }
     ]
   },

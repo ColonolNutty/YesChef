@@ -5,10 +5,10 @@
 		"value": [
 			{ "item" : "boiledpearlpeas", "count" : 1 },
 			{ "item" : "mashedpotato", "count" : 1 },
-			{ "item" : "roastedstripofpoultryCNYC", "count" : 1 },
-			{ "item" : "boiledcarrot", "count" : 1 },
-			{ "item" : "boiledbroccoli", "count" : 1 },
-			{ "item" : "boiledcauliflower", "count" : 1 }
+			{ "item" : "roastedstripofpoultryMFM", "count" : 1 },
+			{ "item" : "boiledcarrotMFM", "count" : 1 },
+			{ "item" : "boiledbroccoliMFM", "count" : 1 },
+			{ "item" : "boiledcauliflowerMFM", "count" : 1 }
 		]
 	},
 	{

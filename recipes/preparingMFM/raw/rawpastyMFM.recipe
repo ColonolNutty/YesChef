@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "shortcrustpastry", "count" : 1 },
+    { "item" : "shortcrustpastryMFM", "count" : 1 },
     { "item" : "rawstripofalienmeatMFM", "count" : 3 },
     { "item" : "choppedcarrotMFM", "count" : 1 },
     { "item" : "choppedpotatoMFM", "count" : 1 },

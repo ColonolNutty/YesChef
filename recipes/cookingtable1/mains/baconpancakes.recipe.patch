@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-			{ "item" : "pancakemix", "count" : 1 },
+			{ "item" : "mixpancakeplainMFM", "count" : 1 },
 			{ "item" : "cookedbacon", "count" : 2 }
 		]
 	},

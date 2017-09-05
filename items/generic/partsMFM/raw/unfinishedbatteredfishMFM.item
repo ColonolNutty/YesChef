@@ -5,6 +5,6 @@
   "category" : "cookingIngredient",
   "inventoryIcon" : "unfinishedbatteredfishMFM.png",
   "description" : "A raw fish fillet coated in a simple batter. Ready for frying.",
-  "shortdescription" : "Unfinished Battered Fish",
+  "shortdescription" : "Battered Fish",
   "maxStack" : 1000
 }

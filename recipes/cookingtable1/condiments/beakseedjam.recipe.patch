@@ -3,7 +3,8 @@
     "op": "replace",
     "path": "/input",
     "value": [
-      { "item" : "beakseedjammix", "count" : 1 },
+      { "item" : "pressedbeakseedMFM", "count" : 3 },
+      { "item" : "sugar", "count" : 4 },
       { "item" : "liquidwater", "count" : 2 }
     ]
   },

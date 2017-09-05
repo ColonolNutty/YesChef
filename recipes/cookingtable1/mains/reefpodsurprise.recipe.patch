@@ -3,7 +3,8 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "reefpodsurprisemix", "count" : 1 },
+      { "item" : "choppedreefpodMFM", "count" : 3 },
+      { "item" : "choppedoculemonMFM", "count" : 3 },
       { "item" : "liquidwater", "count" : 2 }
 		]
 	},

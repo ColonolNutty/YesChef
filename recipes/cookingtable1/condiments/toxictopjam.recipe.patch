@@ -3,8 +3,9 @@
     "op": "replace",
     "path": "/input",
     "value": [
-      { "item" : "toxictopjammix", "count" : 1 },
-      { "item" : "liquidwater", "count" : 1 }
+      { "item" : "pressedtoxictopMFM", "count" : 3 },
+      { "item" : "sugar", "count" : 4 },
+      { "item" : "liquidwater", "count" : 2 }
     ]
   },
   {

@@ -12,7 +12,6 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "fishinabone" },
   { "op": "add", "path": "/possibleOutput/-", "value": "featherfood" },
   { "op": "add", "path": "/possibleOutput/-", "value": "fishpie" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "freshpopcorn" },
   { "op": "add", "path": "/possibleOutput/-", "value": "meatpie" },
   { "op": "add", "path": "/possibleOutput/-", "value": "mushroombread" },
   { "op": "add", "path": "/possibleOutput/-", "value": "mushroomquiche" },
@@ -24,9 +23,8 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "quichelorraine" },
   { "op": "add", "path": "/possibleOutput/-", "value": "ricecake" },
   { "op": "add", "path": "/possibleOutput/-", "value": "ricepudding" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "roastedstripofpoultryCNYC" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "roastedstripofpoultryMFM" },
   { "op": "add", "path": "/possibleOutput/-", "value": "seafoodgratin" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "shortcrustpastry" },
   { "op": "add", "path": "/possibleOutput/-", "value": "spikycookies" },
   { "op": "add", "path": "/possibleOutput/-", "value": "spookypie" },
   { "op": "add", "path": "/possibleOutput/-", "value": "stickyribs" },
@@ -37,8 +35,8 @@
   { "op": "add", "path": "/possibleOutput/-", "value": "sweetpopcorn" },
   { "op": "add", "path": "/possibleOutput/-", "value": "toast" },
   { "op": "add", "path": "/possibleOutput/-", "value": "toxictart" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakeCNYC" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakechocolateCNYC" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakespookyCNYC" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakecarrotCNYC" }
+  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakecarrotMFM" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakechocolateMFM" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakeplainMFM" },
+  { "op": "add", "path": "/possibleOutput/-", "value": "unfinishedcakespookyMFM" }
 ]

@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "shortcrustpastry", "count" : 1 },
+    { "item" : "shortcrustpastryMFM", "count" : 1 },
     { "item" : "rawbacon", "count" : 2 },
     { "item" : "egg", "count" : 2 },
     { "item" : "cheese", "count" : 2 },

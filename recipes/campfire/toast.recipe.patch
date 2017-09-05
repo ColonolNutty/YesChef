@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "breadslice", "count" : 1 }
+      { "item" : "breadsliceMFM", "count" : 1 }
 		]
 	},
 	{

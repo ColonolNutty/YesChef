@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "shortcrustpastry", "count" : 1 },
+    { "item" : "shortcrustpastryMFM", "count" : 1 },
     { "item" : "beakseedjam", "count" : 1 }
   ],
   "output" : { "item" : "unfinishedtartbeakseedMFM", "count" : 1 },

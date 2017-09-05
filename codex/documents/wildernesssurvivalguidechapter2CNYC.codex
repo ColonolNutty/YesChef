@@ -1,14 +1,14 @@
 {
   "id" : "wildernesssurvivalguidechapter2CNYC",
   "title" : "^orange;Protectorate Camp Guide CH2^white;",
-  "description" : "Chapter II - A detailed guide on how to prepare and cook mountainman stew",
+  "description" : "Chapter II - A detailed guide on how to prepare and cook a stew for mountain men",
   "icon" : "survivalcodexCNYC.png",
   "contentPages" : [
 
 "^blue;Introduction:^white;
 So, you fancy yourself a wilderness survivalist? A culinary specialist? An iron chef? Whatever the case, you've a long road ahead of you. This guide will introduce you to a higher level of cooking.",
 
-"Detailed within this chapter is the process of making ^green;Mountainman Stew^white; from scratch, giving much needed experience in difference aspects of preparing a large meal,
+"Detailed within this chapter is the process of making ^green;Stew - Mountainman^white; from scratch, giving much needed experience in difference aspects of preparing a large meal,
 it will also assume Chapter 1 has been completed before hand. Chapter 1 can be found at an Infinity Express near you).",
 
 
@@ -16,8 +16,8 @@ it will also assume Chapter 1 has been completed before hand. Chapter 1 can be f
 This chapter will familiarize you with preparation techniques such as Chopping and Boiling,
 it will also reinforce Chapter 1 by using ^green;Bread^white;",
  
-"^blue;Mountainman Stew Recipe:^white; 
-The recipe for ^cyan;Mountainman Stew^white; is as follows:
+"^blue;Recipe:^white; 
+The recipe for ^cyan;Stew - Mountainman^white; is as follows:
 
 ^green;Bread^white; x1
 ^green;Plant Fibre^white; x5
@@ -65,10 +65,10 @@ At this point you should have:
 In order to make the stew, you will need something to boil the ingredients, the ^orange;Camp Fire Cookpot (Boil)^white; serves this purpose well. Any appliance that can ^cyan;Boil^white; will work. The ^orange;Camp Fire Cookpot (Boil)^white; can be put together by hand using ^green;Logs^white; and ^green;Copper Ore^white;",
 
 "^blue;Final Step:^white;
-Once the ^orange;Camp Fire Cookpot (Boil)^white; is placed, throw the ingredients acquired previously all at once into the pot and you will have cooked ^green;Mountainman Stew^white;",
+Once the ^orange;Camp Fire Cookpot (Boil)^white; is placed, throw the ingredients acquired previously all at once into the pot and you will have cooked ^green;Stew - Mountainman^white;",
 
 "^blue;More to come:^white;
-Now that you know how to make ^green;Mountainman Stew^white;, seek out other chapters for information on more advanced techniques, they will likely become available over time from your local ^orange;Terramart^white;."
+Now that you know how to make ^green;Stew - Mountainman^white;, seek out other chapters for information on more advanced techniques, they will likely become available over time from your local ^orange;Terramart^white;."
 
   ],
   "itemConfig" : {

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "pearlpea", "count" : 2 },
-    { "item" : "pancakemix", "count" : 1 }
-  ],
-  "output" : { "item" : "pearlpeapancakemix", "count" : 1 },
-  "groups" : [ "mixingMFM" ]
-}

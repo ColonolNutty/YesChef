@@ -3,7 +3,8 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "2kbpotagemix", "count" : 1 },
+      { "item" : "choppedcurrentcornMFM", "count" : 1 },
+      { "item" : "choppedautomatoMFM", "count" : 1 },
       { "item" : "liquidwater", "count" : 2 }
 		]
 	},

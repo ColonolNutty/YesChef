@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "slicedorangeMFM", "count" : 1 },
-    { "item" : "liquidwater", "count" : 2 }
-  ],
-  "output" : { "item" : "boiledorangeCNYC", "count" : 1 },
-  "groups" : [ "boilingMFM" ]
-}

@@ -3,8 +3,11 @@
 		"op": "replace",
 		"path": "/input",
 		"value": [
-      { "item" : "oculemonstewmix", "count" : 1 },
-      { "item" : "liquidwater", "count" : 1 }
+      { "item" : "flourMFM", "count" : 1 },
+      { "item" : "choppedpussplumMFM", "count" : 3 },
+      { "item" : "choppedoculemonMFM", "count" : 3 },
+      { "item" : "rawstripofalienmeatMFM", "count" : 2 },
+      { "item" : "liquidwater", "count" : 2 }
 		]
 	},
 	{

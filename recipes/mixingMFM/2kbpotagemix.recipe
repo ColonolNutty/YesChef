@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "choppedcurrentcornMFM", "count" : 1 },
-    { "item" : "choppedautomatoMFM", "count" : 1 }
-  ],
-  "output" : { "item" : "2kbpotagemix", "count" : 1 },
-  "groups" : [ "mixingMFM" ]
-}

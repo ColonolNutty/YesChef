@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "pressedtoxictopMFM", "count" : 3 },
-    { "item" : "sugar", "count" : 4 }
-  ],
-  "output" : { "item" : "toxictopjammix", "count" : 1 },
-  "groups" : [ "mixingMFM" ]
-}

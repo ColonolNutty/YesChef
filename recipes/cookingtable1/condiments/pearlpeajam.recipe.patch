@@ -3,7 +3,8 @@
     "op": "replace",
     "path": "/input",
     "value": [
-      { "item" : "pearlpeajammix", "count" : 1 },
+      { "item" : "pressedpearlpeaMFM", "count" : 3 },
+      { "item" : "sugar", "count" : 4 },
       { "item" : "liquidwater", "count" : 2 }
     ]
   },

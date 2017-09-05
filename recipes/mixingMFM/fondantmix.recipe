@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "goldensyrupMFM", "count" : 1 },
-    { "item" : "sugar", "count" : 1 },
-    { "item" : "liquidwater", "count" : 1 }
-  ],
-  "output" : { "item" : "fondantmix", "count" : 1 },
-  "groups" : [ "mixingMFM" ]
-}
