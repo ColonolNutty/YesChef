@@ -1,9 +1,0 @@
-[
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedalienfruitMFM" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedbeakseedMFM" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedfeathercrownMFM" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedkiwiMFM" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedpearlpeaMFM" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedpineappleMFM" },
-  { "op": "add", "path": "/possibleOutput/-", "value": "pressedtoxictopMFM" }
-]
