@@ -1,5 +1,0 @@
-[
-  { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "campchopblock" } },
-  { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "campfirecookpot" } },
-  { "op" : "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "campgrinder" } }
-]

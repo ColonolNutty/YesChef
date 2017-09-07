@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "ironbar", "count" : 5 },
-    { "item" : "copperbar", "count" : 1 }
-  ],
-  "output" : { "item" : "hylotlwaterstation", "count" : 1 },
-  "groups" : [ "cn_kitchencrafting", "craftingstations", "hylotlMFM", "watermachineMFM", "all" ]
-}
